@@ -30,10 +30,10 @@ function Header() {
                      <a href="#">Prep Module</a>
                      <ul className="sub-menu">
                         <li><a href="/prep-module">Premium Mentorship Program</a></li>
-                        <li><a href="/prep-module">Achiver's Mentorship Program </a></li>
-                        <li><a href="/prep-module">Masters's Mentorship Program </a></li>
-                        <li><a href="/prep-module">Short Mentorship Program </a></li>
-                        <li><a href="/prep-module">Test Series Mentorship Program</a></li>
+                        <li><a href="/achivers">Achiver's Mentorship Program </a></li>
+                        <li><a href="/master">Masters's Mentorship Program </a></li>
+                        <li><a href="/short">Short Mentorship Program </a></li>
+                        <li><a href="/testmod">Test Series Mentorship Program</a></li>
                      </ul>
                   </li>
                   <li className="menu-item-has-children">
@@ -105,10 +105,10 @@ function Header() {
                                        <a href="#">Prep Module</a>
                                        <ul className="sub-menu">
                                        <li><a href="/prep-module">Premium Mentorship Program</a></li>
-                                       <li><a href="/prep-module">Achiver's Mentorship Program </a></li>
-                                       <li><a href="/prep-module">Masters's Mentorship Program </a></li>
-                                       <li><a href="/prep-module">Short Mentorship Program </a></li>
-                                       <li><a href="/prep-module">Test Series Mentorship Program</a></li>
+                                       <li><a href="/achivers">Achiver's Mentorship Program </a></li>
+                                       <li><a href="/master">Masters's Mentorship Program </a></li>
+                                       <li><a href="/short">Short Mentorship Program </a></li>
+                                       <li><a href="/testmod">Test Series Mentorship Program</a></li>
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">

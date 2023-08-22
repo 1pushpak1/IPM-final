@@ -1,6 +1,6 @@
 import React from 'react'
 
-function PrepModule() {
+function Testmod() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -9,10 +9,10 @@ function PrepModule() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">Premium Mentorship Program</h1>
+               <h1 className="breadcumb-title">TestSeries Mentorship Program</h1>
                <ul className="breadcumb-menu">
                   <li><a href="index.html">Prep Module</a></li>
-                  <li>Premium mentorship program</li>
+                  <li>TestSeries Mentorship Program</li>
                </ul>
             </div>
          </div>
@@ -184,4 +184,4 @@ function PrepModule() {
   )
 }
 
-export default PrepModule
+export default Testmod
