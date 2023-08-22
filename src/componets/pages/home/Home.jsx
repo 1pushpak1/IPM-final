@@ -33,7 +33,7 @@ function Home() {
                      <div className="col-md-7">
                         <div className="checklist">
                            <ul>
-                              <li>Get access to 4,000+ of our top courses</li>
+                              <li>Get access to Prime Mentorship Programs</li>
                               <li>Popular topics to learn now</li>
                               <li>Find the right instructor for you</li>
                            </ul>
@@ -252,25 +252,25 @@ function Home() {
             <div className="row justify-content-between">
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">3.9</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Successfully</strong> Trained</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">15.8</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Classes</strong> Completed</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">97.5</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Satisfaction</strong> Rate</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">100.2</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Students</strong> Community</p>
                   </div>
                </div>

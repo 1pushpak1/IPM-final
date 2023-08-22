@@ -21,7 +21,7 @@ function Header() {
             <div className="th-mobile-menu">
                <ul>
                   <li className="menu-item-has-children">
-                     <a href="/">Home</a>
+                     <a href="#">Home</a>
                   </li>
                   <li className="menu-item-has-children">
                      <a href="/">About</a>
@@ -29,21 +29,22 @@ function Header() {
                   <li className="menu-item-has-children">
                      <a href="#">Prep Module</a>
                      <ul className="sub-menu">
-                        <li><a href="/prep-module">MentorShip Course</a></li>
-                        <li><a href="/prep-module">ClassRoom Course </a></li>
-                        <li><a href="/prep-module">Online Course </a></li>
-                        <li><a href="/prep-module">ShortTerm Course </a></li>
-                        <li><a href="/prep-module">Test Series </a></li>
+                        <li><a href="/prep-module">Premium Mentorship Program</a></li>
+                        <li><a href="/prep-module">Achiver's Mentorship Program </a></li>
+                        <li><a href="/prep-module">Masters's Mentorship Program </a></li>
+                        <li><a href="/prep-module">Short Mentorship Program </a></li>
+                        <li><a href="/prep-module">Test Series Mentorship Program</a></li>
                      </ul>
                   </li>
                   <li className="menu-item-has-children">
                      <a href="#">Exams</a>
                      <ul className="sub-menu">
-                        <li><a href="/exams">IIM Indore,IPM</a></li>
-                        <li><a href="/exams">IIM Rohtak,IPM </a></li>
-                        <li><a href="/exams">IIM Bodhgaya,IPM </a></li>
-                        <li><a href="/exams">IIM Ranchi,IPM </a></li>
-                        <li><a href="/exams">IIM Jaipur,IPM </a></li>
+                        <li><a href="/exams">IIM Indore</a></li>
+                        <li><a href="/exams">IIM Rohtak </a></li>
+                        <li><a href="/exams">IIM Bodhgaya </a></li>
+                        <li><a href="/exams">IIM Ranchi </a></li>
+                        <li><a href="/exams">IIM Jammu </a></li>
+                        <li><a href="/exams">IIM Nagpur </a></li>
                      </ul>
                   </li>
                   <li className="menu-item-has-children">
@@ -64,7 +65,7 @@ function Header() {
                      <div className="header-links">
                         <ul>
                            <li><i className="far fa-phone"></i><a href="tel:+11156456825">+91-000 0000 000</a></li>
-                           <li className="d-none d-xl-inline-block"><i className="far fa-envelope"></i><a href="mailto:info@Edura.com">info@ipmprime.com</a></li>
+                           <li className="d-none d-xl-inline-block"><i className="far fa-envelope"></i><a href="mailto:info@ipmprime.com">info@ipmprime.com</a></li>
                            <li><i className="far fa-clock"></i>Mon - Sat: 8:00 - 20:00</li>
                         </ul>
                      </div>
@@ -103,21 +104,22 @@ function Header() {
                                     <li className="menu-item-has-children">
                                        <a href="#">Prep Module</a>
                                        <ul className="sub-menu">
-                                          <li><a href="/prep-module">MentorShip Course</a></li>
-                                          <li><a href="/prep-module">ClassRoom Course </a></li>
-                                          <li><a href="/prep-module">Online Course </a></li>
-                                          <li><a href="/prep-module">ShortTerm Course </a></li>
-                                          <li><a href="/prep-module">Test Series </a></li>
+                                       <li><a href="/prep-module">Premium Mentorship Program</a></li>
+                                       <li><a href="/prep-module">Achiver's Mentorship Program </a></li>
+                                       <li><a href="/prep-module">Masters's Mentorship Program </a></li>
+                                       <li><a href="/prep-module">Short Mentorship Program </a></li>
+                                       <li><a href="/prep-module">Test Series Mentorship Program</a></li>
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">
                                        <a href="#">Exams</a>
                                        <ul className="sub-menu">
-                                          <li><a href="/exams">IIM Indore,IPM</a></li>
-                                          <li><a href="/exams">IIM Rohtak,IPM </a></li>
-                                          <li><a href="/exams">IIM Bodhgaya,IPM </a></li>
-                                          <li><a href="/exams">IIM Ranchi,IPM </a></li>
-                                          <li><a href="/exams">IIM Jaipur,IPM </a></li>
+                                       <li><a href="/exams">IIM Indore</a></li>
+                                       <li><a href="/exams">IIM Rohtak </a></li>
+                                       <li><a href="/exams">IIM Bodhgaya </a></li>
+                                       <li><a href="/exams">IIM Ranchi </a></li>
+                                       <li><a href="/exams">IIM Jammu </a></li>
+                                       <li><a href="/exams">IIM Nagpur </a></li>
                                        </ul>
                                     </li>
                                     <li>
@@ -132,7 +134,7 @@ function Header() {
                            </div>
                            <div className="col-auto d-none d-xl-block">
                               <div className="header-button">
-                                  <a href="#" className="th-btn ml-25">Student Zone <i className="fas fa-arrow-right ms-1"></i></a>
+                                  <a href="https://www.primeacademy.app/login" className="th-btn ml-25">Student Zone <i className="fas fa-arrow-right ms-1"></i></a>
                               </div>
                            </div>
                         </div>
