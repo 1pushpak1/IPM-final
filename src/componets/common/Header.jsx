@@ -21,11 +21,11 @@ function Header() {
             <div className="th-mobile-menu">
                <ul>
                   <li className="menu-item-has-children">
-                     <a href="#">Home</a>
+                     <a href="/">Home</a>
                   </li>
-                  <li className="menu-item-has-children">
+                  {/* <li className="menu-item-has-children">
                      <a href="/">About</a>
-                  </li>
+                  </li> */}
                   <li className="menu-item-has-children">
                      <a href="#">Prep Module</a>
                      <ul className="sub-menu">
@@ -40,16 +40,16 @@ function Header() {
                      <a href="#">Exams</a>
                      <ul className="sub-menu">
                         <li><a href="/exams">IIM Indore</a></li>
-                        <li><a href="/exams">IIM Rohtak </a></li>
-                        <li><a href="/exams">IIM Bodhgaya </a></li>
-                        <li><a href="/exams">IIM Ranchi </a></li>
-                        <li><a href="/exams">IIM Jammu </a></li>
-                        <li><a href="/exams">IIM Nagpur </a></li>
+                        <li><a href="/exams1">IIM Rohtak </a></li>
+                        <li><a href="/exams2">IIM Bodhgaya </a></li>
+                        <li><a href="/exams3">IIM Ranchi </a></li>
+                        <li><a href="/exams4">IIM Jammu </a></li>
+                        <li><a href="/exams5">IIM Nagpur </a></li>
                      </ul>
                   </li>
-                  <li className="menu-item-has-children">
+                  {/* <li className="menu-item-has-children">
                      <a href="#">Resources</a>
-                  </li>
+                  </li> */}
                   <li><a href="contact.html">Contact us</a></li>
                </ul>
             </div>
@@ -96,11 +96,11 @@ function Header() {
                               <nav className="main-menu d-none d-lg-inline-block">
                                  <ul>
                                     <li>
-                                       <a href="#">Home</a>
+                                       <a href="/">Home</a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                        <a href="#">About</a>
-                                    </li>
+                                    </li> */}
                                     <li className="menu-item-has-children">
                                        <a href="#">Prep Module</a>
                                        <ul className="sub-menu">
@@ -115,16 +115,16 @@ function Header() {
                                        <a href="#">Exams</a>
                                        <ul className="sub-menu">
                                        <li><a href="/exams">IIM Indore</a></li>
-                                       <li><a href="/exams">IIM Rohtak </a></li>
-                                       <li><a href="/exams">IIM Bodhgaya </a></li>
-                                       <li><a href="/exams">IIM Ranchi </a></li>
-                                       <li><a href="/exams">IIM Jammu </a></li>
-                                       <li><a href="/exams">IIM Nagpur </a></li>
+                                       <li><a href="/exams1">IIM Rohtak </a></li>
+                                       <li><a href="/exams2">IIM Bodhgaya </a></li>
+                                       <li><a href="/exams3">IIM Ranchi </a></li>
+                                       <li><a href="/exams4">IIM Jammu </a></li>
+                                       <li><a href="/exams5">IIM Nagpur </a></li>
                                        </ul>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                        <a href="#">Resources</a>
-                                    </li>
+                                    </li> */}
                                     <li>
                                        <a href="#">Contact us</a>
                                     </li>

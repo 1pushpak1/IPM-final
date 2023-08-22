@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Exams() {
+function Exams5() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -9,10 +9,10 @@ function Exams() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IIM Indore, IPM</h1>
+               <h1 className="breadcumb-title">IIM Nagpur, IPM</h1>
                <ul className="breadcumb-menu">
                   <li><a href="index.html">Exams</a></li>
-                  <li>IIM Indore</li>
+                  <li>IIM Nagpur</li>
                </ul>
             </div>
          </div>
@@ -153,4 +153,4 @@ function Exams() {
   )
 }
 
-export default Exams
+export default Exams5
