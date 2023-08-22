@@ -61,16 +61,16 @@ function Home() {
             <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 03 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
                      <div className="course-content">
                         <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div>
-                        <h3 className="course-title"><a href="#">Education Software and PHP and JS System Script</a></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <h3 className="course-title"><a href="#">Premium Mentorship Course</a></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">Max Alexix</a></div>
+                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -78,16 +78,16 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 02 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
                      <div className="course-content">
                         <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div>
-                        <h3 className="course-title"><a href="#">Learn Figma – UI/UX Design Essential Training</a></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 9</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <h3 className="course-title"><a href="#">Achivers mentorship Course</a></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">Kevin Perry</a></div>
+                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -95,16 +95,16 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_3.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 04 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_3.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
                      <div className="course-content">
                         <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div>
-                        <h3 className="course-title"><a href="#">Advanced Android 12 & Kotlin Development Course</a></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 7</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <h3 className="course-title"><a href="#">Masters Mentorship Course</a></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">Max Alexix</a></div>
+                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -112,16 +112,16 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_4.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 02 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_4.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
                      <div className="course-content">
                         <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div>
-                        <h3 className="course-title"><a href="#">IT Statistics Data Science and Business Analysis</a></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 10</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <h3 className="course-title"><a href="#">Short Mentorship Course</a></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">Kevin Perry</a></div>
+                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -129,22 +129,22 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 03 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i>  WEEKS</span></div>
                      <div className="course-content">
                         <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div>
-                        <h3 className="course-title"><a href="#">Education Software and PHP and JS System Script</a></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <h3 className="course-title"><a href="#">TestSeries Mentorship Course</a></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">Max Alexix</a></div>
+                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
                   </div>
                </div>
-               <div className="col-md-6 col-lg-4">
+               {/* <div className="col-md-6 col-lg-4">
                   <div className="course-box">
                      <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 02 WEEKS </span></div>
                      <div className="course-content">
@@ -159,8 +159,8 @@ function Home() {
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
-                  </div>
-               </div>
+                  </div> */}
+               {/* </div> */}
             </div>
          </div>
       </section>
@@ -174,7 +174,7 @@ function Home() {
                         <h2 className="cta-title sec-title">Get Online Courses</h2>
                         <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p>
                      </div>
-                     <a href="#" className="th-btn style8">Join With Us<i className="fas fa-arrow-right ms-1"></i></a>
+                     <a  className="th-btn style8">Join With Us<i className="fas fa-arrow-right ms-1"></i></a>
                   </div>
                </div>
             </div>
@@ -383,7 +383,7 @@ function Home() {
          </div>
       </div>
 
-      <section className="cta-area-3 space-top bg-light">
+      {/* <section className="cta-area-3 space-top bg-light">
          <div className="container">
             <div className="row">
                <div className="col-lg-6 mb-30 mb-lg-0">
@@ -406,7 +406,7 @@ function Home() {
                </div>
             </div>
          </div>
-      </section>
+      </section> */}
       <section className="testi-area-1 overflow-hidden space-bottom" data-bg-src="assets/img/bg/testi_bg_1.png">
          <div className="shape-mockup testi-bg-shape1 jump" data-right="0" data-top="50%"><img src="assets/img/testimonial/testi-bg-shape_1_1.png" alt="img" /></div>
          <div className="shape-mockup testi-bg-shape2 spin" data-left="0" data-top="15%"><img src="assets/img/testimonial/testi-bg-shape_1_2.png" alt="img" /></div>
