@@ -23,7 +23,7 @@ function Banner() {
                         </div>
                      </div>
                      <div className="col-md-6 text-lg-end text-center">
-                        <div className="hero-img1"><img src="assets/img/hero/banner-hero1.png" alt="hero" /></div>
+                        <div className="hero-img1"><img src="assets/img/hero/banner-hero1-.png" alt="hero" /></div>
                      </div>
                   </div>
                </div>
