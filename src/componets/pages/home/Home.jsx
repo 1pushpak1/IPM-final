@@ -70,7 +70,7 @@ function Home() {
                         <h3 className="course-title"><a href="#">Premium Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -87,7 +87,7 @@ function Home() {
                         <h3 className="course-title"><a href="#">Achivers mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -104,7 +104,7 @@ function Home() {
                         <h3 className="course-title"><a href="#">Masters Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -121,7 +121,7 @@ function Home() {
                         <h3 className="course-title"><a href="#">Short Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -138,7 +138,7 @@ function Home() {
                         <h3 className="course-title"><a href="#">TestSeries Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
-                           <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="author-info">  <a href="#" className="author-name">RV Sir</a></div>
                            <div className="offer-tag">Free</div>
                         </div>
                      </div>
@@ -171,8 +171,8 @@ function Home() {
                   <div className="cta-wrap title-area mb-0">
                      <div className="cta-icon"><img src="assets/img/normal/cta-icon1.png" alt="icon" /></div>
                      <div className="cta-content">
-                        <h2 className="cta-title sec-title">Get Online Courses</h2>
-                        <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p>
+                        <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
+                        {/* <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p> */}
                      </div>
                      <a  className="th-btn style8">Join With Us<i className="fas fa-arrow-right ms-1"></i></a>
                   </div>
@@ -190,10 +190,10 @@ function Home() {
                <div className="col-xl-6">
                   <div className="wcu-img-1">
                      <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
-                     <div className="student-count jump-reverse">
+                     {/* <div className="student-count jump-reverse">
                         <h5 className="title"><span className="text-theme"><span className="counter-number">500</span>+</span> Active Students</h5>
                         <img src="assets/img/normal/student-group_1_1.png" alt="img" />
-                     </div>
+                     </div> */}
                      <div className="text-end"><a className="th-btn mt-30" href="#">Get Started <i className="far fa-arrow-right ms-1"></i></a></div>
                   </div>
                </div>
