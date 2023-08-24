@@ -71,7 +71,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div>
@@ -88,7 +88,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div>
@@ -105,7 +105,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div>
@@ -122,7 +122,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div>
@@ -139,7 +139,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info">  <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div>
@@ -156,7 +156,7 @@ function Home() {
                         <div className="course-meta"><span><i className="fal fa-file"></i>Lesson 9</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"><img src="assets/img/course/author.png" alt="author" /> <a href="#" className="author-name" >Kevin Perry</a></div>
-                           <div className="offer-tag">Free</div>
+                           <div className="offer-tag"> </div>
                         </div>
                      </div>
                   </div> */}
