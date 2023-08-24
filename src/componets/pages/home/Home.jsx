@@ -194,7 +194,7 @@ function Home() {
                         <h5 className="title"><span className="text-theme"><span className="counter-number">500</span>+</span> Active Students</h5>
                         <img src="assets/img/normal/student-group_1_1.png" alt="img" />
                      </div> */}
-                     <div className="text-end"><a className="th-btn mt-30" href="#">Get Started <i className="far fa-arrow-right ms-1"></i></a></div>
+                     {/* <div className="text-end"><a className="th-btn mt-30" href="#">Get Started <i className="far fa-arrow-right ms-1"></i></a></div> */}
                   </div>
                </div>
                <div className="col-xl-6">
@@ -210,8 +210,8 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">World Class Trainers</h3>
-                                 <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p>
+                                 <h3 className="box-title">Most Popular Mentorship Program</h3>
+                                 {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
                         </div>
@@ -219,8 +219,8 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Easy Learning</h3>
-                                 <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p>
+                                 <h3 className="box-title">Individual Attention</h3>
+                                 {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
                         </div>
@@ -228,8 +228,8 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Flexible</h3>
-                                 <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p>
+                                 <h3 className="box-title">Flexible Timing</h3>
+                                 {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
                         </div>
@@ -237,8 +237,8 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Affordable Price</h3>
-                                 <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p>
+                                 <h3 className="box-title">Top Faculties</h3>
+                                 {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
                         </div>
