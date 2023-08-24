@@ -66,12 +66,12 @@ function Footer() {
                      </div>
                      <div className="col-md-6 col-xl-auto">
                         <div className="widget widget_nav_menu footer-widget">
-                           <h3 className="widget_title">Courses</h3>
+                           {/* <h3 className="widget_title">Courses</h3> */}
                            <div className="menu-all-pages-container">
                               <ul className="menu">
-                                 <li><a href="#">UI/UX Design</a></li>
+                                 {/* <li><a href="#">UI/UX Design</a></li>
                                  <li><a href="#">Web Development</a></li>
-                                 <li><a href="#">Android Development</a></li>                                 
+                                 <li><a href="#">Android Development</a></li>                                  */}
                               </ul>
                            </div>
                         </div>
