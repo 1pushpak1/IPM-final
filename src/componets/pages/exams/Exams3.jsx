@@ -11,7 +11,7 @@ function Exams3() {
             <div className="breadcumb-content text-center">
                <h1 className="breadcumb-title">IIM Ranchi, IPM</h1>
                <ul className="breadcumb-menu">
-                  <li><a href="index.html">Exams</a></li>
+                  <li><a href="#">Exams</a></li>
                   <li>IIM Ranchi</li>
                </ul>
             </div>
@@ -27,8 +27,8 @@ function Exams3() {
                         {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
                         <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
                         <ul className="course-single-meta">
-                           {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="course.html">Max Alexix</a></span></li>
-                           <li><span className="meta-title">Last Update: </span><a href="course.html">20 Jun, 2023</a></li> */}
+                           {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
+                           <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
                         </ul>
                      </div>
                      <div className="course-single-bottom">
@@ -45,7 +45,7 @@ function Exams3() {
                                 <p>Last date for submitting online application: 14.04.2023</p>
                                 <p>Exam Date : 16.06.2023</p>
                                 <h5>EXAM PATTERN</h5>
-                                <table class="table table-striped table-hover">
+                                <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
                                             <th scope="col">Sr. NO.</th>
@@ -82,31 +82,31 @@ function Exams3() {
                                     </tbody>
                                 </table>
 
-                                <div class="title-area mb-4 mt-5">
-                                    <h2 class="sec-title mb-0">Frequently Asked Question?</h2>
+                                <div className="title-area mb-4 mt-5">
+                                    <h2 className="sec-title mb-0">Frequently Asked Question?</h2>
                                 </div>
-                                <div class="accordion-area accordion" id="faqAccordion">
-                                    <div class="accordion-card">
-                                        <div class="accordion-header" id="collapse-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Does It Take Excellent Author?</button></div>
-                                        <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                                            <div class="accordion-body">
-                                                <p class="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                <div className="accordion-area accordion" id="faqAccordion">
+                                    <div className="accordion-card">
+                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Does It Take Excellent Author?</button></div>
+                                        <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                                            <div className="accordion-body">
+                                                <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="accordion-card active">
-                                    <div class="accordion-header" id="collapse-item-2"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Purpose of education is the integral development?</button></div>
-                                    <div id="collapse-2" class="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p class="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                    <div className="accordion-card active">
+                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Purpose of education is the integral development?</button></div>
+                                    <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                                        <div className="accordion-body">
+                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                         </div>
                                     </div>
                                     </div>
-                                    <div class="accordion-card">
-                                    <div class="accordion-header" id="collapse-item-3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Education can contribute to the betterment?</button></div>
-                                    <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p class="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                    <div className="accordion-card">
+                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Education can contribute to the betterment?</button></div>
+                                    <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                                        <div className="accordion-body">
+                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                         </div>
                                     </div>
                                     </div>

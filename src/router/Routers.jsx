@@ -16,6 +16,7 @@ import Exams4 from '../componets/pages/exams/Exams4'
 import Exams5 from '../componets/pages/exams/Exams5'
 import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
+import Contact from '../componets/pages/contactus/Contact'
 
 function Routers() {
   return (
@@ -36,6 +37,7 @@ function Routers() {
                 <Route path="/achivers" element={<Achivers />} />
                 <Route path="/login" element={<Login />} />
                 <Route path="/signup" element={<Signup />} />
+                <Route path="/contactus" element={<Contact />} />
             </Routes>
         <Footer/>
     </>

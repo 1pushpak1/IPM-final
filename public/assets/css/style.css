@@ -1,12 +1,5 @@
 @charset "UTF-8";
-/*
-Template Name: Edura
-Template URL: http://themeholy.com/html/edura
-Description: Online Courses & Education HTML Template
-Author: themeholy
-Author URI: https://themeforest.net/user/themeholy
-Version: 1.0.0
-*/
+
 /*=================================
     CSS Index Here
 ==================================*/
@@ -15004,13 +14997,13 @@ span.select2-selection.select2-selection--single:focus {
 /*------------------- 4.00. Testimonial  -------------------*/
 /* Testimonial 1 ---------------------------------- */
 .testi-area-1 {
-  padding-top: 243px;
+  padding-top: 120px;
   /* Medium devices */
 }
 
 @media (max-width: 991px) {
   .testi-area-1 {
-    padding-top: 213px;
+    padding-top: 120px;
   }
 }
 
@@ -18126,7 +18119,8 @@ span.select2-selection.select2-selection--single:focus {
 .cta-area-1 {
   position: relative;
   padding: 38px 0;
-  background: url(assets/img/bg/cta-bg1.png);
+  /* background: url(assets/img/bg/cta-bg1.png); */
+  background: url(../img/bg/cta-bg1.png);
   /* Medium devices */
 }
 
@@ -24428,10 +24422,12 @@ span.select2-selection.select2-selection--single:focus {
 .cta-area-1{
 }
 .ctacardbg1{
-  background: url(assets/img/bg/cta-bg_3_1.png);
+  /* background-image: url(assets/img/bg/cta-bg_3_1.png); */
+  background-image: url(../img/bg/cta-bg_3_1.png);
 }
 .ctacardbg2{
-  background: url(assets/img/bg/cta-bg_3_2.png);
+  /* background-image: url(assets/img/bg/cta-bg_3_2.png); */
+  background-image: url(../img/bg/cta-bg_3_2.png);
 }
 
 .about-log img{
@@ -24444,9 +24440,39 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .contact-form-wrap{
-  background-image: url(assets/img/bg/contact_bg_1.png);
+  /* background-image: url(assets/img/bg/contact_bg_1.png); */
+  background-image: url(../img/bg/contact_bg_1.png);
   background-repeat: no-repeat;
   padding: 35px;
+}
+
+@media (max-width:767px){
+  .loginheader ul{
+    display: flex;
+  }
+  .loginheader li{
+    display: block !important;
+    padding-left: 20px;
+  }
+}
+
+.offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm, .offcanvas-xl, .offcanvas-xxl {
+  --bs-offcanvas-width: 280px;
+}
+
+@media (max-width:360px){
+  .offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm, .offcanvas-xl, .offcanvas-xxl {
+    --bs-offcanvas-width: 260px;
+  }
+}
+
+.bgingtest{
+  /* background-image: url(assets/img/bg/testi_bg_1.png); */
+  background-image: url(../img/bg/testi_bg_1.png);
+}
+
+.breadcumb-shape{
+    background-image: url(../img/bg/breadcumb_shape_1_1.png);
 }
 
 /*=================================

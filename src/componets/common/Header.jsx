@@ -1,61 +1,58 @@
 import React, {useState} from 'react'
+import { Link } from 'react-router-dom';
+import { Button, Offcanvas, Dropdown, Nav } from 'react-bootstrap';
+
 
 function Header() {
-   const [menuVisible, setMenuVisible] = useState(false);
-   const visiblemobilemenu = () =>{
-      setMenuVisible(true);
-   }
-   const cancelsidemenu = () =>{
-      setMenuVisible(false)
-   }
+   const [show, setShow] = useState(false);
+   const handleClose = () => setShow(false);
+   const handleShow = () => setShow(true);
+
   return (
     <>
-      <div className="popup-search-box d-none d-lg-block">
-         <button className="searchClose"><i className="fal fa-times"></i></button>
-         <form action="#"><input type="text" placeholder="What are you looking for?" /> <button type="submit"><i className="fal fa-search"></i></button></form>
-      </div>
-      <div className={`th-menu-wrapper ${menuVisible ? 'th-body-visible' : ''}`}>
-         <div className="th-menu-area text-center">
-            <button onClick={cancelsidemenu} className="th-menu-toggle"><i className="fal fa-times"></i></button>
-            <div className="mobile-logo"><a href="/"><img style={{width:'180px'}} src="assets/img/logo.png" alt="Edura" /></a></div>
+      <Offcanvas  show={show} onHide={handleClose}>
+        <Offcanvas.Header closeButton>
+            <div className="mobile-logo"><Link to="/"><img style={{width:'180px'}} src="assets/img/logo.png" alt="Edura" /></Link></div>
+            <button onClick={handleClose} className="th-menu-toggle ms-3"><i className="fal fa-times"></i></button>
+        </Offcanvas.Header>
+        <Offcanvas.Body>
             <div className="th-mobile-menu">
                <ul>
                   <li className="menu-item-has-children">
-                     <a href="/">Home</a>
+                     <Link to="/" onClick={handleClose}>Home</Link>
                   </li>
                   {/* <li className="menu-item-has-children">
-                     <a href="/">About</a>
+                     <Link to="/">About</Link>
                   </li> */}
                   <li className="menu-item-has-children">
                      <a href="#">Prep Module</a>
                      <ul className="sub-menu">
-                        <li><a href="/prep-module">Premium Mentorship Program</a></li>
-                        <li><a href="/achivers">Achiver's Mentorship Program </a></li>
-                        <li><a href="/master">Masters's Mentorship Program </a></li>
-                        <li><a href="/short">Short Mentorship Program </a></li>
-                        <li><a href="/testmod">Test Series Mentorship Program</a></li>
+                        <li><Link to="/prep-module" onClick={handleClose}>Premium Mentorship Program</Link></li>
+                        <li><Link to="/achivers" onClick={handleClose}>Achiver's Mentorship Program </Link></li>
+                        <li><Link to="/master" onClick={handleClose}>Masters's Mentorship Program </Link></li>
+                        <li><Link to="/short" onClick={handleClose}>Short Mentorship Program </Link></li>
+                        <li><Link to="/testmod" onClick={handleClose}>Test Series Mentorship Program</Link></li>
                      </ul>
                   </li>
                   <li className="menu-item-has-children">
                      <a href="#">Exams</a>
                      <ul className="sub-menu">
-                        <li><a href="/exams">IIM Indore</a></li>
-                        <li><a href="/exams1">IIM Rohtak </a></li>
-                        <li><a href="/exams2">IIM Bodhgaya </a></li>
-                        <li><a href="/exams3">IIM Ranchi </a></li>
-                        <li><a href="/exams4">IIM Jammu </a></li>
-                        <li><a href="/exams5">IIM Nagpur </a></li>
+                        <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
+                        <li><Link to="/exams1" onClick={handleClose}>IIM Rohtak </Link></li>
+                        <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
+                        <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
+                        <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
+                        <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li>
                      </ul>
                   </li>
                   {/* <li className="menu-item-has-children">
                      <a href="#">Resources</a>
                   </li> */}
-                  <li><a href="contact.html">Contact us</a></li>
+                  <li><Link to="/contactus" onClick={handleClose}>Contact us</Link></li>
                </ul>
             </div>
-         </div>
-      </div>
-
+        </Offcanvas.Body>
+      </Offcanvas>
 
       <header className="th-header header-layout1">
          <div className="header-top">
@@ -71,12 +68,12 @@ function Header() {
                      </div>
                   </div>
                   <div className="col-auto">
-                     <div className="header-links header-right">
+                     <div className="header-links header-right loginheader">
                         <ul>
                            <li style={{borderRight:'1px solid #ccc', paddingRight:'15px'}}>
                               <div className="header-social"><span className="social-title">Follow Us:</span> <a href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i className="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i className="fab fa-linkedin-in"></i></a> <a href="https://www.youtube.com/"><i className="fab fa-youtube"></i></a> <a href="https://www.instagram.com/"><i className="fab fa-skype"></i></a></div>
                            </li>
-                           <li className="d-none d-lg-inline-block"><i className="far fa-user"></i><a href="/login">Login / Register</a></li>
+                           <li className=""><Link to="/login"><i className="far fa-user"></i> <span className='d-none d-lg-inline'>Login / Register</span></Link></li>
                         </ul>
                      </div>
                   </div>
@@ -88,7 +85,7 @@ function Header() {
                <div className="container">
                   <div className="row align-items-center justify-content-between">
                      <div className="col-auto">
-                        <div className="header-logo"><a href="/"><img src="assets/img/logo.png" alt="Edura" /></a></div>
+                        <div className="header-logo"><Link to="/"><img src="assets/img/logo.png" alt="Edura" /></Link></div>
                      </div>
                      <div className="col-auto">
                         <div className="row">
@@ -96,7 +93,7 @@ function Header() {
                               <nav className="main-menu d-none d-lg-inline-block">
                                  <ul>
                                     <li>
-                                       <a href="/">Home</a>
+                                       <Link to="/">Home</Link>
                                     </li>
                                     {/* <li>
                                        <a href="#">About</a>
@@ -104,33 +101,33 @@ function Header() {
                                     <li className="menu-item-has-children">
                                        <a href="#">Prep Module</a>
                                        <ul className="sub-menu">
-                                       <li><a href="/prep-module">Premium Mentorship Program</a></li>
-                                       <li><a href="/achivers">Achiver's Mentorship Program </a></li>
-                                       <li><a href="/master">Masters's Mentorship Program </a></li>
-                                       <li><a href="/short">Short Mentorship Program </a></li>
-                                       <li><a href="/testmod">Test Series Mentorship Program</a></li>
+                                       <li><Link to="/prep-module">Premium Mentorship Program</Link></li>
+                                       <li><Link to="/achivers">Achiver's Mentorship Program </Link></li>
+                                       <li><Link to="/master">Masters's Mentorship Program </Link></li>
+                                       <li><Link to="/short">Short Mentorship Program </Link></li>
+                                       <li><Link to="/testmod">Test Series Mentorship Program</Link></li>
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">
                                        <a href="#">Exams</a>
                                        <ul className="sub-menu">
-                                       <li><a href="/exams">IIM Indore</a></li>
-                                       <li><a href="/exams1">IIM Rohtak </a></li>
-                                       <li><a href="/exams2">IIM Bodhgaya </a></li>
-                                       <li><a href="/exams3">IIM Ranchi </a></li>
-                                       <li><a href="/exams4">IIM Jammu </a></li>
-                                       <li><a href="/exams5">IIM Nagpur </a></li>
+                                       <li><Link to="/exams">IIM Indore</Link></li>
+                                       <li><Link to="/exams1">IIM Rohtak </Link></li>
+                                       <li><Link to="/exams2">IIM Bodhgaya </Link></li>
+                                       <li><Link to="/exams3">IIM Ranchi </Link></li>
+                                       <li><Link to="/exams4">IIM Jammu </Link></li>
+                                       <li><Link to="/exams5">IIM Nagpur </Link></li>
                                        </ul>
                                     </li>
                                     {/* <li>
                                        <a href="#">Resources</a>
                                     </li> */}
                                     <li>
-                                       <a href="#">Contact us</a>
+                                       <Link to="/contactus">Contact us</Link>
                                     </li>
                                  </ul>
                               </nav>
-                              <button type="button" onClick={visiblemobilemenu} className="th-menu-toggle d-block d-lg-none"><i className="far fa-bars"></i></button>
+                              <button type="button" onClick={handleShow} className="th-menu-toggle d-block d-lg-none"><i className="far fa-bars"></i></button>
                            </div>
                            <div className="col-auto d-none d-xl-block">
                               <div className="header-button">

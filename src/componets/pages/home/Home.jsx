@@ -407,7 +407,7 @@ function Home() {
             </div>
          </div>
       </section> */}
-      <section className="testi-area-1 overflow-hidden space-bottom" data-bg-src="assets/img/bg/testi_bg_1.png">
+      <section className="testi-area-1 bgingtest overflow-hidden space-bottom">
          <div className="shape-mockup testi-bg-shape1 jump" data-right="0" data-top="50%"><img src="assets/img/testimonial/testi-bg-shape_1_1.png" alt="img" /></div>
          <div className="shape-mockup testi-bg-shape2 spin" data-left="0" data-top="15%"><img src="assets/img/testimonial/testi-bg-shape_1_2.png" alt="img" /></div>
          <div className="container">

@@ -11,7 +11,7 @@ function Achivers() {
             <div className="breadcumb-content text-center">
                <h1 className="breadcumb-title">Achivers Mentorship Program</h1>
                <ul className="breadcumb-menu">
-                  <li><a href="index.html">Prep Module</a></li>
+                  <li><a href="#">Prep Module</a></li>
                   <li>Achivers Mentorship Program</li>
                </ul>
             </div>
@@ -81,9 +81,9 @@ function Achivers() {
                                  <div className="course-author-box">
                                     <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
                                     <div className="media-body">
-                                       <h3 className="author-name"><a className="text-inherit" href="team-details.html">Kevin Perry</a></h3>
+                                       <h3 className="author-name"><a className="text-inherit" href="#">Kevin Perry</a></h3>
                                        <p className="author-text">Optimize resource eveling innoation whereas visionary value. Compellingly engage extensible process with business process improvements.</p>
-                                       <div className="author-meta"><a href="course.html"><i className="fal fa-circle"></i>Master IIM Ahmedabad</a> <span><i className="fal fa-circle"></i>Bachlor Thapa University</span></div>
+                                       <div className="author-meta"><a href="#"><i className="fal fa-circle"></i>Master IIM Ahmedabad</a> <span><i className="fal fa-circle"></i>Bachlor Thapa University</span></div>
                                        <div className="th-social"><a href="https://facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></a> <a href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></a> <a href="https://linkedin.com/" target="_blank"><i className="fab fa-linkedin-in"></i></a> <a href="https://instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a></div>
                                     </div>
                                  </div>
@@ -153,7 +153,7 @@ function Achivers() {
                <div className="col-xxl-3 col-lg-4">
                   <aside className="sidebar-area">
                      <div className="widget widget_info">
-                        <h3 class="widget_title mt-0">Book Free Demo</h3>
+                        <h3 className="widget_title mt-0">Book Free Demo</h3>
                          <form action="" className='mt-3'>
                              <div className="form-group mb-2">
                                  <input type="text" className='form-control' placeholder='Name' />
