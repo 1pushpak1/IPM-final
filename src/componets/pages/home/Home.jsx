@@ -310,7 +310,7 @@ function Home() {
                      <p className="sec-text mt-20">Team IPM PRIME is here to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
                      <p className="sec-text">You are ready to ACE any test!!</p>
                   </div>
-                  <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="#" className="th-btn style7">Contact Us<i className="fas fa-arrow-right ms-2"></i></a></div>
+                  <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="/contactus" className="th-btn style7">Contact Us<i className="fas fa-arrow-right ms-2"></i></a></div>
                </div>
                <div className="col-xl-3 col-md-6">
                   <div className="team-card team-card-1-1 team-card-1-1-active mt-0">
@@ -323,7 +323,7 @@ function Home() {
                            <div className="th-social"><a target="_blank" href="https://vimeo.com/"><i className="fab fa-vimeo-v"></i></a> <a target="_blank" href="https://linkedin.com/"><i className="fab fa-linkedin-in"></i></a> <a target="_blank" href="https://twitter.com/"><i className="fab fa-twitter"></i></a> <a target="_blank" href="https://facebook.com/"><i className="fab fa-facebook-f"></i></a></div>
                         </div>
                         <div className="team-content">
-                           <h3 className="team-title"><a href="#">Hirmar Ubunti</a></h3>
+                           <h3 className="team-title"><a href="#">Rajeev Verma</a></h3>
                            <span className="team-desig">Instructor</span>
                         </div>
                         <div className="team-info"><span><i className="fal fa-file-check"></i>2 Courses</span> <span><i className="fa-light fa-users"></i>Students 60+</span></div>
@@ -414,7 +414,7 @@ function Home() {
          <div className="container">
             <div className="title-area text-center mb-50">
                <span className="sub-title"><i className="fal fa-book me-2"></i> Our Students Testimonials</span>
-               <h2 className="sec-title">Students Say’s About Oue University</h2>
+               <h2 className="sec-title">Students Say’s About Us</h2>
             </div>
             <div className="row">
                <div className="col-xl-12">
