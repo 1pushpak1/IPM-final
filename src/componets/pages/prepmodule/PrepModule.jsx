@@ -98,7 +98,7 @@ function PrepModule() {
                                  </div>
                               </div>
                            </div>
-                           <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
+                           {/* <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                               <div className="course-instructor">
                                  <div className="course-author-box">
                                     <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
@@ -149,7 +149,7 @@ function PrepModule() {
                                           </div>
                                        </li>
                                     </ul>
-                                 </div>
+                                 </div> */}
                                  {/* <div className="th-comment-form">
                                     <div className="form-title">
                                        <h3 className="blog-inner-title">Add a review</h3>
@@ -199,8 +199,8 @@ function PrepModule() {
                      </div>
                   </aside>
                </div>
-            </div>
-         </div>
+            {/* </div>
+         </div> */}
       </section>
     </>
   )
