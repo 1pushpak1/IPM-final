@@ -76,7 +76,7 @@ function Achivers() {
                                  </div>
                               </div>
                            </div>
-                           <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
+                           {/* <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                               <div className="course-instructor">
                                  <div className="course-author-box">
                                     <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
@@ -88,8 +88,8 @@ function Achivers() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
-                           <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
+                           </div> */}
+                           {/* <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
                               <div className="course-Reviews">
                                  <div className="th-comments-wrap">
                                     <ul className="comment-list">
@@ -127,7 +127,7 @@ function Achivers() {
                                           </div>
                                        </li>
                                     </ul>
-                                 </div>
+                                 </div> */}
                                  {/* <div className="th-comment-form">
                                     <div className="form-title">
                                        <h3 className="blog-inner-title">Add a review</h3>
