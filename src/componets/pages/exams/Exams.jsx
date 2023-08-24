@@ -49,7 +49,7 @@ function Exams() {
                                     <thead className='thead-dark'>
                                         <tr>
                                             <th scope="col">Sr. NO.</th>
-                                            <th scope="col">Secetion</th>
+                                            <th scope="col">Section</th>
                                             <th scope="col">No Of Questions</th>
                                             <th scope="col">Marks</th>
                                         </tr>
@@ -64,20 +64,20 @@ function Exams() {
                                         <tr>
                                             <th scope="row">2</th>
                                             <td> Quantitative Ability- SA (No Negative Marking)</td>
-                                            <td>40</td>
-                                            <td>160</td>
+                                            <td>20</td>
+                                            <td>80</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">3</th>
-                                            <td>Larry the Bird</td>
+                                            <td>Verbal Ability</td>
                                             <td>40</td>
                                             <td>160</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">4</th>
                                             <td>Total</td>
-                                            <td>120</td>
-                                            <td>180</td>
+                                            <td>100</td>
+                                            <td>400</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -87,33 +87,32 @@ function Exams() {
                                 </div>
                                 <div className="accordion-area accordion" id="faqAccordion">
                                     <div className="accordion-card">
-                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Does It Take Excellent Author?</button></div>
+                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Is The Duration Of The IPM Course At IIM Indore?</button></div>
                                         <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                             <div className="accordion-body">
-                                                <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                                <p className="faq-text">The IPM course at IIM Indore is a five-year integrated program, which includes three years of undergraduate studies and two years of postgraduate studies.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-card active">
-                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Purpose of education is the integral development?</button></div>
+                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Is Work Experience Required For Admission To The IPM Course?</button></div>
                                     <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                            <p className="faq-text">No, work experience is not required for admission to the IPM course at IIM Indore. It is a program designed for students who have completed their higher secondary education.</p>
                                         </div>
                                     </div>
                                     </div>
                                     <div className="accordion-card">
-                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Education can contribute to the betterment?</button></div>
+                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Can I Pursue Any Specialization During The IPM Course?</button></div>
                                     <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                            <p className="faq-text">The IPM course at IIM Indore is a general management program, and it does not offer specializations during the undergraduate phase. However, during the postgraduate phase, students have the option to choose their specialization based on their interests and career goals</p>
                                         </div>
                                     </div>
                                     </div>
                                 </div>
 
-                                <h5 className="h5 mt-40">Certification</h5>
-                                <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+
                             </div>
                         </div>
                      </div>
