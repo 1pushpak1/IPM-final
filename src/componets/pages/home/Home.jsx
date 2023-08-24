@@ -61,12 +61,12 @@ function Home() {
             <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" />  </div>
                      <div className="course-content">
-                        <div className="course-rating">
+                        {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
-                        </div>
+                        </div> */}
                         <h3 className="course-title"><a href="#">Premium Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
@@ -78,12 +78,12 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" />  </div>
                      <div className="course-content">
-                        <div className="course-rating">
-                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                        {/* <div className="course-rating"> */}
+                           {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
-                        </div>
+                        </div> */}
                         <h3 className="course-title"><a href="#">Achivers mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
@@ -95,12 +95,12 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_3.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_3.png" alt="img" />  </div>
                      <div className="course-content">
-                        <div className="course-rating">
-                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                        {/* <div className="course-rating"> */}
+                           {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
-                        </div>
+                        </div> */}
                         <h3 className="course-title"><a href="#">Masters Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
@@ -112,12 +112,12 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_4.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i> 10 WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_4.png" alt="img" />  </div>
                      <div className="course-content">
-                        <div className="course-rating">
+                        {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
-                        </div>
+                        </div> */}
                         <h3 className="course-title"><a href="#">Short Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
@@ -131,10 +131,10 @@ function Home() {
                   <div className="course-box">
                      <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i>  WEEKS</span></div>
                      <div className="course-content">
-                        <div className="course-rating">
+                        {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
-                        </div>
+                        </div> */}
                         <h3 className="course-title"><a href="#">TestSeries Mentorship Course</a></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
@@ -210,7 +210,7 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Most Popular Mentorship Program</h3>
+                                 <h3 className="box-title">Mentorship Program</h3>
                                  {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
