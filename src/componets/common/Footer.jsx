@@ -13,7 +13,7 @@ function Footer() {
                      <div className="footer-contact_icon icon-btn"><i className="fal fa-phone"></i></div>
                      <div className="media-body">
                         <p className="footer-contact_text">Call us any time:</p>
-                        <a href="tel%2b11234567890" className="footer-contact_link">+91-000 0000 000</a>
+                        <a href="tel%2b11234567890" className="footer-contact_link">+91-99100 98275</a>
                      </div>
                   </div>
                   <div className="divider"></div>

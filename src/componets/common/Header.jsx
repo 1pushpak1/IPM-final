@@ -63,7 +63,7 @@ function Header() {
                         <ul>
                            <li><i className="far fa-phone"></i><a href="tel:+91-9910098275">+91-99100 98275</a></li>
                            <li className="d-none d-xl-inline-block"><i className="far fa-envelope"></i><a href="mailto:info@ipmprime.com">info@ipmprime.com</a></li>
-                           <li><i className="far fa-telegram"></i><a href="mailto:info@ipmprime.com">Join our Forum</a></li>
+                           <li><i className="fas fa-telegram"></i><a href="mailto:info@ipmprime.com">Join our Forum</a></li>
                         </ul>
                      </div>
                   </div>
