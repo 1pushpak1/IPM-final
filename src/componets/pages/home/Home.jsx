@@ -11,10 +11,10 @@ function Home() {
                <div className="col-xl-6">
                   <div className="img-box1 mb-40 mb-xl-0">
                      <div className="img1"><img className="tilt-active" src="assets/img/team/att1.jpg" alt="About" /></div>
-                     <div className="about-grid" data-bg-src="assets/img/normal/about_1_3.png">
-                        {/* <h3 className="about-grid_year"><span className="counter-number">10</span>k<span className="text-theme">+</span></h3> */}
+                     {/* <div className="about-grid" data-bg-src="assets/img/normal/about_1_3.png">
+                         <h3 className="about-grid_year"><span className="counter-number">10</span>k<span className="text-theme">+</span></h3> 
                         <p className="about-grid_text">Students Active Our Courses</p>
-                     </div>
+                     </div> */}
                      <div className="img2"><img className="tilt-active" src="assets/img/normal/about_1_2.png" alt="About" /></div>
                      <div className="shape-mockup about-shape1 jump" data-left="-67px" data-bottom="0"><img src="assets/img/normal/about_1_shape1.png" alt="img" /></div>
                   </div>
