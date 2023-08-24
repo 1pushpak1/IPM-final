@@ -191,7 +191,7 @@ function Home() {
                   <div className="wcu-img-1">
                      <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
                      <div className="student-count jump-reverse">
-                        <h5 className="title"><span className="text-theme"><span className="counter-number">10</span>k+</span> Active Students</h5>
+                        <h5 className="title"><span className="text-theme"><span className="counter-number">500</span>+</span> Active Students</h5>
                         <img src="assets/img/normal/student-group_1_1.png" alt="img" />
                      </div>
                      <div className="text-end"><a className="th-btn mt-30" href="#">Get Started <i className="far fa-arrow-right ms-1"></i></a></div>
