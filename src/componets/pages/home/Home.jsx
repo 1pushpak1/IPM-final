@@ -10,7 +10,7 @@ function Home() {
             <div className="row align-items-center">
                <div className="col-xl-6">
                   <div className="img-box1 mb-40 mb-xl-0">
-                     <div className="img1"><img className="tilt-active" src="assets/img/normal/about_1_1.png" alt="About" /></div>
+                     <div className="img1"><img className="tilt-active" src="assets/img/team/att1.jpg" alt="About" /></div>
                      <div className="about-grid" data-bg-src="assets/img/normal/about_1_3.png">
                         <h3 className="about-grid_year"><span className="counter-number">10</span>k<span className="text-theme">+</span></h3>
                         <p className="about-grid_text">Students Active Our Courses</p>
@@ -296,7 +296,7 @@ function Home() {
          </div>
       </section>
       <div className="team-area overflow-hidden space" id="team-sec">
-         <div className="shape-mockup team-bg-shape1 jump-reverse d-xxl-block d-none" data-left="-2%" data-top="0"><img src="assets/img/team/att1jpg" alt="img" /></div>
+         <div className="shape-mockup team-bg-shape1 jump-reverse d-xxl-block d-none" data-left="-2%" data-top="0"><img src="assets/img/team/team-shape_1_1.png" alt="img" /></div>
          <div className="shape-mockup team-bg-shape2 jump d-xxl-block d-none" data-left="40%" data-top="20%"><img src="assets/img/team/team-shape_1_2.png" alt="img" /></div>
          <div className="shape-mockup team-bg-shape3 jump" data-left="5%" data-bottom="9%"><img src="assets/img/team/team-shape_1_3.png" alt="img" /></div>
          <div className="shape-mockup team-bg-shape4 spin" data-left="40%" data-bottom="20%"><img src="assets/img/team/team-shape_1_4.png" alt="img" /></div>
