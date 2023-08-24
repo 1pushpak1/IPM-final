@@ -129,7 +129,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> <span className="tag"><i className="fas fa-clock"></i>  WEEKS</span></div>
+                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> </div>
                      <div className="course-content">
                         {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
