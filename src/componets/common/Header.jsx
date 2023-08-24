@@ -73,7 +73,7 @@ function Header() {
                            <li style={{borderRight:'1px solid #ccc', paddingRight:'15px'}}>
                               <div className="header-social"><span className="social-title">Follow Us:</span> <a href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a> <a href="https://www.twitter.com/"><i className="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/"><i className="fab fa-linkedin-in"></i></a> <a href="https://www.youtube.com/"><i className="fab fa-youtube"></i></a> <a href="https://www.instagram.com/"><i className="fab fa-skype"></i></a></div>
                            </li>
-                           <li className=""><Link to="/login"><i className="far fa-user"></i> <span className='d-none d-lg-inline'>Login / Register</span></Link></li>
+                           {/* <li className=""><Link to="/login"><i className="far fa-user"></i> <span className='d-none d-lg-inline'>Login / Register</span></Link></li> */}
                         </ul>
                      </div>
                   </div>
