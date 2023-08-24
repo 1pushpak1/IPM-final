@@ -427,7 +427,7 @@ function Home() {
                               </svg>
                            </div>
                            <div className="testi-box_content">
-                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater" /></div>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1.png" alt="Avater" /></div>
                               <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
@@ -447,7 +447,7 @@ function Home() {
                               </svg>
                            </div>
                            <div className="testi-box_content">
-                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater" /></div>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1.png" alt="Avater" /></div>
                               <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
