@@ -189,7 +189,7 @@ function Home() {
             <div className="row align-items-center">
                <div className="col-xl-6">
                   <div className="wcu-img-1">
-                     <div className="img1"><img src="assets/img/normal/wcu_1_1.png" alt="img" /></div>
+                     <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
                      <div className="student-count jump-reverse">
                         <h5 className="title"><span className="text-theme"><span className="counter-number">10</span>k+</span> Active Students</h5>
                         <img src="assets/img/normal/student-group_1_1.png" alt="img" />
