@@ -24,8 +24,8 @@ function Home() {
                      <span className="sub-title"><i className="fal fa-book me-2"></i> About IPM Prime</span>
                      <h2 className="sec-title">Welcome to IPM Prime</h2>
                   </div>
-                  <p className="mt-n2 mb-25">Collaboratively simplify user friendly networks after principle centered coordinate effective methods of empowerment distributed niche markets pursue market positioning web-readiness after resource sucking applications.</p>
-                  <p className="mb-30">Online education, also known as e-learning, is a method of learning that takes place over the internet. It offers individuals the opportunity to acquire knowledge, skills.</p>
+                  <p className="mt-n2 mb-25">IPM PIRME is a students' Mentorship Platform exclusively for IPM-AT,JIPMT and other U.G. Managemwnt Entrance Testpreps. IPM PRIME lead by a team of highly experienced faculties and IIM allumni Mentor, aims to provide "Presonalizes Mentorship Program" which are meticulously curates and customised tp suit the individual requirements of our mentees as we believe that every student is capable of cracking these tests if they get proper guidance and personalizes mentors.</p>
+                  <p className="mb-30">All students are not same, they all have diffrent needs, strengths and weaknesses. So we as a team work believe in working with our student as their mate who are accessible to guide them at every step and enable them to accomplish theirgoal in the most effective manner.</p>
                   <div className="row align-items-center">
                      <div className="col-md-auto">
                         <div className="about-grid_img mb-30 mb-md-0"><img src="assets/img/normal/about_1_4.png" alt="img" /></div>
@@ -200,9 +200,10 @@ function Home() {
                <div className="col-xl-6">
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
-                        <span className="sub-title"><i className="fal fa-book me-2"></i> WHY CHOOSE US</span>
-                        <h2 className="sec-title">Thousands Of Experts Around The World Ready To Help.</h2>
-                        <p className="sec-text mt-20">Synergistically visualize alternative content before cross functional core Rapidiously administra standardized value via focused benefits. Rapidiously redefine highly efficient niche markets with plug-and-play materials professionally seize client centric solutions</p>
+                        <span className="sub-title"><i className="fal fa-book me-2"></i> WHY IPM PRIME</span>
+                        <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        <p className="sec-text mt-20">IPM PRIME is a student Mentorship Platform, definitely not a random Coaching institute hell bent on only completing the syllabus. There is a reason why we call ourself a mentorship platform and offer personalised mentorship, We are completely aware of the gaps in the functioning of today's coaching industry which provides "One Size Fit all" Kind of sollution but our student are diffrent varies requirements. Our experienced mentors and IIM allumni Coaches, Know the correct path to address this serious gap in the test prep arena</p>
+                        <p className="sec-text mt-20">"We don't offer Crash Courses" Even our short term courses are only subject wise or topic wise Mentorship programs as we believe you can rush the whole preparation it is a process. We don't want to fool anybody</p>
                      </div>
                      <div className="row gy-4">
                         <div className="col-md-6">
@@ -306,8 +307,8 @@ function Home() {
                   <div className="title-area mb-30">
                      <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructor</span>
                      <h2 className="sec-title">Meet Our Expert Instructor</h2>
-                     <p className="sec-text mt-20">Graduates of XYZ University have achieved remarkable success in their chosen fields, with many going on to pursue advanced degrees, secure fulfilling careers, and make valuable contributions to their communities.</p>
-                     <p className="sec-text">The university takes pride in its alumni network, which serves as a testament to the quality of education and the opportunities provided by the institution.</p>
+                     <p className="sec-text mt-20">Team IPM PRIME is here to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
+                     <p className="sec-text">You are ready to ACE any test!!</p>
                   </div>
                   <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="#" className="th-btn style7">Contact Us<i className="fas fa-arrow-right ms-2"></i></a></div>
                </div>
