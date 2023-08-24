@@ -33,7 +33,7 @@ function PrepModule() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
                                  <h5 className="h5">One-on-One Live Classes</h5>
-                                 <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p>
+                                 {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
@@ -55,14 +55,36 @@ function PrepModule() {
                                        </div>
                                     </div>
                                  </div>
-                                 <h5 className="h5 mt-40">Certification</h5>
-                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+                                 <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
+                                 <p>"Every Child is diffrent"</p>
+                                 <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
+                                 <div className="row mt-25">
+                                    <div className="col-lg-6">
+                                       <div className="checklist mb-4">
+                                          <ul>
+                                             <li> Live Streaming</li>
+                                             <li> Personalised strategy plan and notes</li>
+                                            
+                                             
+                                          </ul>
+                                       </div>
+                                    </div>
+                                    <div className="col-lg-6">
+                                       <div className="checklist">
+                                          <ul>
+                                             <li>  Career guidance mentorship</li>
+                                             <li>  Regular personal intrection</li>
+                                             
+                                          </ul>
+                                       </div>
+                                    </div>
+                                 </div>
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
                                  <h5 className="h5">Book a FREE Session for Prime Mentorship Batch By IPM Prime Tutorials</h5>
-                                 <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p>
+                                 {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
                                        <li>How to use social media to reach local, national and international audiences</li>
