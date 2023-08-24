@@ -9425,7 +9425,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 }
 
 .hero-1 .hero-img1 img {
-  border-radius: 50%;
+  width: 100%;
 }
 
 @media (max-width: 1500px) {
