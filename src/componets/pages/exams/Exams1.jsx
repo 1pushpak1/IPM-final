@@ -35,16 +35,15 @@ function Exams1() {
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
                                 <h5 className="h5">ELIGIBILITY CRITERIA</h5>
-                                <p>• General, NC-OBC, and EWS Category: Minimum 60% in 10th standard / SSC and 12th standard/ HSC or equivalent examinations, Maximum 20 years of age as on 30.06.2023.</p>
-                                <p>• SC, ST & PWD (DAP) Category: Minimum 55% in 10th standard/ SSC and 12th standard/ HSC or equivalent examinations, Maximum 20 years of age as on 30.06.2022.</p>
+                                <p>Candidates should have passed standard 10+2/ SSC. Candidates should have passed Standard XII/HSC or equivalent examination in 2021, and 2022 or appearing in 2023.</p>
                                 <h5 className="h5 mt-40">SELECTION & ADMISSION PROCESS</h5>
-                                <p>The candidates will be selected based on overall performance in the Aptitude Test Score (ATS) and Personal Interview (PI).</p>
+                                <p>The candidates will be selected based on overall performance in the Aptitude Test (AT) and Personal Interview (PI).</p>
                                 <h5>Adminssion Weightage</h5>
                                 <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p>
                                 <h5>IMPORTANT DATES</h5>
-                                <p>Online Application starts from :06.02.2023</p>
-                                <p>Last date for submitting online application: 10.04.2023</p>
-                                <p>Exam Date : 20.05.2023</p>
+                                <p>Online Application starts from :09.03.2023</p>
+                                <p>Last date for submitting online application: 14.04.2023</p>
+                                <p>Exam Date : 16.06.2023</p>
                                 <h5>EXAM PATTERN</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
@@ -64,13 +63,13 @@ function Exams1() {
                                         </tr>
                                         <tr>
                                             <th scope="row">2</th>
-                                            <td> Verbal Ability</td>
+                                            <td> Quantitative Ability- SA (No Negative Marking)</td>
                                             <td>40</td>
                                             <td>160</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">3</th>
-                                            <td>Logic Reasoning</td>
+                                            <td>Larry the Bird</td>
                                             <td>40</td>
                                             <td>160</td>
                                         </tr>
@@ -78,7 +77,7 @@ function Exams1() {
                                             <th scope="row">4</th>
                                             <td>Total</td>
                                             <td>120</td>
-                                            <td>480</td>
+                                            <td>180</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -88,32 +87,33 @@ function Exams1() {
                                 </div>
                                 <div className="accordion-area accordion" id="faqAccordion">
                                     <div className="accordion-card">
-                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Is The Duration Of The IPM Program At IIM Rohtak?</button></div>
+                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Does It Take Excellent Author?</button></div>
                                         <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                             <div className="accordion-body">
-                                                <p className="faq-text">The IPM program at IIM Rohtak is a five-year integrated program</p>
+                                                <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-card active">
-                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Can I Apply For The IPM Course At IIM Rohtak Directly After Completing My 12th Grade?</button></div>
+                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Purpose of education is the integral development?</button></div>
                                     <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">Yes, the IPM program is specifically designed for students who have completed their 12th grade or equivalent.</p>
+                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                         </div>
                                     </div>
                                     </div>
                                     <div className="accordion-card">
-                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Are There Any Reservations Or Quotas For Specific Categories In The IPM Program?</button></div>
+                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Education can contribute to the betterment?</button></div>
                                     <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">Yes, IIM Rohtak follows the government-mandated reservation policies for different categories such as SC, ST, OBC, EWS, and PwD.</p>
+                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
                                         </div>
                                     </div>
                                     </div>
                                 </div>
 
-                               
+                                <h5 className="h5 mt-40">Certification</h5>
+                                <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
                             </div>
                         </div>
                      </div>
