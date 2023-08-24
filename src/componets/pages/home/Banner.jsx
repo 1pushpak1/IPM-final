@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Banner() {
-   const backgroundImageUrl = 'assets/img/hero/hero_bg_1_1.jpg';
+   const backgroundImageUrl = 'assets/img/hero/hero_bg_11.jpg';
    const containerStyle = {
       backgroundImage: `url(${backgroundImageUrl})`,
     };
