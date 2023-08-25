@@ -17,7 +17,7 @@ import Exams5 from '../componets/pages/exams/Exams5'
 import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
-import About from '..componets/pages/home/About.jsx'
+import About from '..componets/pages/home/About'
 
 function Routers() {
   return (
