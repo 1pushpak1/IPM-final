@@ -50,6 +50,7 @@ function Exams3() {
                                 <p>Last date for submitting online application: 09.05.2023</p>
                                 <p> Last date to update the IPMAT-2023 (Conducted by IIM Indore) Application Number by 31.05.2023 (5:00 PM)</p>
                                 <p>Exam Date - Admission based on IPMAT (Conducted by IIM Indore)</p>
+                                <p></p>
                                 <h5>EXAM PATTERN</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>

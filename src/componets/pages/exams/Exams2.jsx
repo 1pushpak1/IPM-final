@@ -45,6 +45,7 @@ function Exams2() {
                                 <p>Online Application starts from :06.04.2023</p>
                                 <p>Last date for submitting online application: 30.04.2023</p>
                                 <p>Exam Date : 28.05.2023</p>
+                                <p></p>
                                 <h5>EXAM PATTERN</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
