@@ -35,15 +35,17 @@ function Exams4() {
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
                                 <h5 className="h5">ELIGIBILITY CRITERIA</h5>
-                                <p>Candidates should have passed standard 10+2/ SSC. Candidates should have passed Standard XII/HSC or equivalent examination in 2021, and 2022 or appearing in 2023.</p>
+                                <p>• Candidates should have passed 10+2 examination in arts/ commerce/ science stream or equivalent with 60% (55% for candidates from SC/ ST/ PwD/ Transgender).</p>
+                                <p>• Candidates should have passed Standard XII/HSC or equivalent examination in 2021, and 2022 or appearing in 2023. The candidate must have passed the class 10th examination in the year not before 2019.                                </p>
                                 <h5 className="h5 mt-40">SELECTION & ADMISSION PROCESS</h5>
-                                <p>The candidates will be selected based on overall performance in the Aptitude Test (AT) and Personal Interview (PI).</p>
-                                <h5>Adminssion Weightage</h5>
-                                <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p>
+                                <p>The criteria for preparing the merit list will be based on the composite score comprising the weightage of the JIPMAT score, and gender diversity as follows:</p>
+                                <p>JIPMAT Score – 95% & Gender Diversity – 5%</p>
+                                {/* <h5>Adminssion Weightage</h5>
+                                <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p> */}
                                 <h5>IMPORTANT DATES</h5>
-                                <p>Online Application starts from :09.03.2023</p>
-                                <p>Last date for submitting online application: 14.04.2023</p>
-                                <p>Exam Date : 16.06.2023</p>
+                                <p>Online Application starts from :06.04.2023</p>
+                                <p>Last date for submitting online application: 30.04.2023</p>
+                                <p>Exam Date : 28.05.2023</p>
                                 <h5>EXAM PATTERN</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
@@ -58,26 +60,26 @@ function Exams4() {
                                         <tr>
                                             <th scope="row">1</th>
                                             <td>Quantitative Ability- MCQ</td>
-                                            <td>40</td>
-                                            <td>160</td>
+                                            <td>33</td>
+                                            <td>132</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">2</th>
-                                            <td> Quantitative Ability- SA (No Negative Marking)</td>
-                                            <td>40</td>
-                                            <td>160</td>
+                                            <td> Verbal Ability & Reading Comprehension</td>
+                                            <td>34</td>
+                                            <td>136</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">3</th>
-                                            <td>Larry the Bird</td>
-                                            <td>40</td>
-                                            <td>160</td>
+                                            <td>Data Interpretation & Logical Reasoning</td>
+                                            <td>33</td>
+                                            <td>132</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">4</th>
                                             <td>Total</td>
-                                            <td>120</td>
-                                            <td>180</td>
+                                            <td>100</td>
+                                            <td>400</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -87,33 +89,33 @@ function Exams4() {
                                 </div>
                                 <div className="accordion-area accordion" id="faqAccordion">
                                     <div className="accordion-card">
-                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Does It Take Excellent Author?</button></div>
+                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Is The Duration Of The IPM Course At IIM Jammu?</button></div>
                                         <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                             <div className="accordion-body">
-                                                <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                                <p className="faq-text">The Integrated Program in Management (IPM) course at IIM Jammu has a duration of 5 years. It is a full-time program that combines undergraduate and postgraduate studies in management.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="accordion-card active">
-                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">Purpose of education is the integral development?</button></div>
+                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">What Is The Detailed Selection Process For Admission To The IPM Course At IIM Jammu?</button></div>
                                     <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                            <p className="faq-text">The selection process for the IPM course at IIM Jammu typically consists of two stages. The first stage involves an Aptitude Test, which assesses the candidates' quantitative ability, verbal ability, and logical reasoning skills. The shortlisted candidates from the Aptitude Test then proceed to the second stage, which includes a Written Ability Test (WAT) and a Personal Interview (PI). The final selection is based on the candidates' performance in all these stages</p>
                                         </div>
                                     </div>
                                     </div>
                                     <div className="accordion-card">
-                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Education can contribute to the betterment?</button></div>
+                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">What Are The Career Prospects After Completing The IPM Course At IIM Jammu?</button></div>
                                     <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                         <div className="accordion-body">
-                                            <p className="faq-text">The time it takes to repair a roof depends on the extent of the damage. For minor repairs, it might take an hour or two. For significant repairs, a Edura or team might be at your home for half a day.</p>
+                                            <p className="faq-text">Upon completion of the IPM course at IIM Jammu, graduates have a range of career options available to them. They can pursue managerial roles in various industries, such as finance, marketing, consulting, operations, and human resources. Some graduates may choose to start their own businesses or work in entrepreneurship-related roles. Additionally, the IPM course also provides a strong foundation for further academic pursuits like pursuing a Ph.D. or other advanced degrees in management.</p>
                                         </div>
                                     </div>
                                     </div>
                                 </div>
-
+{/* 
                                 <h5 className="h5 mt-40">Certification</h5>
-                                <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+                                <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                             </div>
                         </div>
                      </div>
