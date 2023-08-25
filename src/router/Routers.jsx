@@ -17,7 +17,7 @@ import Exams5 from '../componets/pages/exams/Exams5'
 import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
-import About from '../componets/pages/home/About '
+import About from '../componets/pages/home/About'
 
 function Routers() {
   return (
@@ -39,7 +39,7 @@ function Routers() {
                 <Route path="/login" element={<Login />} />
                 <Route path="/signup" element={<Signup />} />
                 <Route path="/contactus" element={<Contact />} />
-                <Route path="/about" element={<About />} />
+                <Route path="/about" element={<About/>} />
 
             </Routes>
         <Footer/>
