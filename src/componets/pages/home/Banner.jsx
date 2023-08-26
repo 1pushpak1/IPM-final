@@ -8,7 +8,7 @@ function Banner() {
   return (
     <>
       <div className="th-hero-wrapper hero-1" id="hero">
-         <div className="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
+         <div className="hero-slider-1 th- carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
             <div className="th-hero-slide">
                <div className="th - hero-bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
                <div className="container">
@@ -16,7 +16,7 @@ function Banner() {
                      <div className="col-md-6">
                         <div className="hero-style1">
                            {/* <span className="hero-subtitle" data-ani="slideinleft" data-ani-delay="0.1s"><span>35% OFF</span> LEARN FROM TODAY</span> */}
-                           <h1 className="hero-title text-white" data-ani="slideinleft" data-ani-delay="0.4s">Unlimited IPM-AT & PI  <span className="text-theme">Online Mentorship Sessions.</span></h1>
+                           <h1 className="hero-title text-black" data-ani="slideinleft" data-ani-delay="0.4s">Unlimited IPM-AT & PI  <span className="text-theme">Online Mentorship Sessions.</span></h1>
                            <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">SWOT Analysis, Beginners' Asessment & Counselling, Personalised Mentorship, Onr-To-Ont expert sessions, Highly Experienced Faculties, IIM allumni Mentors, Regular Mock Tests and detailed analysis, Customised and personal study plan suited to the individual students</p>
                            <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">Experience your Personalised Mentorship Journey?</p>
                            <div className="btn-group" data-ani="slideinleft" data-ani-delay="0.8s"><a href="#" className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></a></div>
