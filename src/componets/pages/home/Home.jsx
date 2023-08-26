@@ -10,7 +10,7 @@ function Home() {
             <div className="row align-items-center">
                <div className="col-xl-6">
                   <div className="img-box1 mb-40 mb-xl-0">
-                     <div className="img1"><img className="tilt-active" src="assets/img/team/att.jpg" alt="About" /></div>
+                     <div className="img1"><img className="tilt-active" src="assets/img/team/att1.jpg" alt="About" /></div>
                      {/* <div className="about-grid" data-bg-src="assets/img/normal/about_1_3.png">
                          <h3 className="about-grid_year"><span className="counter-number">10</span>k<span className="text-theme">+</span></h3> 
                         <p className="about-grid_text">Students Active Our Courses</p>
