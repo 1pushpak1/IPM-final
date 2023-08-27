@@ -86,7 +86,7 @@ function About() {
                      {/* </div>
                   </div> */}
             {/* //    </div> */}
-               <div className="col-xxl-3 col-lg-4">
+               {/* <div className="col-xxl-3 col-lg-4">
                   <aside className="sidebar-area stickypositin">
                      <div className="widget widget_info">
                         <h3 className="widget_title mt-0">Book a Free Demo</h3>
@@ -112,7 +112,7 @@ function About() {
                          </form>
                      </div>
                   </aside>
-               </div>
+               </div> */}
             {/* </div>
          </div> */}
       </section>
