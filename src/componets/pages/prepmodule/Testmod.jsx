@@ -62,7 +62,7 @@ function Testmod() {
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
                                  <h5 className="h5">Book a FREE Session for Prime Mentorship Batch By IPM Prime Tutorials</h5>
-                                 <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p>
+                                 {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
                                     <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
