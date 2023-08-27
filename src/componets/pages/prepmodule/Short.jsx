@@ -65,13 +65,11 @@ function Short() {
                                  <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p>
                                  <div className="checklist mb-1">
                                     <ul>
-                                       <li>How to use social media to reach local, national and international audiences</li>
-                                       <li>How to set up and market events, using online tools, so you no longer depend</li>
-                                       <li>How to create and run online shows, adapt your performance techniques and</li>
-                                       <li>Mentoring and troubleshooting and post-training support from Jason</li>
-                                       <li>How to use social media to reach local, national and international audiences</li>
-                                       <li>How to set up and market events, using online tools</li>
-                                       <li>Adapt your performance techniques and manage your audience throughout</li>
+                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                       <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
+                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                       <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
+                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
                                     </ul>
                                  </div>
                               </div>
