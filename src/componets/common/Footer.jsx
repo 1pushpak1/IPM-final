@@ -69,8 +69,8 @@ function Footer() {
                            {/* <h3 className="widget_title">Courses</h3> */}
                            <div className="menu-all-pages-container">
                               <ul className="menu">
-                                 {/* <li><a href="#">UI/UX Design</a></li>
-                                 <li><a href="#">Web Development</a></li>
+                                 <li><a href="/about">About IPM Prime</a></li>
+                                 {/* <li><a href="#">Web Development</a></li>
                                  <li><a href="#">Android Development</a></li>                                  */}
                               </ul>
                            </div>
