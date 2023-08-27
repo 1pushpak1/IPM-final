@@ -8,8 +8,8 @@ function Banner() {
   return (
     <>
       <div className="th-hero-wrapper hero-1" id="hero">
-         <div className="hero-slider- 1 th- carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
-            <div className="th-hero-slide">
+         <div className="hero-slide r- 1 th- carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
+            <div className="th-hero-vslide">
                <div className="th - hero-bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
                <div className="container">
                   <div className="row align-items-center justify-content-center">
