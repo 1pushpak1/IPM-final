@@ -15,7 +15,7 @@ function Home() {
                          <h3 className="about-grid_year"><span className="counter-number">10</span>k<span className="text-theme">+</span></h3> 
                         <p className="about-grid_text">Students Active Our Courses</p>
                      </div> */}
-                     {/* <div className="img2"><img className="tilt-active" src="assets/img/normal/att3.jpg" alt="About" /></div> */}
+                     <div className="img2"><img className="tilt-active" src="assets/img/normal/att1.jpg" alt="About" /></div>
                      {/* <div className="shape-mockup about-shape1 jump" data-left="-67px" data-bottom="0"><img src="assets/img/normal/about_1_shape1.png" alt="img" /></div> */}
                   </div>
                </div>
