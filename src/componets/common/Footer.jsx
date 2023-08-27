@@ -66,7 +66,7 @@ function Footer() {
                      </div>
                      <div className="col-md-6 col-xl-auto">
                         <div className="widget widget_nav_menu footer-widget">
-                           {/* <h3 className="widget_title">Courses</h3> */}
+                           <h3 className="widget_title">About</h3>
                            <div className="menu-all-pages-container">
                               <ul className="menu">
                                  <li><a href="/about">About IPM Prime</a></li>
