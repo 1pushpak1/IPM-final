@@ -78,7 +78,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_2.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
                      <div className="course-content">
                         {/* <div className="course-rating"> */}
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
@@ -95,7 +95,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_3.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
                      <div className="course-content">
                         {/* <div className="course-rating"> */}
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
@@ -112,7 +112,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_4.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/course4.png" alt="img" />  </div>
                      <div className="course-content">
                         {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
@@ -129,7 +129,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course_1_1.png" alt="img" /> </div>
+                     <div className="course-img"><img src="assets/img/course/course5.png" alt="img" /> </div>
                      <div className="course-content">
                         {/* <div className="course-rating">
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
