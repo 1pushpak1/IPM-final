@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from './Banner'
-
+import { Link } from 'react-router-dom';
 function Home() {
   return (
     <>
@@ -40,7 +40,7 @@ function Home() {
                         </div>
                      </div>
                   </div>
-                  <div className="btn-group mt-40"><a href="/about" className="th-btn">About More<i className="fa-regular fa-arrow-right ms-2"></i></a></div>
+                  <div className="btn-group mt-40"><Link to="/about" className="th-btn">About More<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                </div>
             </div>
          </div>
