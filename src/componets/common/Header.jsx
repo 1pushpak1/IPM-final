@@ -37,6 +37,9 @@ function Header() {
                   <li className="menu-item-has-children">
                      <a href="#">Exams</a>
                      <ul className="sub-menu">
+                        <a>IPM-AT</a>
+                        </ul>
+                        <ul className="sub-menu">
                         <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
                         <li><Link to="/exams1" onClick={handleClose}>IIM Rohtak </Link></li>
                         <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
@@ -110,6 +113,9 @@ function Header() {
                                     </li>
                                     <li className="menu-item-has-children">
                                        <a href="#">Exams</a>
+                                       <ul className="sub-menu">
+                                       <a>IPM-AT</a>
+                                       </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/exams">IIM Indore</Link></li>
                                        <li><Link to="/exams1">IIM Rohtak </Link></li>
