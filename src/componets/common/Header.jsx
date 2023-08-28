@@ -109,10 +109,10 @@ function Header() {
                                        <li><Link to="/master">Masters's Mentorship Program </Link></li>
                                        <li><Link to="/short">Short Mentorship Program </Link></li>
                                        <li><Link to="/">Speedester's Mentorship Program</Link></li>
-                                       <li><Link to="/">Test Series Mentorship Program</Link></li>
+                                       {/* <li><Link to="/">Test Series Mentorship Program</Link></li> */}
                                        <li><Link to="/">Classroom Course</Link></li>
                                        <li><Link to="/">Online Course</Link></li>
-                                       <li><Link to="/">Mock Test Mentorship</Link></li>
+                                       <li><Link to="/testmod">Mock Test Mentorship</Link></li>
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">

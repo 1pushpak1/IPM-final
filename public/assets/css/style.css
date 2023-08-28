@@ -7250,7 +7250,7 @@ ol.wp-block-rss {
 .footer-wrapper {
   position: relative;
   z-index: 2;
-  background-color: #0F1B31;
+  background-color: #9fc0ff;
 }
 
 .footer-wrapper .newsletter-title {
@@ -7258,14 +7258,14 @@ ol.wp-block-rss {
 }
 
 .footer-wrapper .th-social a {
-  background-color: #1e2c46;
-  color: #b3c1d3;
+  background-color: #9fc0ff;
+  color: #000000;
 }
 
 .footer-wrapper .th-social a:hover {
   background-color: var(--theme-color);
   border-color: var(--theme-color);
-  color: var(--white-color);
+  color: var(--black-color);
 }
 
 .widget-area {
@@ -7275,8 +7275,8 @@ ol.wp-block-rss {
 
 .copyright-wrap {
   padding: 16px 0;
-  background: #283752;
-  --body-color: #B3C1D3;
+  background: #9fc0ff;
+  --body-color: #000000;
 }
 
 .copyright-text {
@@ -7288,7 +7288,7 @@ ol.wp-block-rss {
 }
 
 .copyright-text a:hover {
-  color: var(--white-color);
+  color: var(--black-color);
 }
 
 /* Medium Large devices */
@@ -7327,16 +7327,16 @@ ol.wp-block-rss {
 
 /* Footer default ---------------------------------- */
 .footer-layout-default {
-  --body-color: #b3c1d3;
+  --body-color: #000000;
 }
 
 .footer-layout-default .footer-top {
-  border-bottom: 1px solid #283752;
+  border-bottom: 1px solid #9fc0ff;
   /* Medium devices */
 }
 
 .footer-layout-default .footer-top .footer-logo {
-  border-right: 1px solid #283752;
+  border-right: 1px solid #9fc0ff;
   padding: 85px 0;
   display: inline-block;
   padding-right: 78px;
@@ -7386,7 +7386,7 @@ ol.wp-block-rss {
 
 /* Footer 1 ---------------------------------- */
 .footer-layout1 {
-  --body-color: #b3c1d3;
+  --body-color: #000000;
   overflow: hidden;
 }
 
