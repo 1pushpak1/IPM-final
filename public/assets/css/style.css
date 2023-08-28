@@ -9438,6 +9438,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
   position: relative;
   z-index: 6;
   padding: 222px 0 217px 0;
+  padding-top: 100px;
   /* Large devices */
   /* Medium devices */
   /* Extra small devices */
