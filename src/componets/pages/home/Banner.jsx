@@ -8,11 +8,15 @@ function Banner() {
   return (
     <>
       <div className="th-hero-wrapper hero-1" id="hero">
-         <div className="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
-            <div className="th-hero-vslide">
-               <div className="th-hero-bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
+         <div className="hero-slide r- 1 th- carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
+            <div className="th-hero- vslide">
+               {/* <div className="th-hero-b g" data-overlay="title" data-opacity="8" style={containerStyle}></div> */}
                <div className="container">
+<<<<<<< HEAD
                   <div className="row align-items-start justify-content-start">
+=======
+                  <div className="row align-items-center justify-content-center">
+>>>>>>> parent of 16f9ded (Update Banner.jsx)
                      <div className="col-md-6">
                         <div className="hero-style1">
                            <span className="hero-subtitle text-black" data-ani="slideinleft" data-ani-delay="0.1s"><span>IPM PRIME</span>PREMIUM MENTORSHIP PROGRAM</span>
