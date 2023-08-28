@@ -57,9 +57,9 @@ function Footer() {
                            <h3 className="widget_title">Quick Links</h3>
                            <div className="menu-all-pages-container">
                               <ul className="menu">
-                                 <li><a href="#">Home</a></li>
-                                 <li><a href="#">About </a></li>
-                                 <li><a href="#">Contact us</a></li>
+                                 <li><Link to="/">Home</Link></li>
+                                 <li><Link to="/about">About </Link></li>
+                                 <li><Link to="/contactus">Contact us</Link></li>
                                  
                               </ul>
                            </div>
