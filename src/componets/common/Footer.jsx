@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Footer() {
   return (
@@ -28,7 +29,7 @@ function Footer() {
                   <div className="footer-contact">
                      <div className="footer-contact_icon icon-btn"><i className="fal fa-location-dot"></i></div>
                      <div className="media-body">
-                        <p className="footer-contact_text">Our university location:</p>
+                        <p className="footer-contact_text">Our location:</p>
                         <a href="https://www.google.com/maps" className="footer-contact_link">147/I, Green Road, Noida</a>
                      </div>
                   </div>
@@ -69,7 +70,7 @@ function Footer() {
                            <h3 className="widget_title">About</h3>
                            <div className="menu-all-pages-container">
                               <ul className="menu">
-                                 <li><a href="/about">About IPM Prime</a></li>
+                                 <li><Link to="/about">About IPM Prime</Link></li>
                                  {/* <li><a href="#">Web Development</a></li>
                                  <li><a href="#">Android Development</a></li>                                  */}
                               </ul>
@@ -94,10 +95,10 @@ function Footer() {
                      </div>
                      <div className="col-md-6 text-end d-none d-md-block">
                         <div className="footer-links">
-                           <ul>
+                           {/* <ul>
                               <li><a href="#">Privacy Policy</a></li>
-                              <li><a href="#">Terms & Condition</a></li>
-                           </ul>
+                              <li><a href="#">Terms & Condition</a></li> */}
+                           {/* </ul> */}
                         </div>
                      </div>
                   </div>
