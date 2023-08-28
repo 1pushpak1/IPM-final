@@ -29,15 +29,18 @@ function Header() {
                      <ul className="sub-menu">
                         <li><Link to="/prep-module" onClick={handleClose}>Premium Mentorship Program</Link></li>
                         <li><Link to="/achivers" onClick={handleClose}>Achiver's Mentorship Program </Link></li>
-                        <li><Link to="/master" onClick={handleClose}>Masters's Mentorship Program </Link></li>
+                        <li><Link to="/master" onClick={handleClose}>Master's Mentorship Program </Link></li>
                         <li><Link to="/short" onClick={handleClose}>Short Mentorship Program </Link></li>
-                        <li><Link to="/testmod" onClick={handleClose}>Test Series Mentorship Program</Link></li>
+                        {/* <li><Link to="/testmod" onClick={handleClose}>Test Series Mentorship Program</Link></li> */}
+                        <li><Link to="/" onClick={handleClose}>Speedester's Mentorship Program</Link></li>
+                        <li><Link to="/testmod" onClick={handleClose}>Mock Test Mentorship</Link></li>
+                        <li><Link to="/" onClick={handleClose}>Classroom Program</Link></li>
                      </ul>
                   </li>
                   <li className="menu-item-has-children">
                      <a href="#">Exams</a>
                      <ul className="sub-menu">
-                        <a>IPM-AT</a>
+                        
                         </ul>
                         <ul className="sub-menu">
                         <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
@@ -48,6 +51,43 @@ function Header() {
                         {/* <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li> */}
                      </ul>
                   </li>
+                  <li>
+                                       <a href="#">Explore Management</a>
+                                       <ul className="sub-menu">
+                                      
+                                       </ul>
+                                       <ul className="sub-menu">
+                                       <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
+                                       <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
+                                       <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li>
+                                       <li><Link to="/exams1" onClick={handleClose}>IIM Rohtak </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>NMIMS </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Symbiosis </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Indraprast University </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Christ University</Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Jamia Millia University </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Devi Ahilya Vishwavidyalaya </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>UPES </Link></li>
+                                       <li><Link to="/exams5" onClick={handleClose}>Delhi University</Link></li>
+                                       </ul>
+                                    </li>
+                                    <li>
+                                       <a href="#">Resources</a>
+                                       <ul className="sub-menu">
+                                       </ul>
+                                       <ul className="sub-menu">
+                                       <li><Link to="/exams" onClick={handleClose}>Exam Analysis</Link></li>
+                                       <li><Link to="/exams1" onClick={handleClose}>Exam News </Link></li>
+                                       <li><Link to="/exams2" onClick={handleClose}>IPM-AT Exam Calander </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>IPM Colleges </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>Blogs </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>News & Events </Link></li>
+                                       {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
+                                       {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
+                                       </ul>
+                                    </li>
                   {/* <li className="menu-item-has-children">
                      <a href="#">Resources</a>
                   </li> */}
@@ -106,13 +146,13 @@ function Header() {
                                        <ul className="sub-menu">
                                        <li><Link to="/prep-module">Premium Mentorship Program</Link></li>
                                        <li><Link to="/achivers">Achiver's Mentorship Program </Link></li>
-                                       <li><Link to="/master">Masters's Mentorship Program </Link></li>
+                                       <li><Link to="/master">Master's Mentorship Program </Link></li>
                                        <li><Link to="/short">Short Mentorship Program </Link></li>
                                        <li><Link to="/">Speedester's Mentorship Program</Link></li>
-                                       {/* <li><Link to="/">Test Series Mentorship Program</Link></li> */}
-                                       <li><Link to="/">Classroom Course</Link></li>
-                                       <li><Link to="/">Online Course</Link></li>
                                        <li><Link to="/testmod">Mock Test Mentorship</Link></li>
+                                       <li><Link to="/">Classroom Program</Link></li>
+                                       {/* <li><Link to="/">Test Series Mentorship Program</Link></li> */}
+                                       {/* <li><Link to="/">Online Course</Link></li> */}
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">
@@ -159,6 +199,8 @@ function Header() {
                                        <li><Link to="/exams1">Exam News </Link></li>
                                        <li><Link to="/exams2">IPM-AT Exam Calander </Link></li>
                                        <li><Link to="/exams3">IPM Colleges </Link></li>
+                                       <li><Link to="/exams3">Blogs </Link></li>
+                                       <li><Link to="/exams3">News & Events </Link></li>   
                                        {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>
