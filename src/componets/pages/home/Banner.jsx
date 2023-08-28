@@ -12,7 +12,7 @@ function Banner() {
             <div className="th-hero-vslide">
                <div className="th-hero-bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
                <div className="container">
-                  <div className="row align-items-start justify-content-center">
+                  <div className="row align-items-start justify-content-start">
                      <div className="col-md-6">
                         <div className="hero-style1">
                            <span className="hero-subtitle text-black" data-ani="slideinleft" data-ani-delay="0.1s"><span>IPM PRIME</span>PREMIUM MENTORSHIP PROGRAM</span>
