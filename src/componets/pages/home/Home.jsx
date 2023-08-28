@@ -174,7 +174,7 @@ function Home() {
                         <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
                         {/* <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p> */}
                      </div>
-                     <a  className="th-btn style8">Join With Us<i className="fas fa-arrow-right ms-1"></i></a>
+                     <Link to="/contactus"  className="th-btn style8">Contact Our Mentor<i className="fas fa-arrow-right ms-1"></i></Link>
                   </div>
                </div>
             </div>
@@ -194,7 +194,7 @@ function Home() {
                         <h5 className="title"><span className="text-theme"><span className="counter-number">500</span>+</span> Active Students</h5>
                         <img src="assets/img/normal/student-group_1_1.png" alt="img" />
                      </div> */}
-                     {/* <div className="text-end"><a className="th-btn mt-30" href="#">Get Started <i className="far fa-arrow-right ms-1"></i></a></div> */}
+                     <div className="text-end"><Link to="/whyipm" className="th-btn mt-30" >More <i className="far fa-arrow-right ms-1"></i></Link></div>
                   </div>
                </div>
                <div className="col-xl-6">

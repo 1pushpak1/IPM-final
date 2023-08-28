@@ -18,6 +18,7 @@ import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
 import About from '../componets/pages/home/About'
+import WhyIPM from '../componets/pages/home/Whyipmprime'
 
 function Routers() {
   return (
@@ -40,6 +41,7 @@ function Routers() {
                 <Route path="/signup" element={<Signup />} />
                 <Route path="/contactus" element={<Contact />} />
                 <Route path="/about" element={<About/>} />
+                <Route path="/whyipm" element={<WhyIPM/>} />
 
             </Routes>
         <Footer/>
