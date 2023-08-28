@@ -29,7 +29,7 @@ function Banner() {
                </div>
                <div className="hero-shape shape1"><img src="assets/img/hero/shape_1_1.png" alt="shape" /></div>
                <div className="hero-shape shape2"><img src="assets/img/hero/shape_1_2.png" alt="shape" /></div>
-               <div className="hero-shape shape3"></div>
+               {/* <div className="hero-shape shape3"></div> */}
                <div className="hero-shape shape4 shape-mockup jump-reverse" data-right="3%" data-bottom="7%"><img src="assets/img/hero/shape_1_3.png" alt="shape" /></div>
                <div className="hero-shape shape5 shape-mockup jump-reverse" data-left="0" data-bottom="0"><img src="assets/img/hero/shape_1_4.png" alt="shape" /></div>
             </div>
