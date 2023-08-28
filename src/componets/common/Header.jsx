@@ -66,7 +66,7 @@ function Header() {
                         <ul>
                            <li><i className="far fa-phone"></i><a href="tel:+91-9910098275">+91-99100 88661</a></li>
                            <li className="d-none d-xl-inline-block"><i className="far fa-envelope"></i><a href="mailto:info@ipmprime.com">info@ipmprime.com</a></li>
-                           <li><a href="mailto:info@ipmprime.com">Join our Forum</a></li>
+                           <li><Link to="/contactus">Contact Us</Link></li>
                         </ul>
                      </div>
                   </div>
@@ -108,14 +108,17 @@ function Header() {
                                        <li><Link to="/achivers">Achiver's Mentorship Program </Link></li>
                                        <li><Link to="/master">Masters's Mentorship Program </Link></li>
                                        <li><Link to="/short">Short Mentorship Program </Link></li>
-                                       <li><Link to="/testmod">Test Series Mentorship Program</Link></li>
+                                       <li><Link to="/">Speedester's Mentorship Program</Link></li>
+                                       <li><Link to="/">Test Series Mentorship Program</Link></li>
+                                       <li><Link to="/">Classroom Course</Link></li>
+                                       <li><Link to="/">Online Course</Link></li>
+                                       <li><Link to="/">Mock Test Mentorship</Link></li>
                                        </ul>
                                     </li>
                                     <li className="menu-item-has-children">
                                        <a href="#">Exams</a>
                                        <ul className="sub-menu">
-                                       <a>IPM-AT</a>
-                                       </ul>
+                                          </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/exams">IIM Indore</Link></li>
                                        <li><Link to="/exams1">IIM Rohtak </Link></li>
@@ -125,12 +128,44 @@ function Header() {
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>
                                     </li>
-                                    {/* <li>
-                                       <a href="#">Resources</a>
-                                    </li> */}
                                     <li>
-                                       <Link to="/contactus">Contact us</Link>
+                                       <a href="#">Explore Management</a>
+                                       <ul className="sub-menu">
+                                      
+                                       </ul>
+                                       <ul className="sub-menu">
+                                       <li><Link to="/exams">IIM Indore</Link></li>
+                                       <li><Link to="/exams1">IIM Rohtak </Link></li>
+                                       <li><Link to="/exams2">IIM Bodhgaya </Link></li>
+                                       <li><Link to="/exams3">IIM Ranchi </Link></li>
+                                       <li><Link to="/exams4">IIM Jammu </Link></li>
+                                       <li><Link to="/exams5">IIM Nagpur </Link></li>
+                                       <li><Link to="/exams5">NMIMS </Link></li>
+                                       <li><Link to="/exams5">Symbiosis </Link></li>
+                                       <li><Link to="/exams5">Indraprast University </Link></li>
+                                       <li><Link to="/exams5">Christ University</Link></li>
+                                       <li><Link to="/exams5">Jamia Millia University </Link></li>
+                                       <li><Link to="/exams5">Devi Ahilya Vishwavidyalaya </Link></li>
+                                       <li><Link to="/exams5">UPES </Link></li>
+                                       <li><Link to="/exams5">Delhi University</Link></li>
+                                       </ul>
                                     </li>
+                                    <li>
+                                       <a href="#">Resources</a>
+                                       <ul className="sub-menu">
+                                       </ul>
+                                       <ul className="sub-menu">
+                                       <li><Link to="/exams">Exam Analysis</Link></li>
+                                       <li><Link to="/exams1">Exam News </Link></li>
+                                       <li><Link to="/exams2">IPM-AT Exam Calander </Link></li>
+                                       <li><Link to="/exams3">IPM Colleges </Link></li>
+                                       {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
+                                       {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
+                                       </ul>
+                                    </li>
+                                    {/* <li>
+                                       <Link to="/contactus">Contact us</Link>
+                                    </li> */}
                                  </ul>
                               </nav>
                               <button type="button" onClick={handleShow} className="th-menu-toggle d-block d-lg-none"><i className="far fa-bars"></i></button>
