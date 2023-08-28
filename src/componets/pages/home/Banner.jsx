@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Banner() {
    const backgroundImageUrl = 'assets/img/hero/hero_bg_11.jpg';
