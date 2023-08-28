@@ -9378,7 +9378,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
           animation: jumpAni 7s linear infinite;
 }
 
-.hero-1 .shape3 {
+/* .hero-1 .shape3 {
   top: -420px;
   left: -330px;
   width: 619.52px;
@@ -9391,7 +9391,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
   z-index: 2;
   -webkit-animation: spin 40s linear infinite;
           animation: spin 40s linear infinite;
-}
+} */
 
 .hero-1 .shape5,
 .hero-1 .shape4 {
