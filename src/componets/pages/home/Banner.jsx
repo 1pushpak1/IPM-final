@@ -17,9 +17,9 @@ function Banner() {
                         <div className="hero-style1">
                            <span className="hero-subtitle text-black" data-ani="slideinleft" data-ani-delay="0.1s"><span>IPM PRIME</span>PREMIUM MENTORSHIP PROGRAM</span>
                            <h1 className="hero-title text-black" data-ani="slideinleft" data-ani-delay="0.4s">Unlimited IPM-AT & PI  <span className="text-theme">Online Mentorship Sessions.</span></h1>
-                           <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">SWOT Analysis, Beginners' Asessment & Counselling, Personalised Mentorship, One-To-One expert sessions, Highly Experienced Faculties, IIM allumni Mentors, Regular Mock Tests and detailed analysis, customised and personal study plan suited to the individual students</p>
+                           <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">SWOT Analysis, Beginners' Asessment & Counselling, Personalised Mentorship, Onr-To-Ont expert sessions, Highly Experienced Faculties, IIM allumni Mentors, Regular Mock Tests and detailed analysis, Customised and personal study plan suited to the individual students</p>
                            <p className="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">Experience your Personalised Mentorship Journey?</p>
-                           <div className="btn-group" data-ani="slideinleft" data-ani-delay="0.8s"><Link to="/contactus" className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></Link></div>
+                           <div className="btn-group" data-ani="slideinleft" data-ani-delay="0.8s"><a href="#" className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></a></div>
                         </div>
                      </div>
                      <div className="col-md-6 text-lg-end text-center">
