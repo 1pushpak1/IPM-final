@@ -326,7 +326,7 @@ function Home() {
                            <h3 className="team-title"><a href="#">Rajeev Sir</a></h3>
                            <span className="team-desig">Senior Mentor</span>
                         </div>
-                        <div className="team-info"><span><i className="fal fa-file-check"></i>2 Courses</span> <span><i className="fa-light fa-users"></i>Students 60+</span></div>
+                        {/* <div className="team-info"><span><i className="fal fa-file-check"></i>2 Courses</span> <span><i className="fa-light fa-users"></i>Students 60+</span></div> */}
                      </div>
                   </div>
                   <div className="team-card team-card-1-1">
@@ -342,7 +342,7 @@ function Home() {
                            <h3 className="team-title"><a href="#">Richa Mam</a></h3>
                            <span className="team-desig">Mentor</span>
                         </div>
-                        <div className="team-info"><span><i className="fal fa-file-check"></i>3 Courses</span> <span><i className="fa-light fa-users"></i>Students 50+</span></div>
+                        {/* <div className="team-info"><span><i className="fal fa-file-check"></i>3 Courses</span> <span><i className="fa-light fa-users"></i>Students 50+</span></div> */}
                      </div>
                   </div>
                </div>
@@ -360,7 +360,7 @@ function Home() {
                            <h3 className="team-title"><a href="#">Priyanshu Sir</a></h3>
                            <span className="team-desig">Mentor</span>
                         </div>
-                        <div className="team-info"><span><i className="fal fa-file-check"></i>4 Courses</span> <span><i className="fa-light fa-users"></i>Students 30+</span></div>
+                        {/* <div className="team-info"><span><i className="fal fa-file-check"></i>4 Courses</span> <span><i className="fa-light fa-users"></i>Students 30+</span></div> */}
                      </div>
                   </div>
                   {/* <div className="team-card team-card-1-2 team-card-1-2-active">
