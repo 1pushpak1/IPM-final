@@ -23,6 +23,15 @@ function PrepModule() {
                <div className="col-xxl-9 col-lg-8">
                   <div className="course-single">
                      <div className="course-single-bottom">
+                     <div className="course-single-top">
+                        {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
+                        {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
+                        <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
+                        <ul className="course-single-meta">
+                           {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
+                           <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
+                        </ul>
+                     </div>
                         <ul className="nav course-tab" id="courseTab" role="tablist">
                            <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Personalized mentorship</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
@@ -55,31 +64,31 @@ function PrepModule() {
                                        </div>
                                     </div>
                                  </div>
-                                 <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
-                                 <p>"Every Child is diffrent"</p>
-                                 <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
-                                 <div className="row mt-25">
-                                    <div className="col-lg-6">
-                                       <div className="checklist mb-4">
-                                          <ul>
-                                             <li> Live Streaming</li>
-                                             <li> Personalised strategy plan and notes</li>
-                                            
+                                    <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
+                                    <p>"Every Child is diffrent"</p>
+                                    <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
+                                    <div className="row mt-25">
+                                       <div className="col-lg-6">
+                                          <div className="checklist mb-4">
+                                             <ul>
+                                                <li> Live Streaming</li>
+                                                <li> Personalised strategy plan and notes</li>
                                              
-                                          </ul>
+                                                
+                                             </ul>
+                                          </div>
                                        </div>
-                                    </div>
-                                    <div className="col-lg-6">
-                                       <div className="checklist">
-                                          <ul>
-                                             <li>  Career guidance mentorship</li>
-                                             <li>  Regular personal intrection</li>
-                                             
-                                          </ul>
+                                       <div className="col-lg-6">
+                                          <div className="checklist">
+                                             <ul>
+                                                <li>  Career guidance mentorship</li>
+                                                <li>  Regular personal intrection</li>
+                                                
+                                             </ul>
+                                          </div>
                                        </div>
                                     </div>
                                  </div>
-                              </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">

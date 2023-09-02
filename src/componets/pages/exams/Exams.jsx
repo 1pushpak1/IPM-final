@@ -25,11 +25,14 @@ function Exams() {
                      <div className="course-single-top">
                         {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
                         {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
-                        <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
-                        <ul className="course-single-meta">
+                        {/* <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
+                        <ul className="course-single-meta"> */}
                            {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
                            <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
-                        </ul>
+                        {/* </ul> */}
+                        <div className="cta-wrap title-area mb-0">
+                     <div className="cta-icon"><img src="assets/img/normal/cta-icon1.png" alt="icon" /></div>
+                     </div>
                      </div>
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
