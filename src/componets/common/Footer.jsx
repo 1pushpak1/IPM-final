@@ -5,8 +5,8 @@ function Footer() {
   return (
     <>
         <footer className="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer-bg.png">
-         <div className="shape-mockup footer-shape1 jump" data-left="60px" data-top="70px"><img src="assets/img/normal/footer-bg-shape1.png" alt="img" /></div>
-         <div className="shape-mockup footer-shape2 jump-reverse" data-right="80px" data-bottom="120px"><img src="assets/img/normal/footer-bg-shape2.png" alt="img" /></div>
+         {/* <div className="shape-mockup footer-shape1 jump" data-left="60px" data-top="70px"><img src="assets/img/normal/footer-bg-shape1.png" alt="img" /></div>
+         <div className="shape-mockup footer-shape2 jump-reverse" data-right="80px" data-bottom="120px"><img src="assets/img/normal/footer-bg-shape2.png" alt="img" /></div> */}
          <div className="footer-top">
             <div className="container">
                <div className="footer-contact-wrap">
