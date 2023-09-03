@@ -123,8 +123,54 @@ function Calander() {
                                         </tr>
                                     </tbody>
                                 </table>
-                                                      
-                        </div>
+                            </div>                
+                            <div className="course-description">
+                                 <h5>JIPMAT Exam Calendar</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">S.No.</th>
+                                            <th scope="col">Milestone</th>
+                                            <th scope="col">Date/Deadline</th>
+                                            </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>JIPMAT Application start date</td>
+                                            <td>6 April 2023</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td> JIPMAT Application last date</td>
+                                            <td>30 April 2023</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Correction Window</td>
+                                            <td>2-4 May 2023</td>
+                                         
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Exam Date</td>
+                                            <td>28 May 2023</td>
+                                       
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Final Announcement of the result</td>
+                                            <td>Second week of June 2023</td>
+                                       
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>   
+
+
+
                      </div>
                   </div>
                </div>
