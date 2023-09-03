@@ -35,14 +35,13 @@ function PrepModule() {
                         
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
                         
-                    
-                  </div>
+                    </div>
                </div>
             </div>
          </div>
       </div>
 
-      <section className="space-top space-extra2-bottom">
+      <section>
          <div className="container">
             <div className="row">
                <div className="col-xxl-9 col-lg-8">
