@@ -74,9 +74,9 @@ function Analysis() {
                                 </table>
                           
                             </div>
-                            <h5 className="h5 mt-40">SET 2023 Detailed Analysis</h5>
+                            <h4 className="h5 mt-40">SET 2023 Detailed Analysis</h4>
                                 <p>The overall difficulty level of the paper was easy-moderate. Time constraint was not so much of a factor. There was ample time especially because of the difficulty level and the nature of the General Reasoning and English section. Find below the section-wise analysis of the paper.</p>
-                            <h3>General English</h3>
+                            <h5>General English</h5>
                             <div className="col-md-auto">
                         <div className="checklist">
                            <ul>
@@ -93,6 +93,27 @@ function Analysis() {
                         </div>
                      </div>
 
+                        <h5>Quantitative Aptitude</h5>
+                        <div className="col-md-auto">
+                        <div className="checklist">
+                            <ul>
+                                <li>Number System</li>
+                                <li>Time and Work</li>
+                                <li>Time, Speed, and Distance</li>
+                                <li>Percentages</li>
+                                <li>Ratio and Proportion</li>
+                                <li>Simple Interest-Compound Interest</li>
+                                <li>Profit, Loss, and Discount</li>
+                                <li>Averages</li>
+                                <li>Probability</li>
+                                <li>Geometry</li>
+                                <li>Clocks</li>
+                                <li>Trigonometry</li>
+                                <li>Mensuration</li>
+                                <li>Log</li>
+                             </ul>
+                            </div>
+                        </div>
                      </div>
                   </div>
                </div>
