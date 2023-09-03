@@ -55,9 +55,7 @@ function PrepModule() {
                            {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
                            <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
                         {/* </ul> */}
-                        <div className="cta-wrap title-area mb-0">
-                     <div className="cta-icon"><img src="assets/img/normal/cta-icon1.png" alt="icon" /></div>
-                     </div>
+                       
                      </div>
                         <ul className="nav course-tab" id="courseTab" role="tablist">
                            <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Personalized mentorship</a></li>
