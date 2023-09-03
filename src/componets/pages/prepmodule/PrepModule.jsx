@@ -25,7 +25,7 @@ function PrepModule() {
          <div className="row align-items-center">
             <div className="col-xl-6">
                <div className="wcu-img-1">
-                  <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
+                  <div className="img1"><img src="assets/img/normal/mentor.jpg" alt="img" /></div>
                                         
                   </div>
                </div>
@@ -33,7 +33,7 @@ function PrepModule() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        <h2 className="sec-title">"Personalized Mentorship Program (One on One live classes)"</h2>
                         
                     </div>
                </div>
