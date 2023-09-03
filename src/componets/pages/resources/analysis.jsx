@@ -73,7 +73,7 @@ function Analysis() {
                                     </tbody>
                                 </table>
                           
-                            </div>
+                            
                             <div className="tab-content" id="productTabContent">
                                 <h4 className="h5 mt-40">SET 2023 Detailed Analysis</h4>
                                 <p>The overall difficulty level of the paper was easy-moderate. Time constraint was not so much of a factor. There was ample time especially because of the difficulty level and the nature of the General Reasoning and English section. Find below the section-wise analysis of the paper.</p>
@@ -94,6 +94,7 @@ function Analysis() {
                                         </div>
                                     </div>
                                    
+                                   <p>  </p>
                                    <p>  </p>
                                  <h5>Quantitative Aptitude</h5>
                                     <div className="col-md-auto">
@@ -117,6 +118,7 @@ function Analysis() {
                                         </div>
                                     </div>
                                     <p>  </p>
+                                    <p>  </p>
                                  <h5>General Awareness</h5>
                                     <div className="col-md-auto">
                                         <div className="checklist">
@@ -136,7 +138,8 @@ function Analysis() {
                                             </ul>
                                         </div>
                                     </div>
-
+                                    <p>  </p>
+                                    <p>  </p>
                                 <h5>Logical Reasoning</h5>
                                     <div className="col-md-auto">
                                         <div className="checklist">
@@ -154,6 +157,7 @@ function Analysis() {
 
                                              </ul>
                                         </div>
+                                    </div>
                                     </div>
                              </div>
                          </div>
