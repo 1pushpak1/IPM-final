@@ -20,6 +20,22 @@ import Contact from '../componets/pages/contactus/Contact'
 import About from '../componets/pages/home/About'
 import WhyIPM from '../componets/pages/home/Whyipmprime'
 import Indore from '../componets/pages/management/indore'
+import Bodhgaya from '../componets/pages/management/bodhgaya'
+import Christ from '../componets/pages/management/christ'
+import Devi from '../componets/pages/management/devi'
+import Du from '../componets/pages/management/du'
+import Indore from '../componets/pages/management'
+import Indraprast from '../componets/pages/management/indraprast'
+import Jmaia from '../componets/pages/management/jamia'
+import Jammu from '../componets/pages/management/jammu'
+import Nagpur from '../componets/pages/management/nagpur'
+import Nmims from '../componets/pages/management/nmims'
+import Ranchi from '../componets/pages/management/ranchi'
+import Rohtak from '../componets/pages/management/rohtak'
+import Symbiosis from '../componets/pages/management/symbiosis'
+import Upes from '../componets/pages/management/upes'
+import Jamia from '../componets/pages/management/jamia'
+
 
 function Routers() {
   return (
@@ -44,6 +60,19 @@ function Routers() {
                 <Route path="/about" element={<About/>} />
                 <Route path="/whyipm" element={<WhyIPM/>} />
                 <Route path="/iimindore" element={<Indore/>} />
+                <Route path="/christ" element={<Christ/>} />
+                <Route path="/bodhgaya" element={<Bodhgaya/>} />
+                <Route path="/devi" element={<Devi/>} />
+                <Route path="/du" element={<Du/>} />
+                <Route path="/indraprast" element={<Indraprast/>} />
+                <Route path="/jamia" element={<Jamia/>} />
+                <Route path="/jammu" element={<Jammu/>} />
+                <Route path="/nagpur" element={<Nagpur/>} />
+                <Route path="/nmims" element={<Nmims/>} />
+                <Route path="/ranchi" element={<Ranchi/>} />
+                <Route path="/rohtak" element={<Rohtak/>} />
+                <Route path="/symbiosis" element={<Symbiosis/>} />
+                <Route path="/upes" element={<Upes/>} />
 
             </Routes>
         <Footer/>

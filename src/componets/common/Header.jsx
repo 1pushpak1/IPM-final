@@ -58,19 +58,19 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/iimindore" onClick={handleClose}>IIM Indore</Link></li>
-                                       <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
-                                       <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
-                                       <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li>
-                                       <li><Link to="/exams1" onClick={handleClose}>IIM Rohtak </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>NMIMS </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Symbiosis </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Indraprast University </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Christ University</Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Jamia Millia University </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Devi Ahilya Vishwavidyalaya </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>UPES </Link></li>
-                                       <li><Link to="/exams5" onClick={handleClose}>Delhi University</Link></li>
+                                       <li><Link to="/bodhgaya" onClick={handleClose}>IIM Bodhgaya </Link></li>
+                                       <li><Link to="/ranchi" onClick={handleClose}>IIM Ranchi </Link></li>
+                                       <li><Link to="/jammu" onClick={handleClose}>IIM Jammu </Link></li>
+                                       <li><Link to="/nagpur" onClick={handleClose}>IIM Nagpur </Link></li>
+                                       <li><Link to="/rohtak" onClick={handleClose}>IIM Rohtak </Link></li>
+                                       <li><Link to="/nmims" onClick={handleClose}>NMIMS </Link></li>
+                                       <li><Link to="/symbiosis" onClick={handleClose}>Symbiosis </Link></li>
+                                       <li><Link to="/indraprast" onClick={handleClose}>Indraprast University </Link></li>
+                                       <li><Link to="/christ" onClick={handleClose}>Christ University</Link></li>
+                                       <li><Link to="/jamia" onClick={handleClose}>Jamia Millia University </Link></li>
+                                       <li><Link to="/devi" onClick={handleClose}>Devi Ahilya Vishwavidyalaya </Link></li>
+                                       <li><Link to="/upes" onClick={handleClose}>UPES </Link></li>
+                                       <li><Link to="/du" onClick={handleClose}>Delhi University</Link></li>
                                        </ul>
                                     </li>
                                     <li>
@@ -175,19 +175,19 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/iimindore">IIM Indore</Link></li>
-                                       <li><Link to="/exams1">IIM Rohtak </Link></li>
-                                       <li><Link to="/exams2">IIM Bodhgaya </Link></li>
-                                       <li><Link to="/exams3">IIM Ranchi </Link></li>
-                                       <li><Link to="/exams4">IIM Jammu </Link></li>
-                                       <li><Link to="/exams5">IIM Nagpur </Link></li>
-                                       <li><Link to="/exams5">NMIMS </Link></li>
-                                       <li><Link to="/exams5">Symbiosis </Link></li>
-                                       <li><Link to="/exams5">Indraprast University </Link></li>
-                                       <li><Link to="/exams5">Christ University</Link></li>
-                                       <li><Link to="/exams5">Jamia Millia University </Link></li>
-                                       <li><Link to="/exams5">Devi Ahilya Vishwavidyalaya </Link></li>
-                                       <li><Link to="/exams5">UPES </Link></li>
-                                       <li><Link to="/exams5">Delhi University</Link></li>
+                                       <li><Link to="/rohtak">IIM Rohtak </Link></li>
+                                       <li><Link to="/bodhgaya">IIM Bodhgaya </Link></li>
+                                       <li><Link to="/ranchi">IIM Ranchi </Link></li>
+                                       <li><Link to="/jammu">IIM Jammu </Link></li>
+                                       <li><Link to="/nagpur">IIM Nagpur </Link></li>
+                                       <li><Link to="/nmims">NMIMS </Link></li>
+                                       <li><Link to="/symbiosis">Symbiosis </Link></li>
+                                       <li><Link to="/indrsprast">Indraprast University </Link></li>
+                                       <li><Link to="/christ">Christ University</Link></li>
+                                       <li><Link to="/jamia">Jamia Millia University </Link></li>
+                                       <li><Link to="/devi">Devi Ahilya Vishwavidyalaya </Link></li>
+                                       <li><Link to="/upes">UPES </Link></li>
+                                       <li><Link to="/du">Delhi University</Link></li>
                                        </ul>
                                     </li>
                                     <li>

@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Indore() {
+function Du() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -9,10 +9,10 @@ function Indore() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IIM Indore</h1>
+               <h1 className="breadcumb-title">Delhi University</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Explore Management</a></li>
-                  <li>IIM Indore</li>
+                  <li>Delhi University</li>
                </ul>
             </div>
          </div>
@@ -23,7 +23,7 @@ function Indore() {
          <div className="row align-items-center">
             <div className="col-xl-11">
                <div className="wcu-img-1">
-                  <div className="img1"><img src="assets/img/normal/indore.png" alt="img" /></div>
+                  <div className="img1"><img src="assets/img/normal/du.png" alt="img" /></div>
                                         
                   </div>
                </div>
@@ -166,4 +166,4 @@ function Indore() {
   )
 }
 
-export default Indore
+export default Du
