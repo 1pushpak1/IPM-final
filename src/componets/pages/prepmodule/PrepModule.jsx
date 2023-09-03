@@ -17,6 +17,30 @@ function PrepModule() {
             </div>
          </div>
       </div>
+
+      
+      <div className="space overflow-hidden" id="about-sec">
+         <div className="container">
+            <div className="row align-items-center">
+               <div className="col-xl-6">
+                  <div className="img-box1 mb-40 mb-xl-0">
+                     <div className="img1"><img className="tilt-active" src="assets/img/normal/att3.jpg" alt="About" /></div>
+                        </div>
+               </div>
+               <div className="col-xl-6">
+                  <div className="title-area mb-30">
+                     
+                     <h2 className="sec-title">IPM PRIME Personalizes Mentorship Program</h2>
+                  </div>
+                 
+                  <div className="row align-items-center">
+                  
+                  </div>
+                 
+               </div>
+            </div>
+         </div>
+      </div>
       <section className="space-top space-extra2-bottom">
          <div className="container">
             <div className="row">
