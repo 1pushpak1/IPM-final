@@ -47,7 +47,7 @@ function PrepModule() {
                <div className="col-xxl-9 col-lg-8">
                   <div className="course-single">
                      <div className="course-single-bottom">
-                     <div className="course-single-top">
+                     
                         {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
                         {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
                         {/* <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
@@ -56,7 +56,7 @@ function PrepModule() {
                            <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
                         {/* </ul> */}
                        
-                     </div>
+                     
                         <ul className="nav course-tab" id="courseTab" role="tablist">
                            <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Personalized mentorship</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
