@@ -77,21 +77,18 @@ function Calander() {
                                         </tr>
                                     </tbody>
                                 </table>
-
-                               
-
-
+                          
                             </div>
 
-                            <h5>IPM Ranchi Calendar</h5>
+                            <div className="course-description">
+                                 <h5>IIM Ranchi Calendar</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
                                             <th scope="col">S.No.</th>
                                             <th scope="col">Milestone</th>
                                             <th scope="col">Date/Deadline</th>
-                                            
-                                        </tr>
+                                            </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
@@ -126,14 +123,11 @@ function Calander() {
                                         </tr>
                                     </tbody>
                                 </table>
-
-                               
-
-
-                            
+                                                      
                         </div>
                      </div>
                   </div>
+               </div>
                </div>
                <div className="col-xxl-3 col-lg-4">
                   <aside className="sidebar-area stickypositin">
