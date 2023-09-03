@@ -78,7 +78,7 @@ function Analysis() {
                                 <p>The overall difficulty level of the paper was easy-moderate. Time constraint was not so much of a factor. There was ample time especially because of the difficulty level and the nature of the General Reasoning and English section. Find below the section-wise analysis of the paper.</p>
                             <h5>General English</h5>
                             <div className="col-md-auto">
-                        <div className="checklist">
+                            <div className="checklist">
                            <ul>
                                 <li>Fill in the Blanks</li>
                                 <li>Synonyms/Antonyms</li>
@@ -90,12 +90,12 @@ function Analysis() {
                                 <li>Sentence Re-arrangement</li>
                                 <li>Analogy</li>                      
                            </ul>
-                        </div>
-                     </div>
+                            </div>
+                         </div>
 
-                        <h5>Quantitative Aptitude</h5>
-                        <div className="col-md-auto">
-                        <div className="checklist">
+                            <h5>Quantitative Aptitude</h5>
+                            <div className="col-md-auto">
+                            <div className="checklist">
                             <ul>
                                 <li>Number System</li>
                                 <li>Time and Work</li>
@@ -113,10 +113,10 @@ function Analysis() {
                                 <li>Log</li>
                              </ul>
                             </div>
-                        </div>
-                        <h5>General Awareness</h5>
-                        <div className="col-md-auto">
-                        <div className="checklist">
+                            </div>
+                            <h5>General Awareness</h5>
+                            <div className="col-md-auto">
+                            <div className="checklist">
                             <ul>
                                 <li>Cricket (bowling) </li>
                                 <li>G-20 Summit</li>
@@ -136,7 +136,7 @@ function Analysis() {
 
                             <h5>Logical Reasoning</h5>
                             <div className="col-md-auto">
-                        <div className="checklist">
+                            <div className="checklist">
                             <ul>
                                 <li>Coding-Decoding</li>
                                 <li>Blood Relations</li>
