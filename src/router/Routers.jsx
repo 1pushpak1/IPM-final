@@ -35,6 +35,7 @@ import Symbiosis from '../componets/pages/management/symbiosis'
 import Upes from '../componets/pages/management/upes'
 import Jamia from '../componets/pages/management/jamia'
 import Calander from '../componets/pages/resources/calander'
+import Analysis from '../componets/pages/resources/analysis'
 
 
 function Routers() {
@@ -74,6 +75,7 @@ function Routers() {
                 <Route path="/symbiosis" element={<Symbiosis/>} />
                 <Route path="/upes" element={<Upes/>} />
                 <Route path="/calander" element={<Calander/>} />
+                <Route path="/analysis" element={<Analysis/>} />
 
             </Routes>
         <Footer/>
