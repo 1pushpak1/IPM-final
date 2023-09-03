@@ -17,7 +17,30 @@ function Master() {
             </div>
          </div>
       </div>
-      <section className="space-top space-extra2-bottom">
+
+    
+      <div className="container">
+         <div className="row align-items-center">
+            <div className="col-xl-6">
+               <div className="wcu-img-1">
+                  <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
+                                        
+                  </div>
+               </div>
+               <div className="col-xl-6">
+                  <div className="wcu-wrap1">
+                     <div className="title-area mb-25">
+                        
+                        <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        
+                    </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+
+      <section>
          <div className="container">
             <div className="row">
                <div className="col-xxl-9 col-lg-8">

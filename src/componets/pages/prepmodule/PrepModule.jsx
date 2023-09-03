@@ -21,11 +21,11 @@ function PrepModule() {
 
      
          
-         <div className="container">
-            <div className="row align-items-center">
-               <div className="col-xl-6">
-                  <div className="wcu-img-1">
-                     <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
+      <div className="container">
+         <div className="row align-items-center">
+            <div className="col-xl-6">
+               <div className="wcu-img-1">
+                  <div className="img1"><img src="assets/img/normal/Seminar-pana.png" alt="img" /></div>
                                         
                   </div>
                </div>
