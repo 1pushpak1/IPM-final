@@ -57,7 +57,7 @@ function Header() {
                                       
                                        </ul>
                                        <ul className="sub-menu">
-                                       <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
+                                       <li><Link to="/iimindore" onClick={handleClose}>IIM Indore</Link></li>
                                        <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
                                        <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
                                        <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
@@ -174,7 +174,7 @@ function Header() {
                                       
                                        </ul>
                                        <ul className="sub-menu">
-                                       <li><Link to="/exams">IIM Indore</Link></li>
+                                       <li><Link to="/iimindore">IIM Indore</Link></li>
                                        <li><Link to="/exams1">IIM Rohtak </Link></li>
                                        <li><Link to="/exams2">IIM Bodhgaya </Link></li>
                                        <li><Link to="/exams3">IIM Ranchi </Link></li>

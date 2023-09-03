@@ -19,6 +19,7 @@ import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
 import About from '../componets/pages/home/About'
 import WhyIPM from '../componets/pages/home/Whyipmprime'
+import Indore from '../componets/pages/management/indore'
 
 function Routers() {
   return (
@@ -42,6 +43,7 @@ function Routers() {
                 <Route path="/contactus" element={<Contact />} />
                 <Route path="/about" element={<About/>} />
                 <Route path="/whyipm" element={<WhyIPM/>} />
+                <Route path="/iimindore" element={<Indore/>} />
 
             </Routes>
         <Footer/>
