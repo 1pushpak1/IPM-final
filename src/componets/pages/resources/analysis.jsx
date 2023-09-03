@@ -74,88 +74,92 @@ function Analysis() {
                                 </table>
                           
                             </div>
-                            <h4 className="h5 mt-40">SET 2023 Detailed Analysis</h4>
+                            <div className="tab-content" id="productTabContent">
+                                <h4 className="h5 mt-40">SET 2023 Detailed Analysis</h4>
                                 <p>The overall difficulty level of the paper was easy-moderate. Time constraint was not so much of a factor. There was ample time especially because of the difficulty level and the nature of the General Reasoning and English section. Find below the section-wise analysis of the paper.</p>
-                            <h5>General English</h5>
-                            <div className="col-md-auto">
-                            <div className="checklist">
-                           <ul>
-                                <li>Fill in the Blanks</li>
-                                <li>Synonyms/Antonyms</li>
-                                <li>Sentence Improvement</li>
-                                <li>Idioms and Phrases</li>
-                                <li>Error Spotting</li>
-                                <li>Spelling Errors</li>
-                                <li>Sentence Completion</li>
-                                <li>Sentence Re-arrangement</li>
-                                <li>Analogy</li>                      
-                           </ul>
-                            </div>
+                                <h5>General English</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                            <li>Fill in the Blanks</li>
+                                            <li>Synonyms/Antonyms</li>
+                                            <li>Sentence Improvement</li>
+                                            <li>Idioms and Phrases</li>
+                                            <li>Error Spotting</li>
+                                            <li>Spelling Errors</li>
+                                            <li>Sentence Completion</li>
+                                            <li>Sentence Re-arrangement</li>
+                                            <li>Analogy</li>                      
+                                            </ul>
+                                        </div>
+                                    </div>
+                                   
+                                   <p>  </p>
+                                 <h5>Quantitative Aptitude</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                                <li>Number System</li>
+                                                <li>Time and Work</li>
+                                                <li>Time, Speed, and Distance</li>
+                                                <li>Percentages</li>
+                                                <li>Ratio and Proportion</li>
+                                                <li>Simple Interest-Compound Interest</li>
+                                                <li>Profit, Loss, and Discount</li>
+                                                <li>Averages</li>
+                                                <li>Probability</li>
+                                                <li>Geometry</li>
+                                                <li>Clocks</li>
+                                                <li>Trigonometry</li>
+                                                <li>Mensuration</li>
+                                                <li>Log</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <p>  </p>
+                                 <h5>General Awareness</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                                 <li>Cricket (bowling) </li>
+                                                 <li>G-20 Summit</li>
+                                                 <li>WACA Cricket ground</li>
+                                                 <li>GIR National Park</li>
+                                                 <li>World's longest tunnel</li>
+                                                 <li>Jeff Bezos</li>
+                                                 <li>Freedom fighters</li>
+                                                 <li>First Viceroy of India</li>
+                                                 <li>Post of General Bipin Rawat</li>
+                                                 <li>Highest Army Award</li>
+                                                 <li>Current President Of Brazil</li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                <h5>Logical Reasoning</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                             <ul>
+                                                <li>Coding-Decoding</li>
+                                                <li>Blood Relations</li>
+                                                <li>Calendars</li>
+                                                <li>Seating arrangements</li>
+                                                <li>Analogy</li>
+                                                <li>Data Sufficiency</li>
+                                                <li>Syllogisms</li>
+                                                <li>Statement-Assumptions</li>
+                                                <li>Misc</li>
+                                                <li>Series</li>
+
+                                             </ul>
+                                        </div>
+                                    </div>
+                             </div>
                          </div>
-
-                            <h5>Quantitative Aptitude</h5>
-                            <div className="col-md-auto">
-                            <div className="checklist">
-                            <ul>
-                                <li>Number System</li>
-                                <li>Time and Work</li>
-                                <li>Time, Speed, and Distance</li>
-                                <li>Percentages</li>
-                                <li>Ratio and Proportion</li>
-                                <li>Simple Interest-Compound Interest</li>
-                                <li>Profit, Loss, and Discount</li>
-                                <li>Averages</li>
-                                <li>Probability</li>
-                                <li>Geometry</li>
-                                <li>Clocks</li>
-                                <li>Trigonometry</li>
-                                <li>Mensuration</li>
-                                <li>Log</li>
-                             </ul>
-                            </div>
-                            </div>
-                            <h5>General Awareness</h5>
-                            <div className="col-md-auto">
-                            <div className="checklist">
-                            <ul>
-                                <li>Cricket (bowling) </li>
-                                <li>G-20 Summit</li>
-                                <li>WACA Cricket ground</li>
-                                <li>GIR National Park</li>
-                                <li>World's longest tunnel</li>
-                                <li>Jeff Bezos</li>
-                                <li>Freedom fighters</li>
-                                <li>First Viceroy of India</li>
-                                <li>Post of General Bipin Rawat</li>
-                                <li>Highest Army Award</li>
-                                <li>Current President Of Brazil</li>
-
-                            </ul>
-                            </div>
-                            </div>
-
-                            <h5>Logical Reasoning</h5>
-                            <div className="col-md-auto">
-                            <div className="checklist">
-                            <ul>
-                                <li>Coding-Decoding</li>
-                                <li>Blood Relations</li>
-                                <li>Calendars</li>
-                                <li>Seating arrangements</li>
-                                <li>Analogy</li>
-                                <li>Data Sufficiency</li>
-                                <li>Syllogisms</li>
-                                <li>Statement-Assumptions</li>
-                                <li>Misc</li>
-                                <li>Series</li>
-
-                            </ul>
-                            </div>
-                            </div>
                      </div>
-                  </div>
-               </div>
-               </div>
+                    </div>
+                </div>
                <div className="col-xxl-3 col-lg-4">
                   <aside className="sidebar-area stickypositin">
                      <div className="widget widget_info">
