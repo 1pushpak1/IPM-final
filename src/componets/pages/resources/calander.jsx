@@ -38,6 +38,7 @@ function Calander() {
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
+                                            <th scope="col">S.No.</th>
                                             <th scope="col">Milestone</th>
                                             <th scope="col">Date/Deadline</th>
                                             
@@ -60,7 +61,7 @@ function Calander() {
                                             <th scope="row">3</th>
                                             <td>Exam Date</td>
                                             <td>16 June 2023 (2 to 4 PM)</td>
-                                            <td>160</td>
+                                         
                                         </tr>
                                         <tr>
                                             <th scope="row">4</th>
