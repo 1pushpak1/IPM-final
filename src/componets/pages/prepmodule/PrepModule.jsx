@@ -19,9 +19,7 @@ function PrepModule() {
       </div>
 
 
-      
-      
-      <div className="why-area-1 space overflow-hidden">
+     
          
          <div className="container">
             <div className="row align-items-center">
@@ -37,8 +35,7 @@ function PrepModule() {
                         
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
                         
-                     </div>
-
+                    
                   </div>
                </div>
             </div>
