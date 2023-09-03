@@ -9,7 +9,7 @@ function Exams() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IIM Indore, IPM</h1>
+               <h1 className="breadcumb-title">IP-MAT / IIM Indore</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Exams</a></li>
                   <li>IIM Indore</li>
