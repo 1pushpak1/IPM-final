@@ -35,14 +35,15 @@ function Contact() {
                         <div className="contact-feature-icon"><i className="fal fa-location-dot"></i></div>
                         <div className="media-body">
                            <p className="contact-feature_label">Our Address</p>
-                           <a href="https://www.google.com/maps" className="contact-feature_link">2690 Hiltona Street Victoria Road,<br/>New York, Canada</a>
+                           <a href="https://www.google.com/maps" className="contact-feature_link">147/I, Green Road, Noida</a>
                         </div>
                      </div>
                      <div className="contact-feature">
                         <div className="contact-feature-icon"><i className="fal fa-phone"></i></div>
                         <div className="media-body">
                            <p className="contact-feature_label">Phone Number</p>
-                           <a href="tel:+011456586986" className="contact-feature_link">Mobile:<span>(+65) - 48596 - 5789</span></a> <a href="tel:+011456586986" className="contact-feature_link">Phone: <span>(+00) - 12543 - 4165</span></a>
+                           {/* <a href="tel:+011456586986" className="contact-feature_link">Mobile:<span>+91-99100 88661</span></a>  */}
+                           <a href="tel:+91-99100 88661" className="contact-feature_link">Phone: <span>+91-99100 88661</span></a>
                         </div>
                      </div>
                      <div className="contact-feature">
@@ -58,7 +59,7 @@ function Contact() {
                   <div className="contact-form-wrap" data-bg-src="assets/img/bg/contact_bg_1.png">
                      <span className="sub-title">Contact With Us!</span>
                      <h2 className="border-title">Get in Touch</h2>
-                     <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                     {/* <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                      <form action="https://themeholy.com/html/edura/demo/mail.php" method="POST" className="contact-form ajax-contact">
                         <div className="row">
                            <div className="col-md-6">
@@ -68,15 +69,9 @@ function Contact() {
                               <div className="form-group"><input type="email" className="form-control style-white" name="email" id="email" placeholder="Email Address*" /> <i className="fal fa-envelope"></i></div>
                            </div>
                            <div className="col-md-6">
-                              <div className="form-group">
-                                 <select name="subject" id="subject" className="single-select nice-select form-select style-white">
-                                    <option value="" disabled="disabled" selected="selected" hidden>Select Subject*</option>
-                                    <option value="Web Design">Web Design</option>
-                                    <option value="Web Development">Web Development</option>
-                                    <option value="Engine Diagnostics">Engine Diagnostics</option>
-                                    <option value="Digital Marketing">Digital Marketing</option>
-                                 </select>
-                              </div>
+                              <div className="form-group"><input type="subject" className="form-control style-white" name="subject" id="subject" placeholder="Subject*" /> <i className="fal fa-book"></i></div>
+                                
+                              
                            </div>
                            <div className="col-md-6">
                               <div className="form-group"><input type="tel" className="form-control style-white" name="number" id="number" placeholder="Phone Number*" /> <i className="fal fa-phone"></i></div>
