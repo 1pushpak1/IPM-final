@@ -48,7 +48,7 @@ function Header() {
                         <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
                         <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
                         <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
-                        {/* <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li> */}
+                        <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li>
                      </ul>
                   </li>
                   <li>
@@ -165,7 +165,7 @@ function Header() {
                                        <li><Link to="/exams2">IIM Bodhgaya </Link></li>
                                        <li><Link to="/exams3">IIM Ranchi </Link></li>
                                        <li><Link to="/exams4">IIM Jammu </Link></li>
-                                       {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
+                                       <li><Link to="/exams5">IIM Nagpur </Link></li>
                                        </ul>
                                     </li>
                                     <li>
