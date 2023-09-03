@@ -182,7 +182,7 @@ function Header() {
                                        <li><Link to="/nagpur">IIM Nagpur </Link></li>
                                        <li><Link to="/nmims">NMIMS </Link></li>
                                        <li><Link to="/symbiosis">Symbiosis </Link></li>
-                                       <li><Link to="/indrsprast">Indraprast University </Link></li>
+                                       <li><Link to="/indraprast">Indraprast University </Link></li>
                                        <li><Link to="/christ">Christ University</Link></li>
                                        <li><Link to="/jamia">Jamia Millia University </Link></li>
                                        <li><Link to="/devi">Devi Ahilya Vishwavidyalaya </Link></li>
