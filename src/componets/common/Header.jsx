@@ -67,7 +67,7 @@ function Header() {
                                        <li><Link to="/symbiosis" onClick={handleClose}>Symbiosis </Link></li>
                                        <li><Link to="/indraprast" onClick={handleClose}>Indraprast University </Link></li>
                                        <li><Link to="/christ" onClick={handleClose}>Christ University</Link></li>
-                                       <li><Link to="/jamia" onClick={handleClose}>Jamia Millia University </Link></li>
+                                       {/* <li><Link to="/jamia" onClick={handleClose}>Jamia Millia University </Link></li> */}
                                        <li><Link to="/devi" onClick={handleClose}>Devi Ahilya Vishwavidyalaya </Link></li>
                                        <li><Link to="/upes" onClick={handleClose}>UPES </Link></li>
                                        <li><Link to="/du" onClick={handleClose}>Delhi University</Link></li>
@@ -184,7 +184,7 @@ function Header() {
                                        <li><Link to="/symbiosis">Symbiosis </Link></li>
                                        <li><Link to="/indraprast">Indraprast University </Link></li>
                                        <li><Link to="/christ">Christ University</Link></li>
-                                       <li><Link to="/jamia">Jamia Millia University </Link></li>
+                                       {/* <li><Link to="/jamia">Jamia Millia University </Link></li> */}
                                        <li><Link to="/devi">Devi Ahilya Vishwavidyalaya </Link></li>
                                        <li><Link to="/upes">UPES </Link></li>
                                        <li><Link to="/du">Delhi University</Link></li>
