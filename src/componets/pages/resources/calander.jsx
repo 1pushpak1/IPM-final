@@ -82,6 +82,55 @@ function Calander() {
 
 
                             </div>
+
+                            <h5>IPM Ranchi Calendar</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">S.No.</th>
+                                            <th scope="col">Milestone</th>
+                                            <th scope="col">Date/Deadline</th>
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>IPMAT Application start date</td>
+                                            <td>6 March 2023</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td> IPMAT Application last date</td>
+                                            <td>14 April 2023</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Exam Date</td>
+                                            <td>16 June 2023 (2 to 4 PM)</td>
+                                         
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Announcement of Interviews</td>
+                                            <td>End of June 2023</td>
+                                       
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Final Announcement of the result</td>
+                                            <td>Second week of July 2023</td>
+                                       
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                               
+
+
+                            
                         </div>
                      </div>
                   </div>
