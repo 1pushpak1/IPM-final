@@ -34,6 +34,7 @@ import Rohtak from '../componets/pages/management/rohtak'
 import Symbiosis from '../componets/pages/management/symbiosis'
 import Upes from '../componets/pages/management/upes'
 import Jamia from '../componets/pages/management/jamia'
+import Calander from '../componets/pages/resources/calander'
 
 
 function Routers() {
@@ -72,6 +73,7 @@ function Routers() {
                 <Route path="/rohtak" element={<Rohtak/>} />
                 <Route path="/symbiosis" element={<Symbiosis/>} />
                 <Route path="/upes" element={<Upes/>} />
+                <Route path="/calander" element={<Calander/>} />
 
             </Routes>
         <Footer/>

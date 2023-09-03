@@ -80,7 +80,7 @@ function Header() {
                                        <ul className="sub-menu">
                                        <li><Link to="/exams" onClick={handleClose}>Exam Analysis</Link></li>
                                        <li><Link to="/exams1" onClick={handleClose}>Exam News </Link></li>
-                                       <li><Link to="/exams2" onClick={handleClose}>IPM-AT Exam Calander </Link></li>
+                                       <li><Link to="/calander" onClick={handleClose}>IPM-AT Exam Calander </Link></li>
                                        <li><Link to="/exams3" onClick={handleClose}>IPM Colleges </Link></li>
                                        <li><Link to="/exams3" onClick={handleClose}>Blogs </Link></li>
                                        <li><Link to="/exams3" onClick={handleClose}>News & Events </Link></li>
@@ -197,7 +197,7 @@ function Header() {
                                        <ul className="sub-menu">
                                        <li><Link to="/exams">Exam Analysis</Link></li>
                                        <li><Link to="/exams1">Exam News </Link></li>
-                                       <li><Link to="/exams2">IPM-AT Exam Calander </Link></li>
+                                       <li><Link to="/calander">IPM-AT Exam Calander </Link></li>
                                        <li><Link to="/exams3">IPM Colleges </Link></li>
                                        <li><Link to="/exams3">Blogs </Link></li>
                                        <li><Link to="/exams3">News & Events </Link></li>   
