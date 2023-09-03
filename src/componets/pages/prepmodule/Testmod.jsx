@@ -24,7 +24,7 @@ function Testmod() {
          <div className="row align-items-center">
             <div className="col-xl-6">
                <div className="wcu-img-1">
-                  <div className="img1"><img src="assets/img/normal/achivers.jpg" alt="img" /></div>
+                  <div className="img1"><img src="assets/img/normal/test.png" alt="img" /></div>
                                         
                   </div>
                </div>
