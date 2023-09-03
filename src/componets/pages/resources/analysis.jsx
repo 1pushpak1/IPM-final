@@ -114,6 +114,44 @@ function Analysis() {
                              </ul>
                             </div>
                         </div>
+                        <h5>General Awareness</h5>
+                        <div className="col-md-auto">
+                        <div className="checklist">
+                            <ul>
+                                <li>Cricket (bowling) </li>
+                                <li>G-20 Summit</li>
+                                <li>WACA Cricket ground</li>
+                                <li>GIR National Park</li>
+                                <li>World's longest tunnel</li>
+                                <li>Jeff Bezos</li>
+                                <li>Freedom fighters</li>
+                                <li>First Viceroy of India</li>
+                                <li>Post of General Bipin Rawat</li>
+                                <li>Highest Army Award</li>
+                                <li>Current President Of Brazil</li>
+
+                            </ul>
+                            </div>
+                            </div>
+
+                            <h5>Logical Reasoning</h5>
+                            <div className="col-md-auto">
+                        <div className="checklist">
+                            <ul>
+                                <li>Coding-Decoding</li>
+                                <li>Blood Relations</li>
+                                <li>Calendars</li>
+                                <li>Seating arrangements</li>
+                                <li>Analogy</li>
+                                <li>Data Sufficiency</li>
+                                <li>Syllogisms</li>
+                                <li>Statement-Assumptions</li>
+                                <li>Misc</li>
+                                <li>Series</li>
+
+                            </ul>
+                            </div>
+                            </div>
                      </div>
                   </div>
                </div>
