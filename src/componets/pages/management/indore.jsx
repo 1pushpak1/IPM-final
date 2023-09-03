@@ -21,7 +21,7 @@ function Indore() {
 
       <div className="container">
          <div className="row align-items-center">
-            <div className="col-xl-9">
+            <div className="col-xl-12">
                <div className="wcu-img-1">
                   <div className="img1"><img src="assets/img/normal/indore.png" alt="img" /></div>
                                         
