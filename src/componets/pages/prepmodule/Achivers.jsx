@@ -75,7 +75,7 @@ function Achivers() {
                                        <div className="checklist">
                                           <ul>
                                              <li>  Most Popular Mentorship Program</li>
-                                             <li>  Personalized Study Plans & Material</li>
+                                             <li>  Personalized Study Plans & Strategy</li>
                                              <li>  Top Faculties</li>
                                           </ul>
                                        </div>
