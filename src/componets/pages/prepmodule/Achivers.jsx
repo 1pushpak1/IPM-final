@@ -118,7 +118,7 @@ function Achivers() {
                                        <div className="checklist mb-4">
                                           <ul>
                                              <li> Starts with a detailed Assessment & Counselling sessions</li>
-                                             <li> Lectures and demos by experienced mentors & experts</li>
+                                             <li> Live classes experienced mentors & experts</li>
                                              {/* <li> Individual Attention</li> */}
                                              
                                           </ul>

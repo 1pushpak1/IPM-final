@@ -56,14 +56,14 @@ function Master() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">For 12th Standard</h5>
+                                 <h5 className="h5">Why Master Mentorship?</h5>
                                  <p>Prepare for IPMAT 2024-25 with your trusted Mentorship Program </p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> 10 One-on-One Session with R.V Sir</li>
-                                             <li> Flexible Timings</li>
+                                          <li> 1-to-1 Session with Rajeev Sir & mentors</li>
+                                             <li> Counselling</li>
                                              <li> Individual Attention</li>
                                              
                                           </ul>
@@ -73,8 +73,8 @@ function Master() {
                                        <div className="checklist">
                                           <ul>
                                              <li>  Most Popular Mentorship Program</li>
-                                             <li>  Personalized Study Plans & Material</li>
-                                             <li>   Top Faculties</li>
+                                             <li>  Personalized Study Plans & Strategy</li>
+                                             <li>  Expert Faculties and IIM alumni mentors</li>
                                           </ul>
                                        </div>
                                     </div>
@@ -86,18 +86,18 @@ function Master() {
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> Live Streaming</li>
-                                             <li> Personalised strategy plan and notes</li>
-                                            
+                                          <li> Beginners assignment and Counselling</li>
+                                                <li> Personalised strategy and plan</li>
                                              
-                                          </ul>
+                                                
+                                             </ul>
+                                          </div>
                                        </div>
-                                    </div>
-                                    <div className="col-lg-6">
-                                       <div className="checklist">
-                                          <ul>
-                                             <li>  Career guidance mentorship</li>
-                                             <li>  Regular personal intrection</li>
+                                       <div className="col-lg-6">
+                                          <div className="checklist">
+                                             <ul>
+                                                <li>  Regular 1 to 1 session and remedial classes</li>
+                                                <li>  Customize personal study plan</li>
                                             
                                           </ul>
                                        </div>
