@@ -33,7 +33,7 @@ function Short() {
                      <div className="title-area mb-25">
                         
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
-                        <p>Short Mentorship Programs are Subject specific Mentorship Programs designed to provide holistic mentorship related to a particular section of the IPMAT Test Prep. This program is for those students who have already started the preparation but they feel that they either have a lot of doubt or find themselves weak in a particular section of IPMAT Test and want a <b>PERSONALISED</b> guidance in that <b>PARTICULAR SECTION/SUBJECT.</b></p>
+                        
                         
                     </div>
                </div>
@@ -57,7 +57,7 @@ function Short() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
                                  {/* <h5 className="h5">One-on-One Live Classes</h5> */}
-                                 <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p>
+                                 <p>Short Mentorship Programs are Subject specific Mentorship Programs designed to provide holistic mentorship related to a particular section of the IPMAT Test Prep. This program is for those students who have already started the preparation but they feel that they either have a lot of doubt or find themselves weak in a particular section of IPMAT Test and want a <b>PERSONALISED</b> guidance in that <b>PARTICULAR SECTION/SUBJECT.</b></p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
