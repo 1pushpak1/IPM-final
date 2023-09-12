@@ -36,12 +36,15 @@ import Upes from '../componets/pages/management/upes'
 import Jamia from '../componets/pages/management/jamia'
 import Calander from '../componets/pages/resources/calander'
 import Analysis from '../componets/pages/resources/analysis'
+import ScrollToTop from '../ScrollTop'
 
 
 function Routers() {
   return (
     <>
         <Header/>
+        <ScrollToTop/>
+
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/prep-module" element={<PrepModule />} />

@@ -78,9 +78,9 @@
   --icon-font: "Font Awesome 6 Pro";
   --main-container: 1380px;
   --container-gutters: 24px;
-  --section-space: 120px;
-  --section-space-mobile: 80px;
-  --section-title-space: 70px;
+  --section-space: 60px;
+  --section-space-mobile: 40px;
+  --section-title-space: 30px;
   --ripple-ani-duration: 5s;
 }
 
@@ -4732,6 +4732,8 @@ ol.wp-block-rss {
 
 .sidebar-area {
   margin-bottom: -10px;
+  position: sticky;
+  top: 100px;
 }
 
 .sidebar-area .th-video {
@@ -13067,7 +13069,7 @@ span.select2-selection.select2-selection--single:focus {
 /* Contact Map ---------------------------------- */
 .map-sec {
   position: relative;
-  height: 600px;
+  height: 500px;
   border-radius: 10px;
   overflow: hidden;
   /* Small devices */
@@ -13268,7 +13270,7 @@ span.select2-selection.select2-selection--single:focus {
   border: 1px solid #ECF1F9;
   background: var(--white-color);
   box-shadow: 0px 9px 14px 0px #FBFBFB;
-  padding: 30px;
+  padding: 20px;
   /* Extra small devices */
 }
 
@@ -19562,7 +19564,7 @@ span.select2-selection.select2-selection--single:focus {
 .course-single-top {
   position: relative;
   margin-bottom: var(--blog-space-y, 40px);
-  padding: var(--blog-space-y, 40px) var(--blog-space-x, 40px);
+  padding: var(--blog-space-y, 20px) var(--blog-space-x, 40px);
   border: 1px solid var(--border-color);
   box-shadow: 0px 9px 14px #fbfbfb;
   border-radius: 10px;
@@ -24474,6 +24476,14 @@ span.select2-selection.select2-selection--single:focus {
 
 .breadcumb-shape{
     background-image: url(../img/bg/breadcumb_shape_1_1.png);
+}
+
+input:-internal-autofill-selected {
+  background-color: -internal-light-dark(rgb(255, 255, 255), rgba(70, 90, 126, 0.4)) !important;
+}
+
+.form-control{
+  border-color: #b0b0b0 !important;
 }
 
 /*=================================

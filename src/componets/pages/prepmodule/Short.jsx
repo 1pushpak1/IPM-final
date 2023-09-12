@@ -1,4 +1,5 @@
 import React from 'react'
+import BookFreeDemo from '../form/BookFreeDemo'
 
 function Short() {
   return (
@@ -171,31 +172,7 @@ function Short() {
                   </div>
                </div>
                <div className="col-xxl-3 col-lg-4">
-                  <aside className="sidebar-area">
-                     <div className="widget widget_info">
-                        <h3 className="widget_title mt-0">Book Free Demo</h3>
-                         <form action="" className='mt-3'>
-                             <div className="form-group mb-2">
-                                 <input type="text" className='form-control' placeholder='Name' />
-                             </div>
-                             <div className="form-group mb-2">
-                                 <input type="text" className='form-control' placeholder='Email' />
-                             </div>
-                             <div className="form-group mb-2">
-                                 <input type="text" className='form-control' placeholder='Phone' />
-                             </div>
-                             <div className="form-group mb-2">
-                                 <select name="" id="" className='form-control'>
-                                     <option value="">One-On-Live Clasess</option>
-                                     <option value="">Ten One-On-One Session with RV Sir</option>
-                                 </select>
-                             </div>
-                             <div className="form-group">
-                                 <button className='th-btn'>Submit</button>
-                             </div>
-                         </form>
-                     </div>
-                  </aside>
+               <BookFreeDemo/>
                </div>
             </div>
          </div>
