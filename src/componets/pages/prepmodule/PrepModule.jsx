@@ -94,8 +94,8 @@ function PrepModule() {
                                        <div className="col-lg-6">
                                           <div className="checklist mb-4">
                                              <ul>
-                                                <li> Live Streaming</li>
-                                                <li> Personalised strategy plan and notes</li>
+                                                <li> Beginners assignment and Counselling</li>
+                                                <li> Personalised strategy and plan</li>
                                              
                                                 
                                              </ul>
@@ -104,13 +104,13 @@ function PrepModule() {
                                        <div className="col-lg-6">
                                           <div className="checklist">
                                              <ul>
-                                                <li>  Career guidance mentorship</li>
-                                                <li>  Regular personal intrection</li>
+                                                <li>  Regular one to one session and remedial classes</li>
+                                                <li>  Customize personal study plan</li>
                                                 
                                              </ul>
                                           </div>
                                        </div>
-                                    <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Line Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
+                                    <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
                                     </div>
                                  </div>
                            </div>
