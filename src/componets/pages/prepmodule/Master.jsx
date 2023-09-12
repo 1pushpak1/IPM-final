@@ -32,7 +32,7 @@ function Master() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        <h2 className="sec-title">"Every Child can be an ACHIEVER with right guidance"</h2>
                         
                     </div>
                </div>
