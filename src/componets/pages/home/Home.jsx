@@ -253,25 +253,25 @@ function Home() {
             <div className="row justify-content-between">
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">1000</span><span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Successfully</strong> Trained</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">200</span><span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Classes</strong> Completed</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">100</span><span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Satisfaction</strong> Rate</p>
                   </div>
                </div>
                <div className="col-sm-6 col-xl-3 counter-card-wrap">
                   <div className="counter-card">
-                     <h2 className="counter-card_number"><span className="counter-number">0</span>k<span className="fw-normal">+</span></h2>
+                     <h2 className="counter-card_number"><span className="counter-number">5</span>k<span className="fw-normal">+</span></h2>
                      <p className="counter-card_text"><strong>Students</strong> Community</p>
                   </div>
                </div>
