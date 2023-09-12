@@ -12,7 +12,7 @@ function Contact() {
             <div className="breadcumb-content text-center">
                <h1 className="breadcumb-title">Contact Us</h1>
                <ul className="breadcumb-menu">
-                  <li><a href="#">Home</a></li>
+                  <li><Link to="/">Home</Link></li>
                   <li>Contact Us</li>
                </ul>
             </div>

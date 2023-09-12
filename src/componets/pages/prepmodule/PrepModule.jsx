@@ -31,7 +31,7 @@ function PrepModule() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"Personalized Mentorship Program (One on One live classes)"</h2>
+                        <h2 className="sec-title">"Personalized Mentorship Program (Maximum number of One to One live sessions)"</h2>
                         
                     </div>
                </div>
@@ -56,7 +56,7 @@ function PrepModule() {
                        
                      
                         <ul className="nav course-tab" id="courseTab" role="tablist">
-                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Personalized mentorship</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Premium mentorship</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
                            {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>Testimonial</a></li> */}
@@ -64,13 +64,13 @@ function PrepModule() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">One-on-One Live Classes</h5>
+                                 <h5 className="h5">Why Premium Mentorship?</h5>
                                  {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> 10 One-on-One Session with R.V Sir</li>
+                                             <li> Maximum One-to-One Session with Rajeev Sir</li>
                                              <li> Flexible Timings</li>
                                              <li> Individual Attention</li>
                                              
@@ -82,13 +82,13 @@ function PrepModule() {
                                           <ul>
                                              <li>  Most Popular Mentorship Program</li>
                                              <li>  Personalized Study Plans & Material</li>
-                                             <li>   Top Faculties</li>
+                                             <li>  Expert Faculties and IIM alumni mentors</li>
                                           </ul>
                                        </div>
                                     </div>
                                  </div>
                                     <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
-                                    <p>"Every Child is diffrent"</p>
+                                    <p><b>Every Child is diffrent!!!</b></p>
                                     <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
                                     <div className="row mt-25">
                                        <div className="col-lg-6">
