@@ -111,7 +111,7 @@ function Achivers() {
                                   <p>so this program aims towards making the IPMAT and other admission test preparation an easy journey without unwarranted stress on our students. This program is driven by our Chief Mentor Mr Rajeev Sir’s decades of experience with the students and their highly stressful college admission test prep with their school Board. Therefore this program is designed with the proven methodology and research that if a student starts early and masters some basic skills simultaneously with their school classes, it will make the test prep journey stress free, enjoyable and equips our students with all the required skill sets to ace the IPMAT like aptitude tests moreover the students remain with their assigned mentors throughout their prep journey who make the journey very personalised with expert advice, strategic roadmap, readily available solution to any hiccups in the prep journey.</p>
                                  <p>We already know:
                                          <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
-                                         <p>So, this innovative learning methodology is the future!!!</p>
+                                         <p>So, This INNOVATIVE learning methodology is the FUTURE!!!</p>
 
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
