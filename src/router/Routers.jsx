@@ -37,6 +37,7 @@ import Jamia from '../componets/pages/management/jamia'
 import Calander from '../componets/pages/resources/calander'
 import Analysis from '../componets/pages/resources/analysis'
 import ScrollToTop from '../ScrollTop'
+import Scholarship from '../componets/pages/home/Scholarship'
 
 
 function Routers() {
@@ -79,6 +80,7 @@ function Routers() {
                 <Route path="/upes" element={<Upes/>} />
                 <Route path="/calander" element={<Calander/>} />
                 <Route path="/analysis" element={<Analysis/>} />
+                <Route path="/scholarship" element={<Scholarship/>} />
 
             </Routes>
         <Footer/>

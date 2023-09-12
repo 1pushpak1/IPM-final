@@ -1,6 +1,6 @@
 import React from 'react'
 
-function About() {
+function Scholarship() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -66,4 +66,4 @@ function About() {
   )
 }
 
-export default About
+export default Scholarship
