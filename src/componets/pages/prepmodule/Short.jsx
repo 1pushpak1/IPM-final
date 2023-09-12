@@ -56,15 +56,15 @@ function Short() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">One-on-One Live Classes</h5>
+                                 {/* <h5 className="h5">One-on-One Live Classes</h5> */}
                                  <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> 10 One-on-One Session with R.V Sir</li>
+                                             {/* <li> 10 One-on-One Session with R.V Sir</li>
                                              <li> Flexible Timings</li>
-                                             <li> Individual Attention</li>
+                                             <li> Individual Attention</li> */}
                                              
                                           </ul>
                                        </div>
@@ -72,9 +72,9 @@ function Short() {
                                     <div className="col-lg-6">
                                        <div className="checklist">
                                           <ul>
-                                             <li>  Most Popular Mentorship Program</li>
+                                             {/* <li>  Most Popular Mentorship Program</li>
                                              <li>  Personalized Study Plans & Material</li>
-                                             <li>   Top Faculties</li>
+                                             <li>   Top Faculties</li> */}
                                           </ul>
                                        </div>
                                     </div>
