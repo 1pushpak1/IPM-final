@@ -291,7 +291,7 @@ function Home() {
                   <h2 className="sec-title text-white">MAHA <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">For Mentorship Batch</span></h2>
                   <p className="cta-text">Join Us on 21st Sep 2023</p>
                </div>
-               <div className="btn-group justify-content-center"><a href="/contactus" className="th-btn style3">Book A COUNSELLING SESSION<i className="fas fa-arrow-right ms-2"></i></a> <a href="/scholarship" className="th-btn style2">Book Your Slot<i className="fas fa-arrow-right ms-2"></i></a></div>
+               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book A COUNSELLING SESSION<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Book Your Slot<i className="fas fa-arrow-right ms-2"></i></Link></div>
             </div>
          </div>
       </section>
