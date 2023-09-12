@@ -81,7 +81,7 @@ function PrepModule() {
                                        <div className="checklist">
                                           <ul>
                                              <li>  Most Popular Mentorship Program</li>
-                                             <li>  Personalized Study Plans & Material</li>
+                                             <li>  Personalized Study Plans & strategy</li>
                                              <li>  Expert Faculties and IIM alumni mentors</li>
                                           </ul>
                                        </div>
@@ -104,7 +104,7 @@ function PrepModule() {
                                        <div className="col-lg-6">
                                           <div className="checklist">
                                              <ul>
-                                                <li>  Regular one to one session and remedial classes</li>
+                                                <li>  Regular 1 to 1 session and remedial classes</li>
                                                 <li>  Customize personal study plan</li>
                                                 
                                              </ul>
