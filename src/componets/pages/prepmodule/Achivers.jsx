@@ -81,8 +81,15 @@ function Achivers() {
                                        </div>
                                     </div>
                                  </div>
+                                 <p>As you know IPM Prime Mentorship Programs are known to be highly customised student centric programs. It is designed to suit every students’ specific needs in their journey to ace the IPMAT admission test.</p>
+                                 <p>Achievers’ Mentorship Program is a strategic, long term and personalised course to provide holistic mentorship for Management college admission through IPMAT.</p>
                                  <h5 className="h5 mt-40">If you are in class 11th and confused about your career speek to our Experts!!</h5>
                                  {/* <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
+                                 <p>The guiding motto behind this program is “EARLY STARTERS ALWAYS HAVE AN EDGE” so this program aims towards making the IPMAT and other admission test preparation an easy journey without unwarranted stress on our students. This program is driven by our Chief Mentor Mr Rajeev Sir’s decades of experience with the students and their highly stressful college admission test prep with their school Board. Therefore this program is designed with the proven methodology and research that if a student starts early and masters some basic skills simultaneously with their school classes, it will make the test prep journey stress free, enjoyable and equips our students with all the required skill sets to ace the IPMAT like aptitude tests moreover the students remain with their assigned mentors throughout their prep journey who make the journey very personalised with expert advice, strategic roadmap, readily available solution to any hiccups in the prep journey.</p>
+                                 <p>We already know:
+                                         <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
+                                         <p>So, this innovative learning methodology is the future!!!</p>
+
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
