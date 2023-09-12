@@ -88,7 +88,7 @@ function PrepModule() {
                                     </div>
                                  </div>
                                     <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
-                                    <p><b>Every Child is diffrent!!!</b></p>
+                                    <p><b>"Every Child is diffrent"</b></p>
                                     <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
                                     <div className="row mt-25">
                                        <div className="col-lg-6">
