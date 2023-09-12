@@ -98,17 +98,20 @@ function Master() {
                                           <ul>
                                              <li>  Career guidance mentorship</li>
                                              <li>  Regular personal intrection</li>
-                                             
+                                            
                                           </ul>
                                        </div>
                                     </div>
+                                 <p>We already know:  <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
+                                 <p>So, the PERSONALISED learning methodology is SUCCESS!!!</p> 
+                                 <p>Masters’ Mentorship Program is an intensive IPMAT Test Prep course under the highly experienced subject experts and IIM alumni Mentors for class 12 students. This program is focused on the personalised mentorship which are customised to the requirement of the individual students and address their strengths and weaknesses effectively to equip them with necessary skills to ace the IPMAT Test.   </p>
                                  </div>
                               
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Prime Mentorship Batch By IPM Prime Tutorials</h5>
+                                 <h5 className="h5">Book a FREE Session for Master Mentorship Batch By IPM Prime Tutorials</h5>
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>

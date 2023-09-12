@@ -33,6 +33,7 @@ function Short() {
                      <div className="title-area mb-25">
                         
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        <p>Short Mentorship Programs are Subject specific Mentorship Programs designed to provide holistic mentorship related to a particular section of the IPMAT Test Prep. This program is for those students who have already started the preparation but they feel that they either have a lot of doubt or find themselves weak in a particular section of IPMAT Test and want a <b>PERSONALISED</b> guidance in that <b>PARTICULAR SECTION/SUBJECT.</b></p>
                         
                     </div>
                </div>
@@ -78,13 +79,13 @@ function Short() {
                                        </div>
                                     </div>
                                  </div>
-                                 <h5 className="h5 mt-40">Certification</h5>
-                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+                                 {/* <h5 className="h5 mt-40">Certification</h5>
+                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Prime Mentorship Batch By IPM Prime Tutorials</h5>
+                                 <h5 className="h5">Book a FREE Session for Short Mentorship Batch By IPM Prime Tutorials</h5>
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>

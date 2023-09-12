@@ -10,10 +10,10 @@ function Testmod() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">TestSeries Mentorship Program</h1>
+               <h1 className="breadcumb-title">Mock Test Mentorship Program</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Prep Module</a></li>
-                  <li>TestSeries Mentorship Program</li>
+                  <li>Mock Test Mentorship Program</li>
                </ul>
             </div>
          </div>
@@ -33,7 +33,8 @@ function Testmod() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"Early start always have an edge"</h2>
+                        <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCKTESTS and A PROVEN ROADMAP to handle last minutes
+"</h2>
                         
                     </div>
                </div>
@@ -57,15 +58,18 @@ function Testmod() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">One-on-One Live Classes</h5>
-                                 <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p>
+                                 {/* <h5 className="h5">One-on-One Live Classes</h5> */}
+                                 <p>Mock Test Mentorship Program an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those small mistakes to make their preparation robust and full proof.</p>
+                                 <p><b>THIS COSTS THEM HUGE!!!</b></p>
+                                 <p> FAILURE DUE TO LACK OF TIMELY GUIDANCE!
+</p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> 10 One-on-One Session with R.V Sir</li>
+                                             {/* <li> 10 One-on-One Session with R.V Sir</li>
                                              <li> Flexible Timings</li>
-                                             <li> Individual Attention</li>
+                                             <li> Individual Attention</li> */} 
                                              
                                           </ul>
                                        </div>
@@ -73,20 +77,21 @@ function Testmod() {
                                     <div className="col-lg-6">
                                        <div className="checklist">
                                           <ul>
-                                             <li>  Most Popular Mentorship Program</li>
+                                             {/* <li>  Most Popular Mentorship Program</li>
                                              <li>  Personalized Study Plans & Material</li>
-                                             <li>   Top Faculties</li>
+                                             <li>   Top Faculties</li> */}
                                           </ul>
                                        </div>
                                     </div>
                                  </div>
-                                 <h5 className="h5 mt-40">Certification</h5>
-                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p>
+                                 <p>A brilliant student with a lot of effort in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
+                                 <h5 className="h5 mt-25">WORRY NOT!!</h5>
+                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of your MOCK TESTS in figuring out the lacunas and gives our PROOVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Prime Mentorship Batch By IPM Prime Tutorials</h5>
+                                 <h5 className="h5">Book a FREE Session for Mocktest Mentorship Batch By IPM Prime Tutorials</h5>
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
