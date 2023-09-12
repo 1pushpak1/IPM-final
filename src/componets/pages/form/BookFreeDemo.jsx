@@ -39,8 +39,13 @@ function BookFreeDemo() {
                         </div>
                         <div className="form-group mb-2">
                             <select name="service" className='form-control'>
-                                <option value="One-On-Live Clasess">One-On-Live Clasess</option>
-                                <option value="Ten One-On-One Session with RV Sir">Ten One-On-One Session with RV Sir</option>
+                                <option value="Premium Mentorship program">Premium Mentorship Program</option>
+                                <option value="Achivers Mentorship Program">Achivers Mentorship Program</option>
+                                <option value="Master Mentorship Program">Master Mentorship Program</option>
+                                <option value="Short Mentorship Program">Short Mentorship Program</option>
+                                <option value="Speedester Mentorship Program">Speedester Mentorship Program</option>
+                                <option value="Mocktest Mentorship Program">Mocktest Mentorship Program</option>
+                                <option value="Classroom program">Classroom Program</option>
                             </select>
                         </div>
                         <div className="form-group">
