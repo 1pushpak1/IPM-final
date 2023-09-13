@@ -182,7 +182,7 @@ function Short() {
 
       <div className="cta-area-1">
          <div className="container">
-            <div className="row align-items-center justify-content-between">
+            <div className="row align-items-right justify-content-between">
                <div className="col-lg-8">
                   <div className="cta-wrap title-area mb-0">
                      <div className="cta-icon"><img src="assets/img/normal/cta-icon1.png" alt="icon" /></div>
