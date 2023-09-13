@@ -105,7 +105,7 @@ function Achivers() {
                                        </div>
                                        </div>
                                  <p>Achievers’ Mentorship Program is a strategic, long term and personalised course to provide holistic mentorship for Management college admission through IPMAT.</p>
-                                 <h5 className="h5 mt-40">If you are in class 11th and confused about your career speek to our Experts!!</h5>
+                                 
                                  {/* <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                                  <p>The guiding motto behind this program is </p>
                                   <p align="center">  “EARLY STARTERS ALWAYS HAVE AN EDGE” </p>
@@ -135,6 +135,7 @@ function Achivers() {
                                        </div>
                                     </div>
                                  </div>
+                                 <h5 className="h5 mt-40">If you are in class 11th and confused about your career speek to our Experts!!</h5>
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
