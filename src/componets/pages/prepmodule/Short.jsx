@@ -183,9 +183,9 @@ function Short() {
       <div className="cta-area-1">
          <div className="container">
             <div className="row align-items-right justify-content-between">
-               <div className="col-lg-8">
+               <div className="col-lg-12">
                   <div className="cta-wrap title-area mb-0">
-                     <div className="cta-icon fas fa-phone"></div>
+                     <div className="fas fa-phone"></div>
                      <div className="cta-content">
                         <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
                         {/* <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p> */}
