@@ -204,6 +204,23 @@ function Master() {
             </div>
          </div>
       </section>
+      <div className="cta-area-1">
+         <div className="container">
+            <div className="row align-items-right justify-content-between">
+               <div className="col-lg-12">
+                  <div className="cta-wrap title-area mb-0">
+                     
+                     <div className="cta-content">
+                        <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
+                        {/* <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p> */}
+                     </div>
+                     <Link to="/contactus"  className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                  </div>
+               </div>
+            </div>
+         </div>
+         {/* <div className="cta-img-1" data-overlay="title" data-opacity="8"><img src="assets/img/normal/cta_1_1.png" alt="Image" /> <a href="javascript:;" className="play-btn style2 popup-video"><i className="fa-sharp fa-solid fa-play"></i></a></div> */}
+      </div>
     </>
   )
 }
