@@ -33,7 +33,7 @@ function Testmod() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCKTESTS and A PROVEN ROADMAP to handle last minutes
+                        <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCK/TESTS and A PROVEN ROADMAP to handle last minute hiccups
 "</h2>
                         
                     </div>
@@ -60,8 +60,8 @@ function Testmod() {
                               <div className="course-description">
                                  {/* <h5 className="h5">One-on-One Live Classes</h5> */}
                                  <p>Mock Test Mentorship Program an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those small mistakes to make their preparation robust and full proof.</p>
-                                 <p><b>THIS COSTS THEM HUGE!!!</b></p>
-                                 <p> FAILURE DUE TO LACK OF TIMELY GUIDANCE!
+                                 <p><b>THIS COSTS THEM HUGE-</b></p>
+                                 <p align="center"> FAILURE DUE TO LACK OF TIMELY GUIDANCE!!!
 </p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
@@ -85,8 +85,10 @@ function Testmod() {
                                     </div>
                                  </div>
                                  <p>A brilliant student with a lot of effort in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
-                                 <h5 className="h5 mt-25">WORRY NOT!!</h5>
-                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of your MOCK TESTS in figuring out the lacunas and gives our PROOVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
+                                 <h6 align="center" className="h5 mt-25">WORRY NOT!!</h6>
+                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of your MOCK TESTS in figuring out the lacunas and gives our PROVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
+                                <p> Wheather you have joined a coaching program or not</p>
+                                 <p>This mocktest mentorship program is indispensible</p>
                               </div>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
