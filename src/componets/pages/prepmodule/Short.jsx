@@ -187,7 +187,7 @@ function Short() {
                   <div className="cta-wrap title-area mb-0">
                      <div className="cta-icon"><img src="assets/img/normal/cta-icon1.png" alt="icon" /></div>
                      <div className="cta-content">
-                        <h2 className=" footer-contact_link">+91-9910088661</h2>
+                        <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
                         {/* <p className="cta-text">Met consectetur adipiscing sed eiustempore dolore</p> */}
                      </div>
                      <Link to="/contactus"  className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
