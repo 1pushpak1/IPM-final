@@ -10,10 +10,10 @@ function Short() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">Short Mentorship Program</h1>
+               <h1 className="breadcumb-title">Short term Mentorship Program</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Prep Module</a></li>
-                  <li>Short Mentorship Program</li>
+                  <li>Short term Mentorship Program</li>
                </ul>
             </div>
          </div>
@@ -48,7 +48,7 @@ function Short() {
                   <div className="course-single">
                      <div className="course-single-bottom">
                         <ul className="nav course-tab" id="courseTab" role="tablist">
-                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Personalized mentorship</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Short Term mentorship</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
                            {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>Testimonial</a></li> */}
