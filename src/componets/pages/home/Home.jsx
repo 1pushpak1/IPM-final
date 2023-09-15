@@ -64,212 +64,88 @@ function Home() {
 
 
 
-            <div className=" mx-auto p-8">
-     <ul
-  class="mb-5 flex list-none flex-row flex-wrap border-b-0 pl-0"
-  role="tablist"
-  data-te-nav-ref>
-  <li role="presentation" class="flex-grow basis-0 text-center">
-    <a
-      href="#tabs-home02"
-      class="my-2 block border-x-0 border-b-2 border-t-0 border-transparent px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 hover:isolate hover:border-transparent hover:bg-neutral-100 focus:isolate focus:border-transparent data-[te-nav-active]:border-primary data-[te-nav-active]:text-primary dark:text-neutral-400 dark:hover:bg-transparent dark:data-[te-nav-active]:border-primary-400 dark:data-[te-nav-active]:text-primary-400"
-      data-te-toggle="pill"
-      data-te-target="#tabs-home02"
-      data-te-nav-active
-      role="tab"
-      aria-controls="tabs-home02"
-      aria-selected="true"
-      >Course1</a>
-  </li>
-  <li role="presentation" class="flex-grow basis-0 text-center">
-    <a
-      href="#tabs-profile02"
-      class="focus:border-transparen my-2 block border-x-0 border-b-2 border-t-0 border-transparent px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 hover:isolate hover:border-transparent hover:bg-neutral-100 focus:isolate data-[te-nav-active]:border-primary data-[te-nav-active]:text-primary dark:text-neutral-400 dark:hover:bg-transparent dark:data-[te-nav-active]:border-primary-400 dark:data-[te-nav-active]:text-primary-400"
-      data-te-toggle="pill"
-      data-te-target="#tabs-profile02"
-      role="tab"
-      aria-controls="tabs-profile02"
-      aria-selected="false"
-      >Course2</a>
-  </li>
-  <li role="presentation" class="flex-grow basis-0 text-center">
-    <a
-      href="#tabs-messages02"
-      class="my-2 block border-x-0 border-b-2 border-t-0 border-transparent px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 hover:isolate hover:border-transparent hover:bg-neutral-100 focus:isolate focus:border-transparent data-[te-nav-active]:border-primary data-[te-nav-active]:text-primary dark:text-neutral-400 dark:hover:bg-transparent dark:data-[te-nav-active]:border-primary-400 dark:data-[te-nav-active]:text-primary-400"
-      data-te-toggle="pill"
-      data-te-target="#tabs-messages02"
-      role="tab"
-      aria-controls="tabs-messages02"
-      aria-selected="false"
-      >Course3</a>
-  </li>
-
-</ul>
-
-<div class="mb-6">
-  <div
-    class="hidden opacity-100 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
-    id="tabs-home02"
-    role="tabpanel"
-    aria-labelledby="tabs-home-tab02"
-    data-te-tab-active>
-    <div className="container mx-auto p-8 flex flex-wrap justify-center">
-        <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      
-      </div>
-  </div>
-  <div
-    class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
-    id="tabs-profile02"
-    role="tabpanel"
-    aria-labelledby="tabs-profile-tab02">
-     <div className="container mx-auto p-8 flex flex-wrap justify-center">
-        <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      
-      </div>
-  </div>
-  <div
-    class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
-    id="tabs-messages02"
-    role="tabpanel"
-    aria-labelledby="tabs-profile-tab02">
-       <div className="container mx-auto p-8 flex flex-wrap justify-center">
-        <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      <div className="max-w-xs p-6 rounded-md shadow-md dark:bg-gray-900 dark:text-gray-50">
-      <img
-      src="https://source.unsplash.com/random/300x300/?1"
-      alt=""
-      className="object-cover object-center w-full rounded-md h-72 dark:bg-gray-500"
-      />
-      <div className="mt-6 mb-2">
-      <span className="block text-xs font-medium tracking-uppercase dark:text-violet-400">Quisque</span>
-      <h2 className="text-xl font-semibold tracking-wide">Nam maximus purus</h2>
-      </div>
-      <p className="dark:text-gray-100">
-      Mauris et lorem at elit tristique dignissim et ullamcorper elit. In sed feugiat mi. Etiam ut lacinia dui.
-      </p>
-      </div>
-      
-      </div>
-  </div>
-  
-</div>
-</div>
-
-
-
-
-
-
+ <div className="container">
+            <div className="row">
+               <div className="col-xxl-9 col-lg-8">
+                  <div className="course-single">
+                     <div className="course-single-bottom">
+                     
+                        {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
+                        {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
+                        {/* <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
+                        <ul className="course-single-meta"> */}
+                           {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
+                           <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
+                        {/* </ul> */}
+                       
+                     
+                        <ul className="nav course-tab" id="courseTab" role="tablist">
+                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Premium mentorship</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
+                           {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>Testimonial</a></li> */}
+                        </ul>
+                        <div className="tab-content" id="productTabContent">
+                           <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
+                              <div className="course-description">
+                                 <h5 className="h5">Why Premium Mentorship?</h5>
+                                 {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
+                                 <div className="row mt-25">
+                                    <div className="col-lg-6">
+                                       <div className="checklist mb-4">
+                                          <ul>
+                                             <li> Maximum One-to-One Session with Rajeev Sir</li>
+                                             <li> Flexible Timings</li>
+                                             <li> Individual Attention</li>
+                                             
+                                          </ul>
+                                       </div>
+                                    </div>
+                                    <div className="col-lg-6">
+                                       <div className="checklist">
+                                          <ul>
+                                             <li>  Most Popular Mentorship Program</li>
+                                             <li>  Personalized Study Plans & strategy</li>
+                                             <li>  Expert Faculties and IIM alumni mentors</li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                 </div>
+                                    <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
+                                    <p><b>"Every Child is diffrent"</b></p>
+                                    <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
+                                    <div className="row mt-25">
+                                       <div className="col-lg-6">
+                                          <div className="checklist mb-4">
+                                             <ul>
+                                                <li> Beginners assignment and Counselling</li>
+                                                <li> Personalised strategy and plan</li>
+                                             
+                                                
+                                             </ul>
+                                          </div>
+                                       </div>
+                                       <div className="col-lg-6">
+                                          <div className="checklist">
+                                             <ul>
+                                                <li>  Regular 1 to 1 session and remedial classes</li>
+                                                <li>  Customize personal study plan</li>
+                                                
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
+                                    </div>
+                </div>
+                </div>
+                </div>
+                </div>
+                </div>
+                </div>
+                </div>
+                </div>
+               
+                
 
             <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                <div className="col-md-6 col-lg-4">
