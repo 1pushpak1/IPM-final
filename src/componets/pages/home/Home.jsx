@@ -52,7 +52,8 @@ function Home() {
                   <div className="col-md-8">
                      <div className="title-area mb-md-0">
                         <span className="sub-title"><i className="fal fa-book me-2"></i> Popular Courses</span>
-                        <h2 className="sec-title">Our Popular Courses</h2>
+                        <h2 className="sec-title">Our Courses</h2>
+                        <h5>Pick the best suited course for yourself</h5>
                      </div>
                   </div>
                   {/* <div className="col-md-auto"><a href="#" className="th-btn">View All Courses<i className="fa-solid fa-arrow-right ms-2"></i></a></div> */}
