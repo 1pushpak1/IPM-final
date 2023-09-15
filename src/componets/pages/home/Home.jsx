@@ -87,9 +87,96 @@ function Home() {
                         </ul>
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
-                              <div className="course-description">
+                           <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/Course1.png" alt="img" />  </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating">
+                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Course</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating"> */}
+                           {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="/achivers">Achivers mentorship Course</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating"> */}
+                           {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="/master">Masters Mentorship Course</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course4.png" alt="img" />  </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating">
+                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="/short">Short Mentorship Course</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course5.png" alt="img" /> </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating">
+                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="/testmod">TestSeries Mentorship Course</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info">  <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               </div>
+                              {/* <div className="course-description">
                                  <h5 className="h5">Why Premium Mentorship?</h5>
-                                 {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
+                                
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
@@ -136,8 +223,8 @@ function Home() {
                                        </div>
                                     <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
                                     </div>
-                </div>
-                </div>
+                              </div>*/}
+                </div> 
                 </div>
                 </div>
                 </div>
