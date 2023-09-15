@@ -96,7 +96,7 @@ function Home() {
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Program</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
@@ -113,7 +113,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/achivers">Achivers mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/achivers">Premium 40</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -130,7 +130,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/master">Masters Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/master">Ranker's Program</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -155,7 +155,7 @@ function Home() {
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="prep-module">Mentorship for Class 11th</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
@@ -172,7 +172,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/achivers">Achivers mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/achivers">Mentorship for Class 11th</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -189,7 +189,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/master">Masters Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/master">Mentorship appearing student & rankers</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -214,7 +214,7 @@ function Home() {
                            <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="prep-module">Pocket IPM Test Series</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
@@ -231,7 +231,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/achivers">Achivers mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/achivers">Prime IPM Test Series</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -248,7 +248,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/master">Masters Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/master">Premium IPM Test series</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -291,7 +291,7 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/achivers">Achivers mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/achivers">Subjectwise Mentorship</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
@@ -308,7 +308,24 @@ function Home() {
                            {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
                            (4.7)
                         </div> */}
-                        <h3 className="course-title"><Link to="/master">Masters Mentorship Course</Link></h3>
+                        <h3 className="course-title"><Link to="/master">Subjectwise Mentorship</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+              <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-content">
+                        {/* <div className="course-rating"> */}
+                           {/* <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
+                           (4.7)
+                        </div> */}
+                        <h3 className="course-title"><Link to="/master">Mocktest Mentorship Program</Link></h3>
                         <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
                         <div className="course-author">
                            <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
