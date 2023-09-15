@@ -139,95 +139,12 @@ function Home() {
                      </div>
                   </div>
                </div>
-               <div className="col-md-6 col-lg-4">
-                  <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course4.png" alt="img" />  </div>
-                     <div className="course-content">
-                        {/* <div className="course-rating">
-                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
-                           (4.7)
-                        </div> */}
-                        <h3 className="course-title"><Link to="/short">Short Mentorship Course</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 20+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
-                     </div>
-                  </div>
+              
                </div>
-               <div className="col-md-6 col-lg-4">
-                  <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course5.png" alt="img" /> </div>
-                     <div className="course-content">
-                        {/* <div className="course-rating">
-                           <div className="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style={{width:'79%'}}>Rated <strong className="rating">4.00</strong> out of 5</span></div>
-                           (4.7)
-                        </div> */}
-                        <h3 className="course-title"><Link to="/testmod">TestSeries Mentorship Course</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>8 Weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info">  <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               </div>
-                              {/* <div className="course-description">
-                                 <h5 className="h5">Why Premium Mentorship?</h5>
-                                
-                                 <div className="row mt-25">
-                                    <div className="col-lg-6">
-                                       <div className="checklist mb-4">
-                                          <ul>
-                                             <li> Maximum One-to-One Session with Rajeev Sir</li>
-                                             <li> Flexible Timings</li>
-                                             <li> Individual Attention</li>
-                                             
-                                          </ul>
-                                       </div>
-                                    </div>
-                                    <div className="col-lg-6">
-                                       <div className="checklist">
-                                          <ul>
-                                             <li>  Most Popular Mentorship Program</li>
-                                             <li>  Personalized Study Plans & strategy</li>
-                                             <li>  Expert Faculties and IIM alumni mentors</li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </div>
-                                    <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
-                                    <p><b>"Every Child is diffrent"</b></p>
-                                    <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
-                                    <div className="row mt-25">
-                                       <div className="col-lg-6">
-                                          <div className="checklist mb-4">
-                                             <ul>
-                                                <li> Beginners assignment and Counselling</li>
-                                                <li> Personalised strategy and plan</li>
-                                             
-                                                
-                                             </ul>
-                                          </div>
-                                       </div>
-                                       <div className="col-lg-6">
-                                          <div className="checklist">
-                                             <ul>
-                                                <li>  Regular 1 to 1 session and remedial classes</li>
-                                                <li>  Customize personal study plan</li>
-                                                
-                                             </ul>
-                                          </div>
-                                       </div>
-                                    <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
-                                    </div>
-                              </div>*/}
-                </div> 
-                </div>
-                </div>
-                </div>
+             </div> 
+           </div>
+         </div>
+       </div>
                 </div>
                 </div>
                 </div>
