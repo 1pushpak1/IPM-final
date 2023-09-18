@@ -67,7 +67,7 @@ function Home() {
 
             <div className="container">
             <div className="row">
-               <div className="col-xxl-9 col-lg-8">
+               <div className="col-xxl-9 col-lg-12">
                   <div className="course-single">
                      <div className="course-single-bottom">
                         <ul className="nav course-tab" id="courseTab" role="tablist">
