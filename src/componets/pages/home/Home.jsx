@@ -80,7 +80,7 @@ function Home() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               
                            <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
-               <div className="col-md-6 col-lg-3">
+               <div className="col-md-6 col-lg-4">
                   <div className="course-box">
                      <div className="course-img"><img src="assets/img/course/Course1.png" alt="img" />  </div>
                      <div className="course-content">
@@ -94,7 +94,7 @@ function Home() {
                      </div>
                   </div>
                </div>
-               <div className="col-md-6 col-lg-3">
+               <div className="col-md-6 col-lg-4">
                   <div className="course-box">
                      <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
                      <div className="course-content">
@@ -108,7 +108,7 @@ function Home() {
                      </div>
                   </div>
                </div>
-               <div className="col-md-6 col-lg-3">
+               <div className="col-md-6 col-lg-4">
                   <div className="course-box">
                      <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
                      <div className="course-content">
