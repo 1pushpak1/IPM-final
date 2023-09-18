@@ -128,19 +128,56 @@ function Home() {
 
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
-                              <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Master Mentorship Batch By IPM Prime Tutorials</h5>
-                                 {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
-                                 <div className="checklist mb-1">
-                                    <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
-                                       <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
-                                       <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
-                                    </ul>
-                                 </div>
-                              </div>
+                              
+                              
+                           <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/Course1.png" alt="img" />  </div>
+                     <div className="course-content">
+                    
+                        <h3 className="course-title"><Link to="prep-module">Mentorship for Class 11th</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
+                     <div className="course-content">
+                        
+                        <h3 className="course-title"><Link to="/achivers">Mentorship for Class 11th</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-content">
+                       
+                        <h3 className="course-title"><Link to="/master">Mentorship appearing student & rankers</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+              
+               </div>
+
+                                 
+
                            </div>
                            <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                               <div className="course-instructor">
