@@ -78,59 +78,54 @@ function Home() {
                         </ul>
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
-                              <div className="course-description">
-                                 <h5 className="h5">Why Master Mentorship?</h5>
-                                 <p>Prepare for IPMAT 2024-25 with your trusted Mentorship Program </p>
-                                 <div className="row mt-25">
-                                    <div className="col-lg-6">
-                                       <div className="checklist mb-4">
-                                          <ul>
-                                          <li> 1-to-1 Session with Rajeev Sir & mentors</li>
-                                             <li> Counselling</li>
-                                             <li> Individual Attention</li>
-                                             
-                                          </ul>
-                                       </div>
-                                    </div>
-                                    <div className="col-lg-6">
-                                       <div className="checklist">
-                                          <ul>
-                                             <li>  Most Popular Mentorship Program</li>
-                                             <li>  Personalized Study Plans & Strategy</li>
-                                             <li>  Expert Faculties and IIM alumni mentors</li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
-                                 <p>"Every Child is diffrent"</p>
-                                 <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
-                                 <div className="row mt-25">
-                                    <div className="col-lg-6">
-                                       <div className="checklist mb-4">
-                                          <ul>
-                                          <li> Beginners assignment and Counselling</li>
-                                                <li> Personalised strategy and plan</li>
-                                             
-                                                
-                                             </ul>
-                                          </div>
-                                       </div>
-                                       <div className="col-lg-6">
-                                          <div className="checklist">
-                                             <ul>
-                                                <li>  Regular 1 to 1 session and remedial classes</li>
-                                                <li>  Customize personal study plan</li>
-                                            
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 <p>We already know:  <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
-                                 <p>So, the PERSONALISED learning methodology is SUCCESS!!!</p> 
-                                 <p>Masters’ Mentorship Program is an intensive IPMAT Test Prep course under the highly experienced subject experts and IIM alumni Mentors for class 12 students. This program is focused on the personalised mentorship which are customised to the requirement of the individual students and address their strengths and weaknesses effectively to equip them with necessary skills to ace the IPMAT Test.   </p>
-                                 </div>
                               
-                              </div>
+                           <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/Course1.png" alt="img" />  </div>
+                     <div className="course-content">
+                        
+                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Program</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
+                     <div className="course-content">
+                       
+                        <h3 className="course-title"><Link to="/achivers">Premium 40</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-md-6 col-lg-4">
+                  <div className="course-box">
+                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-content">
+                       
+                        <h3 className="course-title"><Link to="/master">Ranker's Program</Link></h3>
+                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
+                        <div className="course-author">
+                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
+                           <div className="offer-tag"> </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+              
+               </div>
+
+
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
