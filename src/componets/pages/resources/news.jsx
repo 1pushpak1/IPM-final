@@ -43,7 +43,7 @@ function News() {
                            <div className="testi-box_bottom">
                               <div>
                                  <h3 className="testi-box_name">David H. Smith</h3>
-                                 <span className="testi-box_desig">IT Student</span>
+                                 <span className="testi-box_desig">20th Sep 2023</span>
                               </div>
                               {/* <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div> */}
                            </div>
@@ -63,7 +63,7 @@ function News() {
                            <div className="testi-box_bottom">
                               <div>
                                  <h3 className="testi-box_name">Zara Head Milan</h3>
-                                 <span className="testi-box_desig">Regular Student</span>
+                                 <span className="testi-box_desig">20th Sep 2023</span>
                               </div>
                               {/* <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div> */}
                            </div>
