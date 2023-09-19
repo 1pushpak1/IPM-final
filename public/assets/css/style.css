@@ -9221,6 +9221,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
   position: relative;
   z-index: 2;
   overflow: hidden;
+  background-color: #9b9b9b;
 }
 
 .th-hero-wrapper .checklist ul {
