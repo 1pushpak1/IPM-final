@@ -1,5 +1,5 @@
 import React from 'react'
-
+import BookFreeDemo from '../form/BookFreeDemo'
 function Indore() {
   return (
     <>
@@ -31,6 +31,35 @@ function Indore() {
         
          </div>
       </div>
+
+      <section className="space-top space-extra2-bottom">
+         <div className="container">
+            <div className="row">
+               <div className="col-xxl-9 col-lg-8">
+                  <div className="course-single">
+                     <div className="course-single-top">
+                       
+                        <h2 className="course-title">IIM Indore</h2>
+                        <ul className="course-single-meta">
+                       
+                        </ul>
+                     </div>
+                     <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                                <p>Instituted in 1996, the Indian Institute of Management Indore is an autonomous public business school located in Indore, Madhya Pradesh in India. It launched the five-year IPM program in 2011.</p>
+                               
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-xxl-3 col-lg-4">
+                  <BookFreeDemo/>
+               </div>
+            </div>
+         </div>
+      </section>
 {/* 
       <section className="space-top space-extra2-bottom">
          <div className="container">

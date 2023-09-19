@@ -1,5 +1,5 @@
 import React from 'react'
-
+import BookFreeDemo from '../form/BookFreeDemo'
 function Rohtak() {
   return (
     <>
@@ -31,6 +31,34 @@ function Rohtak() {
         
          </div>
       </div>
+      <section className="space-top space-extra2-bottom">
+         <div className="container">
+            <div className="row">
+               <div className="col-xxl-9 col-lg-8">
+                  <div className="course-single">
+                     <div className="course-single-top">
+                       
+                        <h2 className="course-title">IIM Rohtak</h2>
+                        <ul className="course-single-meta">
+                       
+                        </ul>
+                     </div>
+                     <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                                <p>Established in 2010, the Indian Institute of Management Rohtak is a public business school located in Rohtak, Haryana. It started the IPM program in 2018.</p>
+                               
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div className="col-xxl-3 col-lg-4">
+                  <BookFreeDemo/>
+               </div>
+            </div>
+         </div>
+      </section>
 {/* 
       <section className="space-top space-extra2-bottom">
          <div className="container">
