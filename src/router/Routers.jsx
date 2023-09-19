@@ -38,7 +38,7 @@ import Calander from '../componets/pages/resources/calander'
 import Analysis from '../componets/pages/resources/analysis'
 import ScrollToTop from '../ScrollTop'
 import Scholarship from '../componets/pages/home/Scholarship'
-import News from '../componets/pages/home/News'
+import News from '../componets/pages/resources/news'
 
 
 function Routers() {
