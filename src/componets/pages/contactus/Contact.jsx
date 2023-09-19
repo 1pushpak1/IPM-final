@@ -1,5 +1,6 @@
 import React from 'react'
 import ContactForm from '../form/ContactForm'
+import { Link } from 'react-router-dom';
 
 function Contact() {
   return (
