@@ -83,7 +83,7 @@ function Header() {
                                        <li><Link to="/calander" onClick={handleClose}>Exam Calander </Link></li>
                                        {/* <li><Link to="/exams3" onClick={handleClose}>IPM  Colleges </Link></li> */}
                                        <li><Link to="/exams3" onClick={handleClose}>Blogs </Link></li>
-                                       <li><Link to="/exams3" onClick={handleClose}>News & Events </Link></li>
+                                       <li><Link to="/news" onClick={handleClose}>News & Events </Link></li>
                                        {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>
@@ -200,7 +200,7 @@ function Header() {
                                        <li><Link to="/calander">Exam Calander </Link></li>
                                        
                                        <li><Link to="/exams3">Blogs </Link></li>
-                                       <li><Link to="/exams3">News & Events </Link></li>   
+                                       <li><Link to="/news">News & Events </Link></li>   
                                        {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>

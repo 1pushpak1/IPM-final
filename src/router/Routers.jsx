@@ -38,6 +38,7 @@ import Calander from '../componets/pages/resources/calander'
 import Analysis from '../componets/pages/resources/analysis'
 import ScrollToTop from '../ScrollTop'
 import Scholarship from '../componets/pages/home/Scholarship'
+import News from '../componets/pages/home/News'
 
 
 function Routers() {
@@ -81,6 +82,7 @@ function Routers() {
                 <Route path="/calander" element={<Calander/>} />
                 <Route path="/analysis" element={<Analysis/>} />
                 <Route path="/scholarship" element={<Scholarship/>} />
+                <Route path="/news" element={<News/>} />
 
             </Routes>
         <Footer/>
