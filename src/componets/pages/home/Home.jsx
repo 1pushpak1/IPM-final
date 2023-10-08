@@ -361,7 +361,7 @@ function Home() {
                   <h2 className="sec-title text-white">MAHA <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">For Mentorship Batch</span></h2>
                   <p className="cta-text">Join Us on 21st Sep 2023</p>
                </div>
-               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book A COUNSELLING SESSION<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Book Your Slot<i className="fas fa-arrow-right ms-2"></i></Link></div>
+               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book A COUNSELLING SESSION<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
             </div>
          </div>
       </section>
@@ -376,11 +376,11 @@ function Home() {
                <div className="col-xl-6 mb-40 mb-xl-0">
                   <div className="title-area mb-30">
                      <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructor</span>
-                     <h2 className="sec-title">Meet Our Expert Instructor</h2>
+                     <h2 className="sec-title">Meet Our Expert Mentors</h2>
                      <p className="sec-text mt-20">Team IPM PRIME is here to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
                      <p className="sec-text">You are ready to ACE any test!!</p>
                   </div>
-                  <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="/contactus" className="th-btn style7">Contact Us<i className="fas fa-arrow-right ms-2"></i></a></div>
+                  <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="/contactus" className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></a></div>
                </div>
                <div className="col-xl-3 col-md-6">
                   <div className="team-card team-card-1-1 team-card-1-1-active mt-0">
