@@ -95,8 +95,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        {/* <h3 className="course-title"><Link to="/achivers">Premium 40</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
+                         <h3 className="course-title"><Link to="/achivers">Premium 40</Link></h3>
+                        {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} */}
                      
                      </div>
                   </div>
