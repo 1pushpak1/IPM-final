@@ -199,43 +199,31 @@ function Home() {
                
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 9.png" alt="img" />  </div>
                      <div className="course-content">
                         
                         <h3 className="course-title"><Link to="/achivers">Subjectwise Mentorship</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                        
                      </div>
                   </div>
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 10.png" alt="img" />  </div>
                      <div className="course-content">
                         
                         <h3 className="course-title"><Link to="/master">Subjectwise Mentorship</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                        
                      </div>
                   </div>
                </div>
               <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 11.png" alt="img" />  </div>
                      <div className="course-content">
                        
                         <h3 className="course-title"><Link to="/master">Mocktest Mentorship Program</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                       
                      </div>
                   </div>
                </div>
