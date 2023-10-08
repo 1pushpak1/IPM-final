@@ -2,16 +2,16 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function Banner() {
-   const backgroundImageUrl = 'assets/img/hero/hero_bg_1_1.jpg';
+   const backgroundImageUrl = 'assets/img/hero/hero_bg_11.jpg';
    const containerStyle = {
       backgroundImage: `url(${backgroundImageUrl})`,
     };
   return (
     <>
       <div className="th-hero-wrapper hero-1" id="hero">
-         <div className="hero-slider-1 th-carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
-            <div className="th-hero-slide">
-               <div className="th-hero-bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
+         <div className="hero-slider -1 th- carousel" data-fade="true" data-slide-show="1" data-md-slide-show="1" data-dots="true">
+            <div className="th-hero-v slide">
+               <div className="th-hero- bg" data-overlay="title" data-opacity="8" style={containerStyle}></div>
                <div className="container">
                   <div className="row align-items-center justify-content-center">
                      <div className="col-md-6">
@@ -30,7 +30,7 @@ function Banner() {
                </div>
                <div className="hero-shape shape1"><img src="assets/img/hero/shape_1_1.png" alt="shape" /></div>
                <div className="hero-shape shape2"><img src="assets/img/hero/shape_1_2.png" alt="shape" /></div>
-               <div className="hero-shape shape3"></div>
+               {/* <div className="hero-shape shape3"></div> */}
                <div className="hero-shape shape4 shape-mockup jump-reverse" data-right="3%" data-bottom="7%"><img src="assets/img/hero/shape_1_3.png" alt="shape" /></div>
                <div className="hero-shape shape5 shape-mockup jump-reverse" data-left="0" data-bottom="0"><img src="assets/img/hero/shape_1_4.png" alt="shape" /></div>
             </div>
