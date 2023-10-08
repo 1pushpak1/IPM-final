@@ -96,7 +96,7 @@ function Home() {
                      <div className="course-content">
                        
                          <h3 className="course-title"><Link to="/achivers">Premium 40</Link></h3>
-                        {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} */}
+                        {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} 
                      
                      </div>
                   </div>
