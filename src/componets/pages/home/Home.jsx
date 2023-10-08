@@ -122,43 +122,31 @@ function Home() {
                            <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/Course1.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 3.png" alt="img" />  </div>
                      <div className="course-content">
                     
                         <h3 className="course-title"><Link to="prep-module">Mentorship for Class 11th</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 weeks</span> <span><i className="fal fa-user"></i>Students 60+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"><a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                        
                      </div>
                   </div>
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course2.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 4.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/achivers">Mentorship for Class 11th</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                        <h3 className="course-title"><Link to="/achivers">Mentorship for Class 12th</Link></h3>
+                        
                      </div>
                   </div>
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/course3.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 5.png" alt="img" />  </div>
                      <div className="course-content">
                        
                         <h3 className="course-title"><Link to="/master">Mentorship appearing student & rankers</Link></h3>
-                        <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 30+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div>
-                        <div className="course-author">
-                           <div className="author-info"> <a href="#" className="author-name">RV Sir</a></div>
-                           <div className="offer-tag"> </div>
-                        </div>
+                       
                      </div>
                   </div>
                </div>
