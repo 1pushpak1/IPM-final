@@ -479,51 +479,50 @@ function Home() {
             <div className="row">
                <div className="col-xl-12">
                   <div className="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false">
-                  <div className="col-lg-6">
+                     <div className="col-lg-6">
                         <div className="testi-box">
-                          
-                         
+                           
                            <div className="testi-box_content">
-                          
-                              <p className="testi-box_text">“IPM Prime Tutorial is the best online Mentorship platform for the students who want to prepare for IPM-AT. The detailed study material and regular regular Mocks with very detailed analysis Sessions helped me a lot to score good marks in exams. I enhanced my question solving speed and accuracy with the help of mock tests and a unique approach to mock analysis which are provided by the institute. The detailed test analysis helped a lot for checking one’s own mistakes and strengthening one’s concept with clarity. I have started my IPM preparation in class 12th with the help of an online Premium Mentorship batch of IPM Prime tutorial. Though preparing for IPM with class 12th was a tough job, IPM Prime Tutorial made it easy and achievable. Heartfelt gratitude to IPM Prime for helping me get into an IIM. ”</p>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1.png" alt="Avater" /></div>
+                              <p className="testi-box_text">“I started my prep journey by enrolling myself into IPM Prime’s Premium Mentorship Program immediately after my class 11th exam. Enrolling in IPM Prime Tutorial was the best decision for me. I give full credit to IPM Prime for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Every concept was explained thoroughly and various approaches to questions were taught on a daily basis in the class. Mock tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Aryan Sood</h3>
+                                 <h3 className="testi-box_name">Shikha Sharma</h3>
                                  
                               </div>
-                             
+                              
+                           </div>
+                        </div>
+                     </div>
+                     <div className="col-lg-6">
+                        <div className="testi-box">
+                           
+                           <div className="testi-box_content">
+                              
+                              <p className="testi-box_text">“It still feels surreal to say that I have got admission in the IPM Program. I am filled with gratitude for the intensive efforts in action and spirit put forth by the whole team of IPM Prime Tutorial. I want to take this opportunity to thank the entire team and Rajeev Sir for his continuous support and guidance. 
+The program proved to be really helpful in enriching my knowledge about the exam pattern. Their planned online classes and continuous personalised sessions helped me a lot to complete the syllabus on time. And the one on one interview sessions with the Rajeev Sir have been so insightful because of which I did well in my interview also. Keep serving the aspirants as you have always done.
+”</p>
+                           </div>
+                           <div className="testi-box_bottom">
+                              <div>
+                                 <h3 className="testi-box_name">Mayank Agarwal</h3>
+                                
+                              </div>
+                              
                            </div>
                         </div>
                      </div>
                      <div className="col-lg-6">
                         <div className="testi-box">
                           
-                         
                            <div className="testi-box_content">
-                          
-                              <p className="testi-box_text">“IPM Prime Tutorial is the best online Mentorship platform for the students who want to prepare for IPM-AT. The detailed study material and regular regular Mocks with very detailed analysis Sessions helped me a lot to score good marks in exams. I enhanced my question solving speed and accuracy with the help of mock tests and a unique approach to mock analysis which are provided by the institute. The detailed test analysis helped a lot for checking one’s own mistakes and strengthening one’s concept with clarity. I have started my IPM preparation in class 12th with the help of an online Premium Mentorship batch of IPM Prime tutorial. Though preparing for IPM with class 12th was a tough job, IPM Prime Tutorial made it easy and achievable. Heartfelt gratitude to IPM Prime for helping me get into an IIM. ”</p>
+                            
+                              <p className="testi-box_text">“The guidance of IPM Prime Tutorial and Personalised sessions by Mentors were very much valuable. Relevant course modules allowing for greater depth knowledge and clarity most importantly the detailed Mock analysis gave a lot of confidence. I would recommend IPM Prime Tutorial to anyone serious about succeeding in IPM. ”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Aryan Sood</h3>
-                                 
-                              </div>
-                             
-                           </div>
-                        </div>
-                     </div>
-                     <div className="col-lg-6">
-                        <div className="testi-box">
-                          
-                         
-                           <div className="testi-box_content">
-                          
-                              <p className="testi-box_text">“IPM Prime Tutorial is the best online Mentorship platform for the students who want to prepare for IPM-AT. The detailed study material and regular regular Mocks with very detailed analysis Sessions helped me a lot to score good marks in exams. I enhanced my question solving speed and accuracy with the help of mock tests and a unique approach to mock analysis which are provided by the institute. The detailed test analysis helped a lot for checking one’s own mistakes and strengthening one’s concept with clarity. I have started my IPM preparation in class 12th with the help of an online Premium Mentorship batch of IPM Prime tutorial. Though preparing for IPM with class 12th was a tough job, IPM Prime Tutorial made it easy and achievable. Heartfelt gratitude to IPM Prime for helping me get into an IIM. ”</p>
-                           </div>
-                           <div className="testi-box_bottom">
-                              <div>
-                                 <h3 className="testi-box_name">Aryan Sood</h3>
+                                 <h3 className="testi-box_name">Ipsa Mittal</h3>
                                  
                               </div>
                              
