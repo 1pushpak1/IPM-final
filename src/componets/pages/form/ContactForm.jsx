@@ -43,7 +43,7 @@ function ContactForm() {
             <div className="col-12">
                 <div className="form-group"><textarea name="message" id="message" cols="30" rows="3" className="form-control style-white" placeholder="Write Your Message*" required></textarea> <i className="fal fa-pen"></i></div>
             </div>
-            <div className="form-btn col-12 mt-10"><button className="th-btn">Send Message<i className="fas fa-long-arrow-right ms-2"></i></button></div>
+            <div className="form-btn col-12 mt-10"><button type="submit" className="th-btn">Send Message<i className="fas fa-long-arrow-right ms-2"></i></button></div>
         </div>
         <p className="form-messages mb-0 mt-3"></p>
         </form>
