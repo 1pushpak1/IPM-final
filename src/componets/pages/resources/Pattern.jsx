@@ -4,20 +4,7 @@ import BookFreeDemo from '../form/BookFreeDemo'
 function Pattern() {
   return (
     <>
-    <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
-        <div className="breadcumb-shape" data-bg-src="assets/img/bg/breadcumb_shape_1_1.png"></div>
-         <div className="shape-mockup breadcumb-shape2 jump d-lg-block d-none" data-right="30px" data-bottom="30px"><img src="assets/img/bg/breadcumb_shape_1_2.png" alt="shape" /></div>
-         <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
-         <div className="container">
-            <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IP-MAT / IIM Indore</h1>
-               <ul className="breadcumb-menu">
-                  <li><a href="#">Exams</a></li>
-                  <li>IIM Indore</li>
-               </ul>
-            </div>
-         </div>
-      </div>
+   
       <section className="space-top space-extra2-bottom">
          <div className="container">
             <div className="row">
@@ -36,7 +23,7 @@ function Pattern() {
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
                                 
-                                <h5>Indore</h5>
+                                <h5>IPM-AT Indore</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
@@ -189,7 +176,7 @@ function Pattern() {
                                     </tbody>
                                 </table>
 
-                            
+
 
                             </div>
                         </div>
