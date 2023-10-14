@@ -379,44 +379,138 @@ function Analysis() {
                               </div>
                            </div>
                            <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-                              <div className="course-Reviews">
-                                 <div className="th-comments-wrap">
-                                    <ul className="comment-list">
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-3.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Mark Jack</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>22 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-2.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Alexa Deo</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages.</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-1.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Tara sing</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                    </ul>
-                                 </div>
+                           <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                               <h5>SET 2023 Paper Structure</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Section</th>
+                                            <th scope="col">No. of Questions</th>
+                                            <th scope="col">Difficulty level</th>
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">General English</th>
+                                            <td>16</td>
+                                            <td>Easy-Moderate</td>
+                                            
+                                        </tr>   
+                                        <tr>
+                                            <th scope="row">Quantitative Aptitude</th>
+                                            <td> 16</td>
+                                            <td>Moderate</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">General Awareness</th>
+                                            <td>16</td>
+                                            <td>Easy-Moderate</td>
+                                            
+                                        </tr> 
+                                        <tr>
+                                            <th scope="row">Analytical and Logical Reasoning</th>
+                                            <td>12</td>
+                                            <td>Easy-Moderate</td>
+                                            
+                                        </tr> 
+                                      
+                                    </tbody>
+                                </table>
+                          
+                            
+                            <div className="tab-content" id="productTabContent">
+                                <h4 className="h5 mt-40">JIPMAT 2023 Detailed Analysis</h4>
+                                <p>The overall difficulty level of the paper was easy-moderate. Time constraint was not so much of a factor. There was ample time especially because of the difficulty level and the nature of the General Reasoning and English section. Find below the section-wise analysis of the paper.</p>
+                                <h5>General English</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                            <li>Fill in the Blanks</li>
+                                            <li>Synonyms/Antonyms</li>
+                                            <li>Sentence Improvement</li>
+                                            <li>Idioms and Phrases</li>
+                                            <li>Error Spotting</li>
+                                            <li>Spelling Errors</li>
+                                            <li>Sentence Completion</li>
+                                            <li>Sentence Re-arrangement</li>
+                                            <li>Analogy</li>                      
+                                            </ul>
+                                        </div>
+                                    </div>
+                                   
+                                   <p>  </p>
+                                   <p>  </p>
+                                 <h5>Quantitative Aptitude</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                                <li>Number System</li>
+                                                <li>Time and Work</li>
+                                                <li>Time, Speed, and Distance</li>
+                                                <li>Percentages</li>
+                                                <li>Ratio and Proportion</li>
+                                                <li>Simple Interest-Compound Interest</li>
+                                                <li>Profit, Loss, and Discount</li>
+                                                <li>Averages</li>
+                                                <li>Probability</li>
+                                                <li>Geometry</li>
+                                                <li>Clocks</li>
+                                                <li>Trigonometry</li>
+                                                <li>Mensuration</li>
+                                                <li>Log</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <p>  </p>
+                                    <p>  </p>
+                                 <h5>General Awareness</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                                 <li>Cricket (bowling) </li>
+                                                 <li>G-20 Summit</li>
+                                                 <li>WACA Cricket ground</li>
+                                                 <li>GIR National Park</li>
+                                                 <li>World's longest tunnel</li>
+                                                 <li>Jeff Bezos</li>
+                                                 <li>Freedom fighters</li>
+                                                 <li>First Viceroy of India</li>
+                                                 <li>Post of General Bipin Rawat</li>
+                                                 <li>Highest Army Award</li>
+                                                 <li>Current President Of Brazil</li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <p>  </p>
+                                    <p>  </p>
+                                <h5>Logical Reasoning</h5>
+                                    <div className="col-md-auto">
+                                        <div className="checklist">
+                                             <ul>
+                                                <li>Coding-Decoding</li>
+                                                <li>Blood Relations</li>
+                                                <li>Calendars</li>
+                                                <li>Seating arrangements</li>
+                                                <li>Analogy</li>
+                                                <li>Data Sufficiency</li>
+                                                <li>Syllogisms</li>
+                                                <li>Statement-Assumptions</li>
+                                                <li>Misc</li>
+                                                <li>Series</li>
+
+                                             </ul>
+                                        </div>
+                                    </div>
+                                    </div>
+                             </div>
+                         </div>
+                     </div>
+                     </div>
                                  {/* <div className="th-comment-form">
                                     <div className="form-title">
                                        <h3 className="blog-inner-title">Add a review</h3>
@@ -433,8 +527,8 @@ function Analysis() {
                                        <div className="col-12 form-group mb-0"><button className="th-btn">Post Review <i className="far fa-arrow-right ms-1"></i></button></div>
                                     </div>
                                  </div> */}
-                              </div>
-                           </div>
+                            
+                          
                         </div>
                      </div>
                   </div>
