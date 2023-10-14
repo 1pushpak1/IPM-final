@@ -11,7 +11,7 @@ function Scholarshiptest() {
         const form = e.target;
 
         if (form.checkValidity()) {
-            emailjs.sendForm('service_8olz9ou', 'template_etwgagg',  form.current, '_WTQnIBSrnhLNcbOB')
+            emailjs.sendForm('service_8olz9ou', 'template_etwgagg', form, '_WTQnIBSrnhLNcbOB')
                 .then((result) => {
                     console.log(result.text);
                     formRef.current.reset();
