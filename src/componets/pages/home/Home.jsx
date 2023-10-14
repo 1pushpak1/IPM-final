@@ -95,7 +95,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course2.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                         <h3 className="course-title"><Link to="/achivers">Premium Mentorship Program (Premium 40)</Link></h3>
+                         <h3 className="course-title"><Link to="/prep-module">Premium Mentorship Program (Premium 40)</Link></h3>
                         {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} 
                      
                      </div>
@@ -106,7 +106,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 2.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/master">Premium Mentorship (Ranker's Program)</Link></h3>
+                        <h3 className="course-title"><Link to="/prep-module">Premium Mentorship (Ranker's Program)</Link></h3>
                        
                      </div>
                   </div>
@@ -125,7 +125,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 3.png" alt="img" />  </div>
                      <div className="course-content">
                     
-                        <h3 className="course-title"><Link to="prep-module">Achivers' Mentorship Program for Class 12th</Link></h3>
+                        <h3 className="course-title"><Link to="/achivers">Achivers' Mentorship Program for Class 11th</Link></h3>
                         
                      </div>
                   </div>
@@ -135,7 +135,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 4.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/achivers">Masters' Mentorship Program for Class 12th</Link></h3>
+                        <h3 className="course-title"><Link to="/master">Masters' Mentorship Program for Class 12th</Link></h3>
                         
                      </div>
                   </div>
@@ -163,7 +163,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 6.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="prep-module">Pocket IPM Test Series</Link></h3>
+                        <h3 className="course-title"><Link to="/testmod">Pocket IPM Test Series</Link></h3>
                         
                      </div>
                   </div>
@@ -173,7 +173,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 7.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/achivers">Prime IPM Test Series</Link></h3>
+                        <h3 className="course-title"><Link to="/testmod">Prime IPM Test Series</Link></h3>
                        
                      </div>
                   </div>
@@ -183,7 +183,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 8.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/master">Premium IPM Test series</Link></h3>
+                        <h3 className="course-title"><Link to="/testmod">Premium IPM Test series</Link></h3>
                         
                      </div>
                   </div>
@@ -202,7 +202,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 9.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/achivers">MockTest Mentorship Program</Link></h3>
+                        <h3 className="course-title"><Link to="/short">MockTest Mentorship Program</Link></h3>
                         
                      </div>
                   </div>
@@ -212,7 +212,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 10.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/master">ShorT Term Courses(Quants & Verbal) </Link></h3>
+                        <h3 className="course-title"><Link to="/short">Short Term Courses(Quants & Verbal) </Link></h3>
                         
                      </div>
                   </div>
