@@ -9,7 +9,7 @@ function BookFreeDemo() {
         const form = e.target;
 
         if (form.checkValidity()) {
-            emailjs.sendForm('service_8olz9ou', 'template_etwgagg', form, 'odxm-Azw3lZvCNiOamME8')
+            emailjs.sendForm('service_8olz9ou', 'template_etwgagg', form, '_WTQnIBSrnhLNcbOB')
                 .then((result) => {
                     console.log(result.text);
                     formRef.current.reset();
@@ -49,7 +49,7 @@ function BookFreeDemo() {
                             </select>
                         </div>
                         <div className="form-group">
-                            <button type="submit" className='th-btn'>Submit</button>
+                            <button type="submit" value="Send" className='th-btn'>Submit</button>
                         </div>
                     </form>
                 </div>
