@@ -43,12 +43,17 @@ function Header() {
                         
                         </ul>
                         <ul className="sub-menu">
-                        <li><Link to="/exams" onClick={handleClose}>IIM Indore</Link></li>
-                        <li><Link to="/exams1" onClick={handleClose}>IIM Rohtak </Link></li>
-                        <li><Link to="/exams2" onClick={handleClose}>IIM Bodhgaya </Link></li>
-                        <li><Link to="/exams3" onClick={handleClose}>IIM Ranchi </Link></li>
-                        <li><Link to="/exams4" onClick={handleClose}>IIM Jammu </Link></li>
-                        <li><Link to="/exams5" onClick={handleClose}>IIM Nagpur </Link></li>
+                        <li><Link to="/exams">IPM-AT Indore</Link></li>
+                                       <li><Link to="/exams1" onClick={handleClose} >IPM-AT Rohtak </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>IPM-AT Ranchi </Link></li>
+                                       <li><Link to="/exams4" onClick={handleClose}>JIPMAT IIM Jammu </Link></li>
+                                       <li><Link to="/exams2" onClick={handleClose}>JIPMAT IIM Bodhgaya </Link></li>
+                                       <li><Link to="/exams5"onClick={handleClose}>DoMS IPM NALSAR</Link></li>
+                                       <li><Link to="/exams6"onClick={handleClose}> IPM IIFT Kakinada </Link></li>
+                                       <li><Link to="/exams7"onClick={handleClose}>NPAT NMIM </Link></li>
+                                       <li><Link to="/exams8"onClick={handleClose}>SET Symbiosis </Link></li>
+                                       <li><Link to="/exams9"onClick={handleClose}>BMS/BFIA CUET </Link></li>
+                        
                      </ul>
                   </li>
                   <li>
@@ -79,7 +84,7 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/analysis" onClick={handleClose}>Exam Analysis</Link></li>
-                                       <li><Link to="/exams1" onClick={handleClose}>Exam News </Link></li>
+                                       <li><Link to="/exams1" onClick={handleClose}>Exam Pattern </Link></li>
                                        <li><Link to="/calander" onClick={handleClose}>Exam Calander </Link></li>
                                        {/* <li><Link to="/exams3" onClick={handleClose}>IPM  Colleges </Link></li> */}
                                        <li><Link to="/exams3" onClick={handleClose}>Blogs </Link></li>
@@ -160,12 +165,16 @@ function Header() {
                                        <ul className="sub-menu">
                                           </ul>
                                        <ul className="sub-menu">
-                                       <li><Link to="/exams">IIM Indore</Link></li>
-                                       <li><Link to="/exams1">IIM Rohtak </Link></li>
-                                       <li><Link to="/exams2">IIM Bodhgaya </Link></li>
-                                       <li><Link to="/exams3">IIM Ranchi </Link></li>
-                                       <li><Link to="/exams4">IIM Jammu </Link></li>
-                                       <li><Link to="/exams5">IIM Nagpur </Link></li>
+                                       <li><Link to="/exams">IPM-AT Indore</Link></li>
+                                       <li><Link to="/exams1">IPM-AT Rohtak </Link></li>
+                                       <li><Link to="/exams3">IPM-AT Ranchi </Link></li>
+                                       <li><Link to="/exams4">JIPMAT IIM Jammu </Link></li>
+                                       <li><Link to="/exams2">JIPMAT IIM Bodhgaya </Link></li>
+                                       <li><Link to="/exams5">DoMS IPM NALSAR</Link></li>
+                                       <li><Link to="/exams6"> IPM IIFT Kakinada </Link></li>
+                                       <li><Link to="/exams7">NPAT NMIM </Link></li>
+                                       <li><Link to="/exams8">SET Symbiosis </Link></li>
+                                       <li><Link to="/exams9">BMS/BFIA CUET </Link></li>
                                        </ul>
                                     </li>
                                     <li>
@@ -196,7 +205,7 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/analysis">Exam Analysis</Link></li>
-                                       <li><Link to="/exams1">Exam News </Link></li>
+                                       <li><Link to="/exams1">Exam Pattern </Link></li>
                                        <li><Link to="/calander">Exam Calander </Link></li>
                                        
                                        <li><Link to="/exams3">Blogs </Link></li>
