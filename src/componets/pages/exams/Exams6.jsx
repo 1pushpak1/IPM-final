@@ -35,7 +35,7 @@ function Exams6() {
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                                <h5 className="h5">IIM NAGPUR</h5>
+                                
                                 <p>The Five Year Integrated Program in Management (IPM) at IIFT-Kakinada aims at imparting managerial and decision making capabilities to young professionals along with integrating management education with Science, Technology, Engineering, and Mathematics (STEM).</p>
                                 <p>Candidates successfully completing the course requirement of integrated programme in management would be awarded Bachelor of Business Administration (Business Analytics) at the end of 3 years and Master of Business Administration (International Business) at the end of 5 years by Indian Institute of Foreign Trade. Candidates opting for exit after completing the requirement of first three years, would be awarded Bachelor of Business Administration (Business Analytics). The first three years of the IPM program would be based on semester system and the last two years would be based on the trimester system (as per the prevailing MBA course structure).</p>
                                 
