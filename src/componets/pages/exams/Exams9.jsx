@@ -35,16 +35,88 @@ function Exams9() {
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                                <h5 className="h5">IIM NAGPUR</h5>
-                                <p>IIM Nagpur is one of the six new-generation IIMs established by the government of India in 2015. The business school currently offers a two-year post-graduate program in Management, a Ph.D. program, some post-graduate level certifications, and now a new Integrated Program in Management (IPM).</p>
-                                <p>The institute has a NIRF rank of 43 in the year 2022 and has been placed in the AA category for quality education across all Indian B-Schools. The university offers multiple clubs, committees, interest groups, collaborations with international institutions, and support for startup programs.</p>
-                                <p>IPM Prime Tutorials is the best coaching for IIM Indore IPM entrance exam IPM Online Coaching provides 50 live classes of two hours each, 181 video lectures, 78 All India Mock tests based on different exam patterns like IPM, DU JAT, NPAT, SET, NCHM JEE, and others as a part of Test Series.</p>
-                                <h5 className="h5 mt-40">TechBee Program</h5>
-                                <p>The “TechBee Scholars” Initiative by HCL is a push toward better employability. HCL has partnered with BITS Pilani, and other state universities, to offer Work Integrated Learning Programs (WILP).</p>
-                                <p>The program enables students to work right after class XII alongside studying for their degrees. The executive program involves internships in HCL projects with a stipend of ₹10,000. Visit the official TechBee website for more information: https://registrations.hcltechbee.com/.</p>
-                                <p>With the multifold benefits of this integrated program comes the security of guaranteed placements. One must take the HCL CAT to be eligible for this unique program, and also be eligible for the IPM program.</p>
-                               
-                                {/* <h5 className="h5 mt-40">Certification</h5>
+                                <h5 className="h5">ELIGIBILITY CRITERIA</h5>
+                                <p>• Candidates should have passed 10+2 examination in arts/ commerce/ science stream or equivalent with 60% (55% for candidates from SC/ ST/ PwD/ Transgender).</p>
+                                <p>• Candidates should have passed Standard XII/HSC or equivalent examination in 2021, and 2022 or appearing in 2023. The candidate must have passed the class 10th examination in the year not before 2019.                                </p>
+                                <h5 className="h5 mt-40">SELECTION & ADMISSION PROCESS</h5>
+                                <p>The criteria for preparing the merit list will be based on the composite score comprising the weightage of the JIPMAT score, and gender diversity as follows:</p>
+                                <p>JIPMAT Score – 95% & Gender Diversity – 5%</p>
+                                {/* <h5>Adminssion Weightage</h5>
+                                <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p> */}
+                                <h5>IMPORTANT DATES</h5>
+                                <p>Online Application starts from :06.04.2023</p>
+                                <p>Last date for submitting online application: 30.04.2023</p>
+                                <p>Exam Date : 28.05.2023</p>
+                                <p></p>
+                                <h5>EXAM PATTERN</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Sr. NO.</th>
+                                            <th scope="col">Secetion</th>
+                                            <th scope="col">No Of Questions</th>
+                                            <th scope="col">Marks</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>Quantitative Ability- MCQ</td>
+                                            <td>33</td>
+                                            <td>132</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td> Verbal Ability & Reading Comprehension</td>
+                                            <td>34</td>
+                                            <td>136</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Data Interpretation & Logical Reasoning</td>
+                                            <td>33</td>
+                                            <td>132</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Total</td>
+                                            <td>100</td>
+                                            <td>400</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                                <div className="title-area mb-4 mt-5">
+                                    <h2 className="sec-title mb-0">Frequently Asked Question?</h2>
+                                </div>
+                                <div className="accordion-area accordion" id="faqAccordion">
+                                    <div className="accordion-card">
+                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Is The Duration Of The IPM Course At IIM Jammu?</button></div>
+                                        <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                                            <div className="accordion-body">
+                                                <p className="faq-text">The Integrated Program in Management (IPM) course at IIM Jammu has a duration of 5 years. It is a full-time program that combines undergraduate and postgraduate studies in management.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="accordion-card active">
+                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">What Is The Detailed Selection Process For Admission To The IPM Course At IIM Jammu?</button></div>
+                                    <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                                        <div className="accordion-body">
+                                            <p className="faq-text">The selection process for the IPM course at IIM Jammu typically consists of two stages. The first stage involves an Aptitude Test, which assesses the candidates' quantitative ability, verbal ability, and logical reasoning skills. The shortlisted candidates from the Aptitude Test then proceed to the second stage, which includes a Written Ability Test (WAT) and a Personal Interview (PI). The final selection is based on the candidates' performance in all these stages</p>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div className="accordion-card">
+                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">What Are The Career Prospects After Completing The IPM Course At IIM Jammu?</button></div>
+                                    <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                                        <div className="accordion-body">
+                                            <p className="faq-text">Upon completion of the IPM course at IIM Jammu, graduates have a range of career options available to them. They can pursue managerial roles in various industries, such as finance, marketing, consulting, operations, and human resources. Some graduates may choose to start their own businesses or work in entrepreneurship-related roles. Additionally, the IPM course also provides a strong foundation for further academic pursuits like pursuing a Ph.D. or other advanced degrees in management.</p>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+{/* 
+                                <h5 className="h5 mt-40">Certification</h5>
                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                             </div>
                         </div>
@@ -52,7 +124,7 @@ function Exams9() {
                   </div>
                </div>
                <div className="col-xxl-3 col-lg-4">
-                  <BookFreeDemo/>
+                    <BookFreeDemo/>
                </div>
             </div>
          </div>

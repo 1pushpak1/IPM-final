@@ -10,10 +10,10 @@ function Exams7() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IIMNAT / IIM Nagpur</h1>
+               <h1 className="breadcumb-title">NPAT-NMIMS</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Exams</a></li>
-                  <li>IIM Nagpur</li>
+                  <li>NMIMS</li>
                </ul>
             </div>
          </div>
@@ -35,16 +35,73 @@ function Exams7() {
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                                <h5 className="h5">IIM NAGPUR</h5>
-                                <p>IIM Nagpur is one of the six new-generation IIMs established by the government of India in 2015. The business school currently offers a two-year post-graduate program in Management, a Ph.D. program, some post-graduate level certifications, and now a new Integrated Program in Management (IPM).</p>
-                                <p>The institute has a NIRF rank of 43 in the year 2022 and has been placed in the AA category for quality education across all Indian B-Schools. The university offers multiple clubs, committees, interest groups, collaborations with international institutions, and support for startup programs.</p>
-                                <p>IPM Prime Tutorials is the best coaching for IIM Indore IPM entrance exam IPM Online Coaching provides 50 live classes of two hours each, 181 video lectures, 78 All India Mock tests based on different exam patterns like IPM, DU JAT, NPAT, SET, NCHM JEE, and others as a part of Test Series.</p>
-                                <h5 className="h5 mt-40">TechBee Program</h5>
-                                <p>The “TechBee Scholars” Initiative by HCL is a push toward better employability. HCL has partnered with BITS Pilani, and other state universities, to offer Work Integrated Learning Programs (WILP).</p>
-                                <p>The program enables students to work right after class XII alongside studying for their degrees. The executive program involves internships in HCL projects with a stipend of ₹10,000. Visit the official TechBee website for more information: https://registrations.hcltechbee.com/.</p>
-                                <p>With the multifold benefits of this integrated program comes the security of guaranteed placements. One must take the HCL CAT to be eligible for this unique program, and also be eligible for the IPM program.</p>
-                               
-                                {/* <h5 className="h5 mt-40">Certification</h5>
+                                <h5 className="h5">Course Offered </h5>
+                                <p>• BBA (Anil Surendra Modi School of Commerce)</p>
+                                <p>• B. Sc. Finance (Anil Surendra Modi School of Commerce)</p>
+                                <p>• B. Sc. Economics (Sarla Anil Modi School of Economics)</p>
+                                <p>• BBA - Branding & Advertising (School of branding and advertising)</p>
+                                <p>• BBA - International Business (Centre for International Studies)</p>
+                                <p>• Bachelor in Business Management & Marketing (BBMM) [Pravin Dalal School Of Entrepreneurship & Family Business Management]</p>
+                                
+                                 <h5 className="h5 mt-40">Eligibility Criteria</h5>
+                                 <p>• BBA, B. Sc. Finance & B. Sc. Economics : The candidate must have passed 10+2 or equivalent examination and must have obtained a minimum of 50% aggregate marks. Mathematics / Statistics subject mandatory for all campuses.</p>
+                                 <p>• BBA (Branding & Advertising), Bachelor in Business Management &Marketing : The candidate must have passed 10+2 or equivalent examination in any stream in only one attempt with a minimum of 50% aggregate marks.</p>
+                                 <p>• BBA (International Business): Minimum of 60% aggregate marks from any stream. Candidates have to complete 2 years at the Mumbai campus and 1 year at Kingston University, London.
+</p>
+                                 <p>• A minimum IELTS score of 6.0 TOEFL 80 or equivalent is required for those for whom English is not their first language or do not meet a 70 % and above score in the English Language.</p>
+
+
+                                <h5 className="h5 mt-40">SELECTION & ADMISSION PROCESS</h5>
+                               <p>BBA, B. Sc. Finance & B. Sc. Economics, BBA (International Business), Bachelor in Business Management & Marketing: Merit list will be prepared on the basis of the marks obtained in NMIMS-NPAT 2023 and preference of campus given in the online registration form.</p>
+                               <p>BBA (Branding & Advertising): Merit list will be prepared on the basis of the marks obtained in NMIMS-NPAT 2023 & Personal Interview.</p>
+                                {/* <h5>Adminssion Weightage</h5>
+                                <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p> */}
+                                <h5>IMPORTANT DATES</h5>
+                                <p>Online Application starts from :01.12.2023</p>
+                                <p>Last date for submitting online application: 21.05.2023</p>
+                                <p>Exam Date : 04.01.2023</p>
+                                <p></p>
+                                <h5>EXAM PATTERN</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Sr. NO.</th>
+                                            <th scope="col">Secetion</th>
+                                            <th scope="col">No Of Questions</th>
+                                            <th scope="col">Marks</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>Quantitative Ability- MCQ</td>
+                                            <td>40</td>
+                                            <td>40</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td> Profiency in English Language</td>
+                                            <td>40</td>
+                                            <td>40</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Reasoning & General Intelligence</td>
+                                            <td>40</td>
+                                            <td>40</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Total</td>
+                                            <td>120</td>
+                                            <td>120</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                              
+{/* 
+                                <h5 className="h5 mt-40">Certification</h5>
                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                             </div>
                         </div>
@@ -52,7 +109,7 @@ function Exams7() {
                   </div>
                </div>
                <div className="col-xxl-3 col-lg-4">
-                  <BookFreeDemo/>
+                    <BookFreeDemo/>
                </div>
             </div>
          </div>
