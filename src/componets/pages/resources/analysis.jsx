@@ -380,7 +380,7 @@ function Analysis() {
                            <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                               <h5>SET 2023 Paper Structure</h5>
+                               <h5>JIPMAT Paper Structure</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
