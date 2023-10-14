@@ -36,9 +36,17 @@ function Exams10() {
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
                                 <h5 className="h5">IIM NAGPUR</h5>
-                                <p>IIM Nagpur is one of the six new-generation IIMs established by the government of India in 2015. The business school currently offers a two-year post-graduate program in Management, a Ph.D. program, some post-graduate level certifications, and now a new Integrated Program in Management (IPM).</p>
-                                <p>The institute has a NIRF rank of 43 in the year 2022 and has been placed in the AA category for quality education across all Indian B-Schools. The university offers multiple clubs, committees, interest groups, collaborations with international institutions, and support for startup programs.</p>
-                                <p>IPM Prime Tutorials is the best coaching for IIM Indore IPM entrance exam IPM Online Coaching provides 50 live classes of two hours each, 181 video lectures, 78 All India Mock tests based on different exam patterns like IPM, DU JAT, NPAT, SET, NCHM JEE, and others as a part of Test Series.</p>
+                                <p>The most recent institute to join the list of IIM that offers a 5-year Integrated Program in Management (IPM) is IIM Nagpur. Some important points to note about the course and admission procedure are:
+</p>
+                                 <p>1. Collaboration between IIM Nagpur and HCL Technologies for a unique BBA + MBA program
+The first batch will comprise 70 students
+</p>
+                                <p>2.  HCL will select the students through its unique selection process, the TechBee program.</p>
+                                <p>3.  Students will be subjected to an entrance test conducted by IIM Nagpur before selection.</p>
+                                <p>4.  All 70 students enrolled in the program will be sponsored by HCL for their entire/partial education. IIM to offer loans in case a partial fee is paid by the student.</p>
+
+                                <p>Note: The official agreement between IIM Nagpur and HCL will be concluded on September 29, 2022. Further information about the program will be updated on this page as released.
+</p>
                                 <h5 className="h5 mt-40">TechBee Program</h5>
                                 <p>The “TechBee Scholars” Initiative by HCL is a push toward better employability. HCL has partnered with BITS Pilani, and other state universities, to offer Work Integrated Learning Programs (WILP).</p>
                                 <p>The program enables students to work right after class XII alongside studying for their degrees. The executive program involves internships in HCL projects with a stipend of ₹10,000. Visit the official TechBee website for more information: https://registrations.hcltechbee.com/.</p>
