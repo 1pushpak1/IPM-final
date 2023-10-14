@@ -82,7 +82,7 @@ function Home() {
                            <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/Course.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
                      <div className="course-content">
                         
                         <h3 className="course-title"><Link to="prep-module">Premium Mentorship Program</Link></h3>
@@ -92,7 +92,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course2.png" alt="img" />  </div>
                      <div className="course-content">
                        
                          <h3 className="course-title"><Link to="/achivers">Premium Mentorship Program (Premium 40)</Link></h3>
@@ -103,7 +103,7 @@ function Home() {
                </div>
                <div className="col-md-6 col-lg-4">
                   <div className="course-box">
-                     <div className="course-img"><img src="assets/img/course/Course2.png" alt="img" />  </div>
+                     <div className="course-img"><img src="assets/img/course/Course 2.png" alt="img" />  </div>
                      <div className="course-content">
                        
                         <h3 className="course-title"><Link to="/master">Premium Mentorship (Ranker's Program)</Link></h3>
