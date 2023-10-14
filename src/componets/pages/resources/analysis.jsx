@@ -191,20 +191,180 @@ function Analysis() {
                      </div>
                      </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
-                              <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Premium Mentorship Batch By IPM Prime Tutorials</h5>
-                                 {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
-                                 <div className="checklist mb-1">
-                                    <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
-                                       <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
-                                       <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
+                           <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                               <h5>IPMAT 2022 Ovierview</h5>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Section</th>
+                                            <th scope="col">No. of Questions</th>
+                                            <th scope="col">Time (min)</th>
+                                            <td>120</td>
+                                            <th scope="col">Good Score</th>
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">Quantitative Ability</th>
+                                            <td>40</td>
+                                         
+                                            <td>112-120</td>
+                                            
+                                        </tr>   
+                                        <tr>
+                                            <th scope="row">Logical Reasoning</th>
+                                            <td>40</td>
+                                           
+                                            <td>112-120</td>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Verbal Ability</th>
+                                            <td>40</td>
+                                           
+                                            <td>112-120</td>
+                                            
+                                        </tr> 
+                                        <tr>
+                                            <th scope="row">Total</th>
+                                            <td>120</td>
+                                            <td>344-368</td>
+                                            
+                                        </tr> 
+                                      
+                                    </tbody>
+                                </table>
+                                <h5>IPMAT Rohtak 2023 Section-wise Analysis </h5>
+                                <h6>Quantitative Ability</h6>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Topic</th>
+                                            <th scope="col">No. of Questions</th>
+                                            
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">Number System</th>
+                                           
+                                         
+                                            <td>2-3</td>
+                                            
+                                        </tr>   
+                                        <tr>
+                                            <th scope="row">Percentage</th>
+                                           
+                                            <td>2-3</td>
+                                            </tr>
+                                            
+                                        <tr>
+                                            <th scope="row">Time And Work</th>
+                                            <td>2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Time, Speed, and Distance</th>
+                                            
+                                           
+                                            <td>3-4</td>
+                                            
+                                        </tr> 
+
+                                        <tr>
+                                            <th scope="row">Ratio and Proportion</th>
+                                            <td>3-4</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Simple and Compound Interest</th>
+                                            <td>2-3</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Profit, Loss, and Discount</th>
+                                            <td>2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Averages</th>
+                                            <td>2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Probability</th>
+                                            <td>1</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Geometry</th>
+                                            <td>1-2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Clocks</th>
+                                            <td>1</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Permutation and Combination</th>
+                                            <td>2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Age</th>
+                                            <td>1</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Trigonometry</th>
+                                            <td>2-3</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Puzzles</th>
+                                            <td>1-2</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Mensuration</th>
+                                            <td>2-3</td>
+                                                                              
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Algebra</th>
+                                            <td>2</td>
+                                                                              
+                                        </tr>
+                                       
+                                      
+                                    </tbody>
+                                </table>
+
+                                </div>
+                                </div>
+                                </div>
+                                </div>
+                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                            <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                               <div className="course-instructor">
                                  <div className="course-author-box">
