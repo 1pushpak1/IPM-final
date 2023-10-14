@@ -200,8 +200,6 @@ function Analysis() {
                                         <tr>
                                             <th scope="col">Section</th>
                                             <th scope="col">No. of Questions</th>
-                                            <th scope="col">Time (min)</th>
-                                            <td>120</td>
                                             <th scope="col">Good Score</th>
                                             
                                         </tr>
