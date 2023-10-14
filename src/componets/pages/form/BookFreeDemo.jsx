@@ -9,7 +9,7 @@ function BookFreeDemo() {
         const form = e.target;
 
         if (form.checkValidity()) {
-            emailjs.sendForm('service_7h8nvct', 'template_8gdhnpe', form, 'lcNiqMUS0_8DOjqy9')
+            emailjs.sendForm('service_8olz9ou', 'template_etwgagg', form, 'odxm-Azw3lZvCNiOamME8')
                 .then((result) => {
                     console.log(result.text);
                     formRef.current.reset();
