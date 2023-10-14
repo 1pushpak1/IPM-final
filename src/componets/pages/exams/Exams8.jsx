@@ -1,7 +1,7 @@
 import React from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
 
-function Exams5() {
+function Exams8() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -10,10 +10,10 @@ function Exams5() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">DoMS IPM NALSAR</h1>
+               <h1 className="breadcumb-title">IIMNAT / IIM Nagpur</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Exams</a></li>
-                  <li>IIM NALSAR</li>
+                  <li>IIM Nagpur</li>
                </ul>
             </div>
          </div>
@@ -61,4 +61,4 @@ function Exams5() {
   )
 }
 
-export default Exams5
+export default Exams8
