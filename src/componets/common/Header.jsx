@@ -85,7 +85,7 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/analysis" onClick={handleClose}>Exam Analysis</Link></li>
-                                       <li><Link to="/exams1" onClick={handleClose}>Exam Pattern </Link></li>
+                                       <li><Link to="/pattern" onClick={handleClose}>Exam Pattern </Link></li>
                                        <li><Link to="/calander" onClick={handleClose}>Exam Calander </Link></li>
                                        {/* <li><Link to="/exams3" onClick={handleClose}>IPM  Colleges </Link></li> */}
                                        <li><Link to="/exams3" onClick={handleClose}>Blogs </Link></li>
@@ -207,7 +207,7 @@ function Header() {
                                        </ul>
                                        <ul className="sub-menu">
                                        <li><Link to="/analysis">Exam Analysis</Link></li>
-                                       <li><Link to="/exams1">Exam Pattern </Link></li>
+                                       <li><Link to="/pattern">Exam Pattern </Link></li>
                                        <li><Link to="/calander">Exam Calander </Link></li>
                                        
                                        <li><Link to="/exams3">Blogs </Link></li>

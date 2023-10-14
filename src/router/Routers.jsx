@@ -44,6 +44,7 @@ import Analysis from '../componets/pages/resources/analysis'
 import ScrollToTop from '../ScrollTop'
 import Scholarship from '../componets/pages/home/Scholarship'
 import News from '../componets/pages/resources/news'
+import Pattern from '../componets/pages/resources/Pattern'
 
 
 function Routers() {
@@ -93,6 +94,7 @@ function Routers() {
                 <Route path="/analysis" element={<Analysis/>} />
                 <Route path="/scholarship" element={<Scholarship/>} />
                 <Route path="/news" element={<News/>} />
+                <Route path="/pattern" element={<Pattern/>} />
 
             </Routes>
         <Footer/>
