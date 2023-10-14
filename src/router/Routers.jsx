@@ -18,6 +18,7 @@ import Exams6 from '../componets/pages/exams/Exams6'
 import Exams7 from '../componets/pages/exams/Exams7'
 import Exams8 from '../componets/pages/exams/Exams8'
 import Exams9 from '../componets/pages/exams/Exams9'
+import Exams10 from '../componets/pages/exams/Exams10'
 import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
@@ -64,6 +65,7 @@ function Routers() {
                 <Route path="/exams7" element={<Exams7 />} />
                 <Route path="/exams8" element={<Exams8 />} />
                 <Route path="/exams9" element={<Exams9 />} />
+                <Route path="/exams10" element={<Exams10 />} />
                 <Route path="/master" element={<Master />} />
                 <Route path="/short" element={<Short />} />
                 <Route path="/testmod" element={<Test />} />

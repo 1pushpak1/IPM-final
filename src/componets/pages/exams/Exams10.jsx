@@ -1,7 +1,7 @@
 import React from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
 
-function Exams6() {
+function Exams10() {
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
@@ -10,10 +10,10 @@ function Exams6() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">IPM IIFT Kakinada</h1>
+               <h1 className="breadcumb-title">IIMNAT / IIM Nagpur</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Exams</a></li>
-                  <li>IIFT Kakinada</li>
+                  <li>IIM Nagpur</li>
                </ul>
             </div>
          </div>
@@ -36,25 +36,14 @@ function Exams6() {
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
                                 <h5 className="h5">IIM NAGPUR</h5>
-                                <p>The Five Year Integrated Program in Management (IPM) at IIFT-Kakinada aims at imparting managerial and decision making capabilities to young professionals along with integrating management education with Science, Technology, Engineering, and Mathematics (STEM).</p>
-                                <p>Candidates successfully completing the course requirement of integrated programme in management would be awarded Bachelor of Business Administration (Business Analytics) at the end of 3 years and Master of Business Administration (International Business) at the end of 5 years by Indian Institute of Foreign Trade. Candidates opting for exit after completing the requirement of first three years, would be awarded Bachelor of Business Administration (Business Analytics). The first three years of the IPM program would be based on semester system and the last two years would be based on the trimester system (as per the prevailing MBA course structure).</p>
-                                
-                                <h5 className="h5 mt-40">Admission Procedure</h5>
-                                <p>Eligibility for Admission</p>
-                                <p>1.  Candidates should have passed 10+2/XII/HSC examination in arts/commerce/science stream or equivalent with 60% (55% for candidates from SC/ST/PwD/Transgender) or more in the year 2021, 2022 or appearing in 2023.</p>
-                                <p>2.  The candidate must have passed class 10th examination with 60% (55% for candidates from SC/ST/PwD/Transgender) or more in the year not before 2019.</p>
-                                <p>3.  Mathematics/ Business Mathematics as a subject in +2 level is mandatory.</p>
-                                <p>4.  A candidate should have been born on or after August 01, 2002 (5 years of relaxation to the candidates from SC/ST/PwD category will be given i.e. born on or after August 01, 1997).</p>
-                                <h6>Mode of Admission</h6>
-                                <p>For short-listing/selecting the candidates, IIFT will use score of IPMAT examination conducted by IIM-Indore</p>
-                                <h6>Selection Process</h6>
-                                <p>Merit list for selection of the candidate for the admission will be prepared on the basis of his/her IPMAT Score of IIM-Indore, Academic Profile of class 10th and Gender Diversity.</p>
-                                <h6>Fees and Accommodation:</h6>
-                                <p>The course fee for the first three year of the programme is Rs.4 lakh per annum excluding hostel and mess fees. Course fee for the fourth and fifth years would be as per MBA(IB) programme fees set for that year.
-
-Integrated Programme in Management 2022-27 is a fully residential programme.
-
-</p>
+                                <p>IIM Nagpur is one of the six new-generation IIMs established by the government of India in 2015. The business school currently offers a two-year post-graduate program in Management, a Ph.D. program, some post-graduate level certifications, and now a new Integrated Program in Management (IPM).</p>
+                                <p>The institute has a NIRF rank of 43 in the year 2022 and has been placed in the AA category for quality education across all Indian B-Schools. The university offers multiple clubs, committees, interest groups, collaborations with international institutions, and support for startup programs.</p>
+                                <p>IPM Prime Tutorials is the best coaching for IIM Indore IPM entrance exam IPM Online Coaching provides 50 live classes of two hours each, 181 video lectures, 78 All India Mock tests based on different exam patterns like IPM, DU JAT, NPAT, SET, NCHM JEE, and others as a part of Test Series.</p>
+                                <h5 className="h5 mt-40">TechBee Program</h5>
+                                <p>The “TechBee Scholars” Initiative by HCL is a push toward better employability. HCL has partnered with BITS Pilani, and other state universities, to offer Work Integrated Learning Programs (WILP).</p>
+                                <p>The program enables students to work right after class XII alongside studying for their degrees. The executive program involves internships in HCL projects with a stipend of ₹10,000. Visit the official TechBee website for more information: https://registrations.hcltechbee.com/.</p>
+                                <p>With the multifold benefits of this integrated program comes the security of guaranteed placements. One must take the HCL CAT to be eligible for this unique program, and also be eligible for the IPM program.</p>
+                               
                                 {/* <h5 className="h5 mt-40">Certification</h5>
                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                             </div>
@@ -72,4 +61,4 @@ Integrated Programme in Management 2022-27 is a fully residential programme.
   )
 }
 
-export default Exams6
+export default Exams10

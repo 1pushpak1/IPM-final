@@ -53,6 +53,7 @@ function Header() {
                                        <li><Link to="/exams7"onClick={handleClose}>NPAT NMIM </Link></li>
                                        <li><Link to="/exams8"onClick={handleClose}>SET Symbiosis </Link></li>
                                        <li><Link to="/exams9"onClick={handleClose}>BMS/BFIA CUET </Link></li>
+                                       <li><Link to="/exams10"onClick={handleClose}>IIMNAT Nagpur </Link></li>
                         
                      </ul>
                   </li>
@@ -175,6 +176,7 @@ function Header() {
                                        <li><Link to="/exams7">NPAT NMIM </Link></li>
                                        <li><Link to="/exams8">SET Symbiosis </Link></li>
                                        <li><Link to="/exams9">BMS/BFIA CUET </Link></li>
+                                       <li><Link to="/exams10">IIMNAT Nagpur </Link></li>
                                        </ul>
                                     </li>
                                     <li>
