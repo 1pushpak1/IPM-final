@@ -52,7 +52,7 @@ function Analysis() {
                      
                         <ul className="nav course-tab" id="courseTab" role="tablist">
                            <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>SET 2023 Analysis</a></li>
-                           <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>IPMAT Rohrak analysis</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>IPMAT Rohtak analysis</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>IPMAT Indore Analysis</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>JIPMAT Analysis</a></li>
                         </ul>
@@ -364,18 +364,95 @@ function Analysis() {
 
 
                            <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
-                              <div className="course-instructor">
-                                 <div className="course-author-box">
-                                    <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
-                                    <div className="media-body">
-                                       <h3 className="author-name"><a className="text-inherit" href="#">Kevin Perry</a></h3>
-                                       <p className="author-text">Optimize resource eveling innoation whereas visionary value. Compellingly engage extensible process with business process improvements.</p>
-                                       <div className="author-meta"><a href="#"><i className="fal fa-circle"></i>Master IIM Ahmedabad</a> <span><i className="fal fa-circle"></i>Bachlor Thapa University</span></div>
-                                       <div className="th-social"><a href="https://facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></a> <a href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></a> <a href="https://linkedin.com/" target="_blank"><i className="fab fa-linkedin-in"></i></a> <a href="https://instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+                           <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                               <h5>IPMAT INDORE 2024 Ovierview</h5>
+                               <p>As with any entrance exam, it is essential to have a good preparation strategy in place to be effective. One of the more important details in the IPM Preparation Strategy is the IPMAT Indore Syllabus which is explained in detail below:</p>
+                                <table className="table table-striped table-hover">
+                                    <thead className='thead-dark'>
+                                        <tr>
+                                            <th scope="col">Quantitative Ability</th>
+                                            <th scope="col">Verbal Ability</th>
+                                            
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">In total there are 45 questions for 180 marks</th>
+                                            <td>In total there are 45 questions for 180 marks</td>
+                                            
+                                        </tr>   
+                                        <tr>
+                                            <th scope="row"><div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                            <li>Number System</li>
+                                            <li>Averages & Percentages</li>
+                                            <li>Roots, Indices, Surds</li>
+                                            <li>Simple & Compound Interest</li>
+                                            <li>Profit & Loss</li>
+                                            <li>Algebraic Formulae</li>
+                                            <li>Linear & Quadratic Equations</li>
+                                            <li>Ratio & Proportion</li>
+                                            <li>Partnership</li>
+                                            <li>Mixtures & Alligations</li>
+                                            <li>Time, Speed & Distance</li>
+                                            <li>Work Related Problems</li>
+                                            <li>Pipes & Cisterns</li>
+                                            <li>Geometry: Lines, Angles & Triangles,</li>
+                                            <li>Polygons, Circles & Mensuration</li>
+                                            <li>Permutations, Combinations, Probability,</li>
+                                            <li>Determinants</li>
+                                            <li>Vectors</li>
+                                            <li>Integration & Differentiation      </li>               
+                                            </ul>
+                                        </div>
+                                    </div></th>
+                                            <td><div className="col-md-auto">
+                                        <div className="checklist">
+                                            <ul>
+                                            <li>Etymology & Roots</li>
+                                            <li>Idioms & Phrases</li>
+                                            <li>Analogies</li>
+                                            <li>Antonyms-Synonyms</li>
+                                            <li>Foreign Words</li>
+                                            <li>Noun & Pronoun Errors</li>
+                                            <li>Subject-Verb Agreement</li>
+                                            <li>Prepositions and Conjunctions</li>
+                                            <li>Tenses, Modifiers & Parallelism</li>
+                                            <li>Reading Comprehension</li>
+                                            <li>Inference based passages</li>
+                                            <li>Syllogisms</li>
+                                            <li>Logical Consistency</li>
+                                            <li>Deductive Reasoning                     </li>
+                                            </ul>
+                                        </div>
+                                    </div></td>
+                                           
+                                            
+                                            
+                                        </tr>
+                                       
+                                      
+                                    </tbody>
+                                </table>
+                                </div>
+                                </div>
+                                </div>
+                                </div>
+
+
+
+
+
+
+
+
+
+
+
                            <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
                            <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
