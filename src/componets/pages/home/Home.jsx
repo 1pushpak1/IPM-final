@@ -89,7 +89,7 @@ function Home() {
                         <h5 className="course-title">Premium Mentorship</h5>
                         <h6>One-To-One</h6>
                         <p></p>
-                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -112,7 +112,7 @@ function Home() {
                        
                         <h5 className="course-title">Premium Mentorship </h5>
                         <h6>(Ranker's Program)</h6>
-                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -130,7 +130,7 @@ function Home() {
                     
                         <h5 className="course-title">Achievers' Mentorship Program </h5>
                         <h6>(For Class 11)</h6>
-                        <div className="btn-group mt-40"><Link to="/achivers" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/achivers" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/achivers" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -141,7 +141,7 @@ function Home() {
                         
                         <h5 className="course-title">Masters' Mentorship Program</h5>
                         <h6>(For Class 12)</h6>
-                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -152,7 +152,7 @@ function Home() {
                        
                         <h5 className="course-title">Speedesters Mentorship Program </h5>
                         <h6>(Six-Month Program)</h6>
-                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -170,7 +170,7 @@ function Home() {
                      <div className="course-content">
                        
                         <h5 className="course-title">Pocket Test-Series</h5>
-                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -180,7 +180,7 @@ function Home() {
                      <div className="course-content">
                        
                         <h5 className="course-title">Prime  Test-Series</h5>
-                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -190,7 +190,7 @@ function Home() {
                      <div className="course-content">
                        
                         <h5 className="course-title">Premium Test-Series</h5>
-                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -209,7 +209,7 @@ function Home() {
                      <div className="course-content">
                         
                         <h5 className="course-title">MockTest Mentorship</h5>
-                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -219,7 +219,7 @@ function Home() {
                      <div className="course-content">
                         
                         <h5 className="course-title">Short Term Courses </h5>
-                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
