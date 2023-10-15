@@ -521,6 +521,12 @@ function Home() {
                            </div>
                         </div>
                      </div>
+                    </div>
+                    </div>
+                    </div>
+                    <div className="row">
+               <div className="col-xl-12">
+                  <div className="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false"> 
                      <div className="col-lg-6">
                         <div className="testi-box">
                            <div className="testi-box-bg-shape">
