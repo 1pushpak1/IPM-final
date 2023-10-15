@@ -150,8 +150,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 5.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h5 className="course-title">Mentorship appearing student </h5>
-                        <h6>(Rankers & Dropers)</h6>
+                        <h5 className="course-title">Prime Mentorship Program </h5>
+                        <h6>(For Student Rankers & Dropers)</h6>
                         <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
