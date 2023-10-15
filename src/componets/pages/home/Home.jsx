@@ -354,10 +354,10 @@ function Home() {
             <div className="cta-wrap2">
                <div className="title-area text-center mb-35">
                   <span className="sub-title"><i className="fal fa-book me-2"></i>IPM PRIME'S</span>
-                  <h2 className="sec-title text-white">ALL INDIA PRIME <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">For Mentorship Batch</span></h2>
+                  <h2 className="sec-title text-white">ALL INDIA PRIME <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">Get upto 80% Scholarship</span></h2>
                   <p className="cta-text">Join Us on 21st Sep 2023</p>
                </div>
-               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Get upto 80% Scholarship<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
+               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
             </div>
          </div>
       </section>
