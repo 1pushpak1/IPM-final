@@ -151,7 +151,7 @@ function Home() {
                      <div className="course-content">
                        
                         <h5 className="course-title">Prime Mentorship Program </h5>
-                        <h6>(For Student Rankers & Dropers)</h6>
+                        <h6>(For Students, Rankers & Dropers)</h6>
                         <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -474,85 +474,98 @@ function Home() {
             </div>
          </div>
       </section> */}
-      <section className="testi-area-1 bgingtest overflow-hidden space-bottom">
+     <section className="testi-area-1 bgingtest overflow-hidden space-bottom">
          <div className="shape-mockup testi-bg-shape1 jump" data-right="0" data-top="50%"><img src="assets/img/testimonial/testi-bg-shape_1_1.png" alt="img" /></div>
          <div className="shape-mockup testi-bg-shape2 spin" data-left="0" data-top="15%"><img src="assets/img/testimonial/testi-bg-shape_1_2.png" alt="img" /></div>
          <div className="container">
             <div className="title-area text-center mb-50">
                <span className="sub-title"><i className="fal fa-book me-2"></i> Our Students Testimonials</span>
-               <h2 className="sec-title">Students Say’s About Us</h2>
+               <h2 className="sec-title">Students Say’s About Oue University</h2>
             </div>
             <div className="row">
                <div className="col-xl-12">
                   <div className="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false">
                      <div className="col-lg-6">
                         <div className="testi-box">
-                           
+                           <div className="testi-box-bg-shape">
+                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
+                              </svg>
+                           </div>
                            <div className="testi-box_content">
-                              
-                              <p className="testi-box_text">“I started my prep journey by enrolling myself into IPM Prime’s Premium Mentorship Program immediately after my class 11th exam. Enrolling in IPM Prime Tutorial was the best decision for me. I give full credit to IPM Prime for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Every concept was explained thoroughly and various approaches to questions were taught on a daily basis in the class. Mock tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater" /></div>
+                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Shikha Sharma</h3>
-                                 
+                                 <h3 className="testi-box_name">David H. Smith</h3>
+                                 <span className="testi-box_desig">IT Student</span>
                               </div>
-                              
+                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
                            </div>
                         </div>
                      </div>
-
                      <div className="col-lg-6">
                         <div className="testi-box">
-                           
+                           <div className="testi-box-bg-shape">
+                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
+                              </svg>
+                           </div>
                            <div className="testi-box_content">
-                              
-                              <p className="testi-box_text">“I started my prep journey by enrolling myself into IPM Prime’s Premium Mentorship Program immediately after my class 11th exam. Enrolling in IPM Prime Tutorial was the best decision for me. I give full credit to IPM Prime for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Every concept was explained thoroughly and various approaches to questions were taught on a daily basis in the class. Mock tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater" /></div>
+                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Shikha Sharma</h3>
-                                 
+                                 <h3 className="testi-box_name">Zara Head Milan</h3>
+                                 <span className="testi-box_desig">Regular Student</span>
                               </div>
-                              
+                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
                            </div>
                         </div>
                      </div>
-
                      <div className="col-lg-6">
                         <div className="testi-box">
-                           
+                           <div className="testi-box-bg-shape">
+                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
+                              </svg>
+                           </div>
                            <div className="testi-box_content">
-                              
-                              <p className="testi-box_text">“I started my prep journey by enrolling myself into IPM Prime’s Premium Mentorship Program immediately after my class 11th exam. Enrolling in IPM Prime Tutorial was the best decision for me. I give full credit to IPM Prime for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Every concept was explained thoroughly and various approaches to questions were taught on a daily basis in the class. Mock tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater" /></div>
+                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Shikha Sharma</h3>
-                                 
+                                 <h3 className="testi-box_name">David H. Smith</h3>
+                                 <span className="testi-box_desig">IT Student</span>
                               </div>
-                              
+                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
                            </div>
                         </div>
                      </div>
-
                      <div className="col-lg-6">
                         <div className="testi-box">
-                           
+                           <div className="testi-box-bg-shape">
+                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
+                              </svg>
+                           </div>
                            <div className="testi-box_content">
-                              
-                              <p className="testi-box_text">“I started my prep journey by enrolling myself into IPM Prime’s Premium Mentorship Program immediately after my class 11th exam. Enrolling in IPM Prime Tutorial was the best decision for me. I give full credit to IPM Prime for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Every concept was explained thoroughly and various approaches to questions were taught on a daily basis in the class. Mock tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
+                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater" /></div>
+                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Shikha Sharma</h3>
-                                 
+                                 <h3 className="testi-box_name">Zara Head Milan</h3>
+                                 <span className="testi-box_desig">Regular Student</span>
                               </div>
-                              
+                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
                            </div>
                         </div>
                      </div>
-                   </div>
+                  </div>
                </div>
             </div>
          </div>
