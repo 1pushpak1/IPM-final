@@ -85,7 +85,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="prep-module">Premium Mentorship Program</Link></h3>
+                        <h3 className="course-title">Premium Mentorship Program</h3>
                         <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -95,7 +95,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course2.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                         <h3 className="course-title"><Link to="/prep-module">Premium Mentorship Program (Premium 40)</Link></h3>
+                         <h3 className="course-title">Premium Mentorship Program (Premium 40)</h3>
                         {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} 
                         <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
@@ -106,7 +106,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 2.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/prep-module">Premium Mentorship (Ranker's Program)</Link></h3>
+                        <h3 className="course-title">Premium Mentorship (Ranker's Program)</h3>
                         <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -125,8 +125,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 3.png" alt="img" />  </div>
                      <div className="course-content">
                     
-                        <h3 className="course-title"><Link to="/achivers">Achivers' Mentorship Program for Class 11th</Link></h3>
-                        
+                        <h3 className="course-title">Achivers' Mentorship Program for Class 11th</h3>
+                        <div className="btn-group mt-40"><Link to="/achivers" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -135,8 +135,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 4.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/master">Masters' Mentorship Program for Class 12th</Link></h3>
-                        
+                        <h3 className="course-title">Masters' Mentorship Program for Class 12th</h3>
+                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -145,8 +145,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 5.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/master">Mentorship appearing student, rankers & Dropers</Link></h3>
-                       
+                        <h3 className="course-title">Mentorship appearing student, rankers & Dropers</h3>
+                        <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -163,8 +163,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 6.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/testmod">Pocket IPM Test Series</Link></h3>
-                        
+                        <h3 className="course-title">Pocket IPM Test Series</h3>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -173,8 +173,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 7.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/testmod">Prime IPM Test Series</Link></h3>
-                       
+                        <h3 className="course-title">Prime IPM Test Series</h3>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -183,8 +183,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 8.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h3 className="course-title"><Link to="/testmod">Premium IPM Test series</Link></h3>
-                        
+                        <h3 className="course-title">Premium IPM Test series</h3>
+                        <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -202,8 +202,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 9.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/short">MockTest Mentorship Program</Link></h3>
-                        
+                        <h3 className="course-title">MockTest Mentorship Program</h3>
+                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -212,8 +212,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 10.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h3 className="course-title"><Link to="/short">Short Term Courses(Quants & Verbal) </Link></h3>
-                        
+                        <h3 className="course-title">Short Term Courses(Quants & Verbal) </h3>
+                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
