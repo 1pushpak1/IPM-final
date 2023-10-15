@@ -43,9 +43,9 @@ function Header() {
                         
                         </ul>
                         <ul className="sub-menu">
-                        <li><Link to="/exams">IPM-AT Indore</Link></li>
-                                       <li><Link to="/exams1" onClick={handleClose} >IPM-AT Rohtak </Link></li>
-                                       <li><Link to="/exams3" onClick={handleClose}>IPM-AT Ranchi </Link></li>
+                        <li><Link to="/exams">IPM-AT IIM Indore</Link></li>
+                                       <li><Link to="/exams1" onClick={handleClose} >IPM-AT IIM Rohtak </Link></li>
+                                       <li><Link to="/exams3" onClick={handleClose}>IPM-AT IIM Ranchi </Link></li>
                                        <li><Link to="/exams4" onClick={handleClose}>JIPMAT IIM Jammu </Link></li>
                                        <li><Link to="/exams2" onClick={handleClose}>JIPMAT IIM Bodhgaya </Link></li>
                                        <li><Link to="/exams5"onClick={handleClose}>DoMS IPM NALSAR</Link></li>
@@ -53,7 +53,7 @@ function Header() {
                                        <li><Link to="/exams7"onClick={handleClose}>NPAT NMIM </Link></li>
                                        <li><Link to="/exams8"onClick={handleClose}>SET Symbiosis </Link></li>
                                        {/* <li><Link to="/exams9"onClick={handleClose}>BMS/BFIA CUET </Link></li> */}
-                                       <li><Link to="/exams10"onClick={handleClose}>IIMNAT Nagpur </Link></li>
+                                       <li><Link to="/exams10"onClick={handleClose}>HCL TechBee IIM Nagpur </Link></li>
                         
                      </ul>
                   </li>
@@ -166,9 +166,9 @@ function Header() {
                                        <ul className="sub-menu">
                                           </ul>
                                        <ul className="sub-menu">
-                                       <li><Link to="/exams">IPM-AT Indore</Link></li>
-                                       <li><Link to="/exams1">IPM-AT Rohtak </Link></li>
-                                       <li><Link to="/exams3">IPM-AT Ranchi </Link></li>
+                                       <li><Link to="/exams">IPM-AT IIM Indore</Link></li>
+                                       <li><Link to="/exams1">IPM-AT IIM Rohtak </Link></li>
+                                       <li><Link to="/exams3">IPM-AT IIM Ranchi </Link></li>
                                        <li><Link to="/exams4">JIPMAT IIM Jammu </Link></li>
                                        <li><Link to="/exams2">JIPMAT IIM Bodhgaya </Link></li>
                                        <li><Link to="/exams5">DoMS IPM NALSAR</Link></li>
@@ -176,7 +176,7 @@ function Header() {
                                        <li><Link to="/exams7">NPAT NMIM </Link></li>
                                        <li><Link to="/exams8">SET Symbiosis </Link></li>
                                        {/* <li><Link to="/exams9">BMS/BFIA CUET </Link></li> */}
-                                       <li><Link to="/exams10">IIMNAT Nagpur </Link></li>
+                                       <li><Link to="/exams10">HCL TechBee IIM Nagpur </Link></li>
                                        </ul>
                                     </li>
                                     <li>
