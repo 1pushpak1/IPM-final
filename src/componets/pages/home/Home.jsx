@@ -25,7 +25,7 @@ function Home() {
                      <span className="sub-title"><i className="fal fa-book me-2"></i> About IPM Prime</span>
                      <h2 className="sec-title">Welcome to IPM Prime</h2>
                   </div>
-                  <p className="mt-n2 mb-25">IPM PIRME is a students' Mentorship Platform exclusively for IPM-AT,JIPMT and other U.G. Managemwnt Entrance Testpreps. IPM PRIME lead by a team of highly experienced faculties and IIM allumni Mentor, aims to provide "Presonalizes Mentorship Program" which are meticulously curates and customised tp suit the individual requirements of our mentees as we believe that every student is capable of cracking these tests if they get proper guidance and personalizes mentors.</p>
+                  <p className="mt-n2 mb-25">IPM PIRME is a students' Mentorship Platform exclusively for IPM-AT, JIPMT and other U.G. Managemwnt Entrance Test-preps. IPM PRIME, lead by a team of highly experienced faculties and IIM allumni Mentors, aims to provide "Presonalized Mentorship Programs" which are meticulously curated and customised to suit the individual requirements of our mentees as we believe that every student is capable of cracking these tests if he/she gets proper guidance and personalized mentorship.</p>
                   {/* <p className="mb-30">All students are not same, they all have diffrent needs, strengths and weaknesses. So we as a team work believe in working with our student as their mate who are accessible to guide them at every step and enable them to accomplish theirgoal in the most effective manner.</p> */}
                   <div className="row align-items-center">
                      {/* <div className="col-md-auto">
@@ -34,9 +34,9 @@ function Home() {
                      <div className="col-md-auto">
                         <div className="checklist">
                            <ul>
-                              <li>Get access to Prime Mentorship Programs</li>
-                              <li>Popular topics to learn now</li>
-                              <li>Find the right instructor for you</li>
+                              <li>Get access to Personalized Mentorship Programs</li>
+                              <li>Regular sectional and mock tests & detailed analysis</li>
+                              <li>Personalized study plan</li>
                            </ul>
                         </div>
                      </div>
@@ -128,7 +128,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 3.png" alt="img" />  </div>
                      <div className="course-content">
                     
-                        <h5 className="course-title">Achivers' Mentorship Program </h5>
+                        <h5 className="course-title">Achievers' Mentorship Program </h5>
                         <h6>(For Class 11)</h6>
                         <div className="btn-group mt-40"><Link to="/achivers" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
@@ -150,8 +150,8 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 5.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h5 className="course-title">Prime Mentorship Program </h5>
-                        <h6>(For Students, Rankers & Dropers)</h6>
+                        <h5 className="course-title">Speedesters Mentorship Program </h5>
+                        <h6>(Six-Month Program)</h6>
                         <div className="btn-group mt-40"><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -169,7 +169,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 6.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h5 className="course-title">Pocket IPM Test Series</h5>
+                        <h5 className="course-title">Pocket Test-Series</h5>
                         <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -179,7 +179,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 7.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h5 className="course-title">Prime IPM Test Series</h5>
+                        <h5 className="course-title">Prime  Test-Series</h5>
                         <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -189,7 +189,7 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 8.png" alt="img" />  </div>
                      <div className="course-content">
                        
-                        <h5 className="course-title">Premium IPM Test series</h5>
+                        <h5 className="course-title">Premium Test-Series</h5>
                         <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
@@ -268,8 +268,8 @@ function Home() {
                      <div className="title-area mb-25">
                         <span className="sub-title"><i className="fal fa-book me-2"></i> WHY IPM PRIME</span>
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
-                        <p className="sec-text mt-20">IPM PRIME is a student Mentorship Platform, definitely not a random Coaching institute hell bent on only completing the syllabus. There is a reason why we call ourself a mentorship platform and offer personalised mentorship, We are completely aware of the gaps in the functioning of today's coaching industry which provides "One Size Fit all" Kind of sollution but our student are diffrent varies requirements. Our experienced mentors and IIM allumni Coaches, Know the correct path to address this serious gap in the test prep arena</p>
-                        <p className="sec-text mt-20">"We don't offer Crash Courses" Even our short term courses are only subject wise or topic wise Mentorship programs as we believe you can rush the whole preparation it is a process. We don't want to fool anybody</p>
+                        <p className="sec-text mt-20">IPM PRIME is a Students' Mentorship Platform, definitely not a random Coaching institute hell bent on only completing the syllabus. There is a reason why we call it, a mentorship platform as it offers personalised mentorship as per the students' specific requirements, We are completely aware of the gaps in the functioning of today's coaching industry which provides "One Size Fit all" Kind of sollution but our students' are diffrent with varied requirements. Our experienced mentors and IIM allumni Coaches, Know the correct path to address this serious gap in the test prep arena.</p>
+                        <p className="sec-text mt-20">We don't offer Crash Courses, even our short term courses are only subject wise or topic wise Mentorship programs as we believe you can not rush the whole preparation, "IT IS A PROCESS".</p>
                      </div>
                      <div className="row gy-4">
                         <div className="col-md-6">
@@ -294,7 +294,7 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Flexible Timing</h3>
+                                 <h3 className="box-title">One-to-One Session</h3>
                                  {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
@@ -303,7 +303,7 @@ function Home() {
                            <div className="wcu-box">
                               <div className="wcu-box_icon"><i className="fas fa-check-circle"></i></div>
                               <div className="wcu-box_details">
-                                 <h3 className="box-title">Top Faculties</h3>
+                                 <h3 className="box-title">Expert Faculties</h3>
                                  {/* <p className="wcu-box_text">Seamlessly envisioneer tactical data through services.</p> */}
                               </div>
                            </div>
@@ -353,11 +353,11 @@ function Home() {
          <div className="container text-center">
             <div className="cta-wrap2">
                <div className="title-area text-center mb-35">
-                  <span className="sub-title"><i className="fal fa-book me-2"></i>IPM PRIME</span>
-                  <h2 className="sec-title text-white">MAHA <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">For Mentorship Batch</span></h2>
+                  <span className="sub-title"><i className="fal fa-book me-2"></i>IPM PRIME'S</span>
+                  <h2 className="sec-title text-white">ALL INDIA PRIME <span className="text-theme2">SCHOLARSHIP</span> TEST<br/><span className="fw-normal">For Mentorship Batch</span></h2>
                   <p className="cta-text">Join Us on 21st Sep 2023</p>
                </div>
-               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book A COUNSELLING SESSION<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
+               <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Get upto 80% Scholarship<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarship" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
             </div>
          </div>
       </section>
@@ -371,9 +371,9 @@ function Home() {
             <div className="row align-items-center">
                <div className="col-xl-6 mb-40 mb-xl-0">
                   <div className="title-area mb-30">
-                     <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructor</span>
+                     <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructors</span>
                      <h2 className="sec-title">Meet Our Expert Mentors</h2>
-                     <p className="sec-text mt-20">Team IPM PRIME is here to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
+                     <p className="sec-text mt-20">Team IPM PRIME is here with One-To-One Mentorship Sessions, Personalized Study Plan & Continious Remedial Classes to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
                      <p className="sec-text">You are ready to ACE any test!!</p>
                   </div>
                   <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="/contactus" className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></a></div>
@@ -479,8 +479,8 @@ function Home() {
          <div className="shape-mockup testi-bg-shape2 spin" data-left="0" data-top="15%"><img src="assets/img/testimonial/testi-bg-shape_1_2.png" alt="img" /></div>
          <div className="container">
             <div className="title-area text-center mb-50">
-               <span className="sub-title"><i className="fal fa-book me-2"></i> Our Students Testimonials</span>
-               <h2 className="sec-title">Students Say’s About Oue University</h2>
+               <span className="sub-title"><i className="fal fa-book me-2"></i> Our Student's Testimonials</span>
+               <h2 className="sec-title">Your Success is Our Success</h2>
             </div>
             <div className="row">
                <div className="col-xl-12">
@@ -488,80 +488,73 @@ function Home() {
                      <div className="col-lg-6">
                         <div className="testi-box">
                            <div className="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
-                              </svg>
+                              
                            </div>
                            <div className="testi-box_content">
                               <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater" /></div>
-                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
+                              <p className="testi-box_text">“I give full credit to the IPM Prime team for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Mock Tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">David H. Smith</h3>
-                                 <span className="testi-box_desig">IT Student</span>
+                                 <h3 className="testi-box_name">Shikha Sharma</h3>
+                              
                               </div>
-                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
+                             
                            </div>
                         </div>
                      </div>
                      <div className="col-lg-6">
                         <div className="testi-box">
                            <div className="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
-                              </svg>
+                              
                            </div>
                            <div className="testi-box_content">
-                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater" /></div>
-                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
+                             
+                              <p className="testi-box_text">“I am filled with gratitude for the intensive efforts in action and spirit put forth by the whole team of IPM Prime Tutorial. I want to take this opportunity to thank the entire team and Rajeev Sir for his continuous support and guidance. Their planned remedial classes and continuous personalised sessions helped me a lot to get a grasp on the syllabus and improve upon the weak areas. Keep serving the aspirants as you have always done.”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Zara Head Milan</h3>
-                                 <span className="testi-box_desig">Regular Student</span>
+                                 <h3 className="testi-box_name">Mayank Agrawal</h3>
+                                
                               </div>
-                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
+                              
                            </div>
                         </div>
                      </div>
                      <div className="col-lg-6">
                         <div className="testi-box">
                            <div className="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
-                              </svg>
+                             
                            </div>
                            <div className="testi-box_content">
-                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater" /></div>
-                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
+                              
+                              <p className="testi-box_text">“The guidance of IPM Prime Tutorial and Personalised sessions by Mentors were very much valuable. Relevant course modules allowing for greater depth knowledge and clarity most importantly the detailed Mock analysis gave a lot of confidence. I would recommend IPM Prime Tutorial to anyone serious about succeeding in IPM.”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">David H. Smith</h3>
-                                 <span className="testi-box_desig">IT Student</span>
+                                 <h3 className="testi-box_name">Ipsa Mittal</h3>
+                                 
                               </div>
-                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
+                             
                            </div>
                         </div>
                      </div>
                      <div className="col-lg-6">
                         <div className="testi-box">
                            <div className="testi-box-bg-shape">
-                              <svg width="150" height="137" viewBox="0 0 150 137" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M0 9.99951C0 4.47666 4.47715 -0.000488281 10 -0.000488281H140C145.523 -0.000488281 150 4.47666 150 9.99951V10.5803C150 13.3951 148.814 16.0796 146.732 17.9747L18.8619 134.394C17.0205 136.07 14.6199 137 12.1297 137H10C4.47715 137 0 132.522 0 127V9.99951Z" fill="#0D5EF4"/>
-                              </svg>
+                             
                            </div>
                            <div className="testi-box_content">
-                              <div className="testi-box_img"><img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater" /></div>
-                              <p className="testi-box_text">“Quickly maximize visionary solutions after mission critical action items productivate premium portals for impactful -services stinctively negotiate enabled niche markets via growth strategies”</p>
+                             
+                              <p className="testi-box_text">“IPM Prime is the best online Mentorship platform for preparing for IPM-AT. The regular Sectional and Mock tests with detailed analysis and personalised plan helped me a lot to strengthen the concepts with clarity. I enhanced my question solving speed and accuracy with the help of mock tests and a unique approach to mock analysis which were provided. One-to-One sessions are wow as it never leaves you alone. IPM Prime Tutorial made IPM-AT prep easy and achievable. Heartfelt gratitude to IPM Prime for helping me get into an IIM. 
+”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
-                                 <h3 className="testi-box_name">Zara Head Milan</h3>
-                                 <span className="testi-box_desig">Regular Student</span>
+                                 <h3 className="testi-box_name">Aryan Sood</h3>
+                                 
                               </div>
-                              <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div>
+                             
                            </div>
                         </div>
                      </div>
