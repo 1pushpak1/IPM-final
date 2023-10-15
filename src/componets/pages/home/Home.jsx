@@ -492,7 +492,7 @@ function Home() {
                            </div>
                            <div className="testi-box_content">
                            
-                              <p className="testi-box_text">“I give full credit to the IPM Prime team for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Mock Tests, Detailed mock analysis, study material and especially the Personalised sessions and Schedule plan which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
+                              <p className="testi-box_text">“I give full credit to the IPM Prime team for my success. I cannot thank IPM Prime and Rajeev Sir enough. The mentors helped a lot in sharpening all the concepts. Mock Tests, study material and especially the Personalised sessions  which they prepared for us helped me a lot in quality preparation. While appearing for the exam, I felt like repeating the Mock Tests of IPM Prime and wondered if the exam had copied IPM Prime’s Mock. ”</p>
                            </div>
                            <div className="testi-box_bottom">
                               <div>
