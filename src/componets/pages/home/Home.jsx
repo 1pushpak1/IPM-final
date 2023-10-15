@@ -86,7 +86,7 @@ function Home() {
                      <div className="course-content">
                         
                         <h3 className="course-title"><Link to="prep-module">Premium Mentorship Program</Link></h3>
-                        
+                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -97,7 +97,7 @@ function Home() {
                        
                          <h3 className="course-title"><Link to="/prep-module">Premium Mentorship Program (Premium 40)</Link></h3>
                         {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */} 
-                     
+                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
@@ -107,7 +107,7 @@ function Home() {
                      <div className="course-content">
                        
                         <h3 className="course-title"><Link to="/prep-module">Premium Mentorship (Ranker's Program)</Link></h3>
-                       
+                        <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
