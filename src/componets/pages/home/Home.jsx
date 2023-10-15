@@ -86,7 +86,9 @@ function Home() {
                      <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
                      <div className="course-content">
                         
-                        <h5 className="course-title">Premium Mentorship Program</h5>
+                        <h5 className="course-title">Premium Mentorship</h5>
+                        <h6>One-To-One</h6>
+                        <p></p>
                         <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
