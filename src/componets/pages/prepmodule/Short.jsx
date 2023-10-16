@@ -11,10 +11,10 @@ function Short() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">Short term Mentorship Program</h1>
+               <h1 className="breadcumb-title">Short-term Mentorship Program</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Prep Module</a></li>
-                  <li>Short term Mentorship Program</li>
+                  <li>Short-term Mentorship Program</li>
                </ul>
             </div>
          </div>
@@ -34,6 +34,7 @@ function Short() {
                      <div className="title-area mb-25">
                         
                         <h2 className="sec-title">"IPM PRIME is a Mentorship Platform not a random Coaching institute"</h2>
+                        <h5>Its Never Too Late!</h5>
                         
                         
                     </div>
@@ -58,6 +59,7 @@ function Short() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
                                  {/* <h5 className="h5">One-on-One Live Classes</h5> */}
+                                 <h5>About Short-Term Mentorship</h5>
                                  <p>Short Mentorship Programs are Subject specific Mentorship Programs designed to provide holistic mentorship related to a particular section of the IPMAT Test Prep. This program is for those students who have already started the preparation but they feel that they either have a lot of doubt or find themselves weak in a particular section of IPMAT Test and want a <b>PERSONALISED</b> guidance in that <b>PARTICULAR SECTION/SUBJECT.</b></p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
@@ -90,11 +92,11 @@ function Short() {
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
                                        <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
                                        <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
                                        <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
+                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
                                     </ul>
                                  </div>
                               </div>

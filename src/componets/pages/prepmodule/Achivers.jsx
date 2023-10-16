@@ -11,10 +11,10 @@ function Achivers() {
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
          <div className="container">
             <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">Achivers Mentorship Program</h1>
+               <h1 className="breadcumb-title">Achievers' Mentorship Program</h1>
                <ul className="breadcumb-menu">
                   <li><a href="#">Prep Module</a></li>
-                  <li>Achivers Mentorship Program</li>
+                  <li>Achievers Mentorship Program</li>
                </ul>
             </div>
          </div>
@@ -34,7 +34,7 @@ function Achivers() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"Early start always have an edge"</h2>
+                        <h2 className="sec-title">"Early starters always have an edge"</h2>
                         
                     </div>
                </div>
@@ -58,7 +58,7 @@ function Achivers() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">Why Achivers Mentorship?</h5>
+                                 <h5 className="h5">Why Achievers' Mentorship?</h5>
                                  <p>Prepare for IPMAT with expert mentors as your FELLOW in this Journey!</p>
                                  {/* <p>And this admission form gives access to:</p> */}
                                  <div className="row mt-25">
@@ -66,8 +66,8 @@ function Achivers() {
                                        <div className="checklist mb-4">
                                           <ul>
                                              <li> 1-to-1 Session with Rajeev Sir & mentors</li>
-                                             <li> Counselling</li>
-                                             <li> Individual Attention</li>
+                                             <li> Diagonist Test & Counselling</li>
+                                             <li> Mock Analysis & Remedial Classes</li>
                                              
                                           </ul>
                                        </div>
@@ -88,7 +88,7 @@ function Achivers() {
                                           <div className="checklist mb-4">
                                              <ul>
                                                 <li> Beginners assignment and Counselling</li>
-                                                <li> Personalised strategy and plan</li>
+                                                <li> Personalised strategy and study plan</li>
                                              
                                                 
                                              </ul>
@@ -98,7 +98,7 @@ function Achivers() {
                                           <div className="checklist">
                                              <ul>
                                                 <li>  Regular 1 to 1 session and remedial classes</li>
-                                                <li>  Customize personal study plan</li>
+                                                <li>  Regular Mock test and Analysis</li>
                                                 
                                              </ul>
                                           </div>
@@ -109,17 +109,18 @@ function Achivers() {
                                  {/* <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
                                  <p>The guiding motto behind this program is </p>
                                   <p align="center">  “EARLY STARTERS ALWAYS HAVE AN EDGE” </p>
-                                  <p>so this program aims towards making the IPMAT and other admission test preparation an easy journey without unwarranted stress on our students. This program is driven by our Chief Mentor Mr Rajeev Sir’s decades of experience with the students and their highly stressful college admission test prep with their school Board. Therefore this program is designed with the proven methodology and research that if a student starts early and masters some basic skills simultaneously with their school classes, it will make the test prep journey stress free, enjoyable and equips our students with all the required skill sets to ace the IPMAT like aptitude tests moreover the students remain with their assigned mentors throughout their prep journey who make the journey very personalised with expert advice, strategic roadmap, readily available solution to any hiccups in the prep journey.</p>
+                                  <p>so this program aims towards making the IPMAT and other admission test preparation, an easy journey without unwarranted stress on our students. This program is driven by our Chief Mentor Mr Rajeev Sir’s decades of experience with the students and their highly stressful college admission test prep with their school Board. Therefore this program is designed with the proven methodology and research that if a student starts early and masters some basic skills simultaneously with their school classes, it will make the test prep journey stress free, enjoyable and also equips our students with all the required skill sets to ace the IPMAT like aptitude tests. Moreover the students remain with their assigned mentors throughout their prep journey who make the journey very personalised with expert advice, strategic roadmap, readily available solutions to any hiccups in the prep journey.</p>
                                  <p>We already know:
-                                         <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
+                                         <b>	ONE SIZE FITS ALL…NEVER WORKS!!!!!</b></p>
                                          <p>So, This INNOVATIVE learning methodology is the FUTURE!!!</p>
 
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
+                                          <h5>Features of the Achievers' Mentorship Program</h5>
                                           <ul>
                                              <li> Starts with a detailed Assessment & Counselling sessions</li>
-                                             <li> Live classes experienced mentors & experts</li>
+                                             <li> One-To-One Sessions with mentors & experts</li>
                                              {/* <li> Individual Attention</li> */}
                                              
                                           </ul>
@@ -128,7 +129,7 @@ function Achivers() {
                                     <div className="col-lg-6">
                                        <div className="checklist">
                                           <ul>
-                                             <li>  Student Centric-Hand-On approach</li>
+                                             <li>  Student Centric Hands-On approach</li>
                                              <li>  Focus on the latest developments, trends and strategies</li>
                                              {/* <li>  Top Faculties</li> */}
                                           </ul>
@@ -144,11 +145,11 @@ function Achivers() {
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
-                                       <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
                                        <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Achievers' Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
                                        <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
+                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
                                        {/* <li>How to set up and market events, using online tools</li>
                                        <li>Adapt your performance techniques and manage your audience throughout</li> */}
                                     </ul>

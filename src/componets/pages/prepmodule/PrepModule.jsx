@@ -32,7 +32,8 @@ function PrepModule() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">"Personalized Mentorship Program (Maximum number of One to One live sessions)"</h2>
+                        <h2 className="sec-title">"Personalised Mentorship Program "</h2>
+                        <h5>(Maximum number of One-to-One sessions with your mentors)</h5>
                         
                     </div>
                </div>
@@ -71,9 +72,9 @@ function PrepModule() {
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
-                                             <li> Maximum One-to-One Session with Rajeev Sir</li>
-                                             <li> Flexible Timings</li>
-                                             <li> Individual Attention</li>
+                                             <li> Maximum One-to-One Session with Mentors</li>
+                                             <li> Flexible Timings & Doubt Sessions</li>
+                                             <li> Mock Analysis & Remedial Classes</li>
                                              
                                           </ul>
                                        </div>
@@ -90,13 +91,13 @@ function PrepModule() {
                                  </div>
                                     <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
                                     <p><b>"Every Child is diffrent"</b></p>
-                                    <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
+                                    <p>We Understand this reality, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the aspirants</p>
                                     <div className="row mt-25">
                                        <div className="col-lg-6">
                                           <div className="checklist mb-4">
                                              <ul>
-                                                <li> Beginners assignment and Counselling</li>
-                                                <li> Personalised strategy and plan</li>
+                                                <li> Beginners' Assessment and Counselling</li>
+                                                <li> Personalised Strategy and Remedial Classes</li>
                                              
                                                 
                                              </ul>
@@ -111,7 +112,7 @@ function PrepModule() {
                                              </ul>
                                           </div>
                                        </div>
-                                    <p>Premium Mentorship Program, offered by IPM Prime team, is flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
+                                    <p>Premium Mentorship Program, offered by IPM Prime team, is our flagship mentorship course with maximum number of one-to-one mentorship sessions by Rajeev Sir-Other mentors and Live Mentorship classes by highly experienced subject experts and IIM alumni mentors. This is an intensive preparation batch aimed towards making the aspirants equipped with all the necessary skills and strategies required to ace the IPMAT admission test.</p>   
                                     </div>
                                  </div>
                            </div>
@@ -121,11 +122,11 @@ function PrepModule() {
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
                                        <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
                                        <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
                                        <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
+                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
                                     </ul>
                                  </div>
                               </div>

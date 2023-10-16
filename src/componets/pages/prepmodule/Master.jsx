@@ -57,15 +57,15 @@ function Master() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 className="h5">Why Master Mentorship?</h5>
-                                 <p>Prepare for IPMAT 2024-25 with your trusted Mentorship Program </p>
+                                 <h5 className="h5">Why Masters' Mentorship?</h5>
+                                 <p>Prepare for IPMAT Enterance test with your trusted Mentorship Program </p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
                                           <li> 1-to-1 Session with Rajeev Sir & mentors</li>
-                                             <li> Counselling</li>
-                                             <li> Individual Attention</li>
+                                             <li> Diagonist Test & Counselling</li>
+                                             <li> Mock Analysis & Remedial Classes</li>
                                              
                                           </ul>
                                        </div>
@@ -73,7 +73,7 @@ function Master() {
                                     <div className="col-lg-6">
                                        <div className="checklist">
                                           <ul>
-                                             <li>  Most Popular Mentorship Program</li>
+                                          <li>  Most Popular Mentorship Program</li>
                                              <li>  Personalized Study Plans & Strategy</li>
                                              <li>  Expert Faculties and IIM alumni mentors</li>
                                           </ul>
@@ -82,13 +82,13 @@ function Master() {
                                  </div>
                                  <h5 className="h5 mt-40">Personalised Prep Strategy & Assistance</h5>
                                  <p>"Every Child is diffrent"</p>
-                                 <p>We Understand this, that's why we ensure your child gets personal guidance by IIM Professionals and experts who can focus on the specific requirements of the child</p>
+                                 <p>We Understand this, that's why we ensure your child gets personal guidance by IIM alumni mentors and subjct experts who can focus on the specific requirements of the aspirants</p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
                                           <ul>
                                           <li> Beginners assignment and Counselling</li>
-                                                <li> Personalised strategy and plan</li>
+                                                <li> Personalised strategy and study plan</li>
                                              
                                                 
                                              </ul>
@@ -98,17 +98,18 @@ function Master() {
                                           <div className="checklist">
                                              <ul>
                                                 <li>  Regular 1 to 1 session and remedial classes</li>
-                                                <li>  Customize personal study plan</li>
+                                                <li>  Regular Mock test and Analysis</li>
                                             
                                           </ul>
                                        </div>
                                     </div>
                                  <p>We already know:  <b>	ONE SIZE FITS ALL …FAILED!!!!!</b></p>
-                                 <p>So, the PERSONALISED learning methodology is SUCCESS!!!</p> 
-                                 <p>Masters’ Mentorship Program is an intensive IPMAT Test Prep course under the highly experienced subject experts and IIM alumni Mentors for class 12 students. This program is focused on the personalised mentorship which are customised to the requirement of the individual students and address their strengths and weaknesses effectively to equip them with necessary skills to ace the IPMAT Test.   </p>
+                                 <p>So, the PERSONALISED learning methodology is THE NEED OF THE HOUR !!!</p> 
+                                 <p>Masters’ Mentorship Program is an intensive IPMAT Test Prep course under the highly experienced subject experts and IIM alumni Mentors for class 12 students. This program is focused on the personalised mentorship which are customised to the requirements of the individual students and works on their strengths and weaknesses effectively to equip them with necessary skill-sets to ace the IPMAT Test.   </p>
                                  </div>
                               
                               </div>
+                              <h5 className="h5 mt-40">If you are in class 12th and confused about your career speek to our Experts!!</h5>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
@@ -116,11 +117,11 @@ function Master() {
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
                                        <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Masters' Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
                                        <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
+                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
                                     </ul>
                                  </div>
                               </div>

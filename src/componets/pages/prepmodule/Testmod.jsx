@@ -34,7 +34,7 @@ function Testmod() {
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
                         
-                        <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCK/TESTS and A PROVEN ROADMAP to handle last minute hiccups
+                        <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCK TESTS and A PROVEN ROADMAP to handle last minute hiccups
 "</h2>
                         
                     </div>
@@ -60,9 +60,9 @@ function Testmod() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
                                  {/* <h5 className="h5">One-on-One Live Classes</h5> */}
-                                 <p>Mock Test Mentorship Program an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those small mistakes to make their preparation robust and full proof.</p>
-                                 <p><b>THIS COSTS THEM HUGE-</b></p>
-                                 <p align="center"> FAILURE DUE TO LACK OF TIMELY GUIDANCE!!!
+                                 <p>Mock Test Mentorship Program is an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students, as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those weak areas to make their preparation robust and foolproof.</p>
+                                 <p><b>"THIS COSTS THEM HUGE-"</b></p>
+                                 <p align="center"> WHICH IS DEFINATELY AFAILURE DUE TO LACK OF TIMELY & EXPERT GUIDANCE!!!
 </p>
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
@@ -85,12 +85,13 @@ function Testmod() {
                                        </div>
                                     </div>
                                  </div>
-                                 <p>A brilliant student with a lot of effort in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
-                                 <h6 align="center" className="h5 mt-25">WORRY NOT!!</h6>
-                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of your MOCK TESTS in figuring out the lacunas and gives our PROVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
+                                 <p>A brilliant student with a lot of efforts in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
+                                 <h6 align="center" className="h5 mt-25">WORRY NOT!!!</h6>
+                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of regular SECTIONAL TESTS & MOCK TESTS and their detailed analysis, in figuring out the lacunas-gaps, and gives a PROVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
                                 <p> Wheather you have joined a coaching program or not</p>
-                                 <p>This mocktest mentorship program is indispensible</p>
+                                 <p>This MOCT-TEST MENTORSHIP PROGRAM is indispensible!!!</p>
                               </div>
+                              <h5 className="h5 mt-40">If you are preprain IPMAT Exam and still not confident about your prepration speek to our Experts!!</h5>
                            </div>
                            <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
                               <div className="course-curriculam">
@@ -98,11 +99,11 @@ function Testmod() {
                                  {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
                                  <div className="checklist mb-1">
                                     <ul>
-                                    <li>Interactive Webinars: Engaging and interactive webinars where participants can directly communicate with mentors, ask questions, and receive real-time answers. This feature fosters a dynamic learning environment.</li>
+                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
                                        <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Prime Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
                                        <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for participants to receive feedback on their progress and performance. This could include mock tests, assignments, or quizzes that help participants gauge their understanding and improvement over time.</li>
+                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
                                     </ul>
                                  </div>
                               </div>
