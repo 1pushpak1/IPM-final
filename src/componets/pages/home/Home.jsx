@@ -571,6 +571,49 @@ function Home() {
             </div>
          </div>
       </section>
+
+      <section className="space-top space-extra2-bottom">
+      <div className="container">
+            <div className="title-area text-center mb-50">
+               <span className="sub-title"><i className="fal fa-book me-2"></i> Our Blogs</span>
+            </div></div>
+         <div className="container">
+            <div className="row">
+               <div className="col-xxl-9 col-lg-8">
+                  <div className="course-single">
+                     <div className="course-single-top">
+                        {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
+                        {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
+                        <h2 className="course-title">Preparation of Maths section for IPMAT</h2>
+                        <p>Preparing for the IPMAT (Integrated Program in Management Aptitude Test) requires a dedication and structured approach to mathematics, as it is a crucial part of the exam. In this article, we will outline a comprehensive strategy to excel in the mathematics section of the IPMAT. 
+                        
+                        <Link to="/#">More</Link></p>
+                        <ul className="course-single-meta"> 
+                           {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
+                           <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
+                        </ul>
+                     </div>
+                     <div className="course-single-bottom">
+                        <div className="tab-content" id="productTabContent">
+                            <div className="course-description">
+                               <h2>How to prepare Verbal ability section for IPMAT:</h2>
+                               <p>To prepare for the Verbal Ability section of the IPMAT (Integrated Program in Management - Aptitude Test), you need to focus on improving your reading, vocabulary, correct usage and comprehension skills. This section typically consists of questions related to reading comprehension, vocabulary, grammar, and sentence correction.</p> 
+                            </div>
+
+                            <div className="course-description">
+                                 <h6>VARC for IPMAT Indore, Rohtak and JIPMAT</h6>
+                                 <p>While the difficulty level, length and pattern of the questions might be the same, find below certain differences between the three tests: <Link to="/#">More</Link></p>
+                                </div>
+                            </div>                
+                        </div>
+                        </div>
+                        </div>
+              
+            </div>
+         </div>
+      </section>
+
+
     </>
   )
 }

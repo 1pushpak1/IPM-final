@@ -42,12 +42,12 @@ function Blog() {
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                               <h5>How to prepare Verbal ability section for IPMAT:</h5>
+                               <h2>How to prepare Verbal ability section for IPMAT:</h2>
                                <p>To prepare for the Verbal Ability section of the IPMAT (Integrated Program in Management - Aptitude Test), you need to focus on improving your reading, vocabulary, correct usage and comprehension skills. This section typically consists of questions related to reading comprehension, vocabulary, grammar, and sentence correction.</p> 
                             </div>
 
                             <div className="course-description">
-                                 <h5>VARC for IPMAT Indore, Rohtak and JIPMAT</h5>
+                                 <h6>VARC for IPMAT Indore, Rohtak and JIPMAT</h6>
                                  <p>While the difficulty level, length and pattern of the questions might be the same, find below certain differences between the three tests: <Link to="/#">More</Link></p>
                                 </div>
                             </div>                
