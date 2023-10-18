@@ -595,14 +595,12 @@ function Home() {
                         </ul>
                      </div>
                      <div className="course-single-bottom">
-                        <div className="tab-content" id="productTabContent">
-                            <div className="course-description">
-                               <h2>How to prepare Verbal ability section for IPMAT:</h2>
+                     
+                               <h2 className="course-title">How to prepare Verbal ability section for IPMAT:</h2>
                                <p>To prepare for the Verbal Ability section of the IPMAT (Integrated Program in Management - Aptitude Test), you need to focus on improving your reading, vocabulary, correct usage and comprehension skills. This section typically consists of questions related to reading comprehension, vocabulary, grammar, and sentence correction.  <Link to="/#">More</Link></p>
                                 </div>
                             </div>                
-                        </div>
-                        </div>
+                       
                         </div>
               
             </div>

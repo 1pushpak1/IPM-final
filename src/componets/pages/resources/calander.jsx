@@ -82,7 +82,7 @@ function Calander() {
                             </div>
 
                             <div className="course-description">
-                                 <h5>IIM Ranchi Calendar</h5>
+                                 <h5>IIM Indore Calendar</h5>
                                 <table className="table table-striped table-hover">
                                     <thead className='thead-dark'>
                                         <tr>
