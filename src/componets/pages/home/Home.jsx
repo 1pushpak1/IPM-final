@@ -209,7 +209,7 @@ function Home() {
                      <div className="course-content">
                         
                         <h5 className="course-title">MockTest Mentorship</h5>
-                        <div className="btn-group mt-40"><Link to="/short" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                        <div className="btn-group mt-40"><Link to="/testseries" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                      </div>
                   </div>
                </div>
