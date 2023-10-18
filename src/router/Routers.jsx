@@ -46,7 +46,7 @@ import Scholarship from '../componets/pages/home/Scholarship'
 import News from '../componets/pages/resources/news'
 import Pattern from '../componets/pages/resources/Pattern'
 import Blog from '../componets/pages/resources/blog'
-import Scholarshiptest from '../componets/resources/scholarshiptest'
+import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
 
 function Routers() {
   return (
