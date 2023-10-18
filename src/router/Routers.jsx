@@ -46,7 +46,7 @@ import Scholarship from '../componets/pages/home/Scholarship'
 import News from '../componets/pages/resources/news'
 import Pattern from '../componets/pages/resources/Pattern'
 import Blog from '../componets/pages/resources/blog'
-import Scholarship from '../componets/resources/scholarship'
+import Scholarshiptest from '../componets/resources/scholarship'
 
 function Routers() {
   return (
@@ -97,7 +97,7 @@ function Routers() {
                 <Route path="/news" element={<News/>} />
                 <Route path="/pattern" element={<Pattern/>} />
                 <Route path="/blog" element={<Blog/>} />
-                <Route path="/scholarshiptest" element={<Scholarship/>} />
+                <Route path="/scholarshiptest" element={<Scholarshiptest/>} />
             </Routes>
         <Footer/>
     </>
