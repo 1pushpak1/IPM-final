@@ -1,7 +1,7 @@
 import React from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
 
-function Scholarship() {
+function Scholarshiptest() {
   return (
     <>
    
@@ -63,4 +63,4 @@ function Scholarship() {
   )
 }
 
-export default Scholarship
+export default Scholarshiptest
