@@ -48,12 +48,13 @@ function Testseries() {
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
                                  <h5 className="h5">IPM Prime : IPMAT/BBA 2024 Test Series</h5>
+                                 <h6> Sectional Tests and Mock Tests with thorough analysis and tips for improvement with your Mentors.
+</h6>
                                  {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
                                  <div className="row mt-25">
                                     <div className="col-lg-6">
                                        <div className="checklist mb-4">
-                                          <h6> Sectional Tests and Mock Tests with thorough analysis and tips for improvement with your Mentors.
-</h6>
+                                          
                                           <ul>
                                              <li> Covers IPMAT Indore, Rohtak, JIPMAT etc</li>
                                              <li> Upto 80 mocks with detailed analysis
