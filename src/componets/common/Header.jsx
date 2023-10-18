@@ -52,7 +52,7 @@ function Header() {
                                        <li><Link to="/exams6"onClick={handleClose}> IPM IIFT Kakinada </Link></li>
                                        <li><Link to="/exams7"onClick={handleClose}>NPAT NMIM </Link></li>
                                        <li><Link to="/exams8"onClick={handleClose}>SET Symbiosis </Link></li>
-                                       {/* <li><Link to="/exams9"onClick={handleClose}>BMS/BFIA CUET </Link></li> */}
+                                       <li><Link to="/exams9"onClick={handleClose}>BMS/BFIA CUET </Link></li>
                                        <li><Link to="/exams10"onClick={handleClose}>HCL TechBee IIM Nagpur </Link></li>
                         
                      </ul>
@@ -87,7 +87,7 @@ function Header() {
                                        <li><Link to="/analysis" onClick={handleClose}>Exam Analysis</Link></li>
                                        <li><Link to="/pattern" onClick={handleClose}>Exam Pattern </Link></li>
                                        <li><Link to="/calander" onClick={handleClose}>Exam Calander </Link></li>
-                                       {/* <li><Link to="/exams3" onClick={handleClose}>IPM  Colleges </Link></li> */}
+                                       <li><Link to="/faq" onClick={handleClose}>FAQs </Link></li>
                                        <li><Link to="/blog" onClick={handleClose}>Blogs </Link></li>
                                        <li><Link to="/news" onClick={handleClose}>News & Events </Link></li>
                                        {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
@@ -175,7 +175,7 @@ function Header() {
                                        <li><Link to="/exams6"> IPM IIFT Kakinada </Link></li>
                                        <li><Link to="/exams7">NPAT NMIM </Link></li>
                                        <li><Link to="/exams8">SET Symbiosis </Link></li>
-                                       {/* <li><Link to="/exams9">BMS/BFIA CUET </Link></li> */}
+                                       <li><Link to="/exams9">BMS/BFIA CUET </Link></li>
                                        <li><Link to="/exams10">HCL TechBee IIM Nagpur </Link></li>
                                        </ul>
                                     </li>
@@ -210,9 +210,9 @@ function Header() {
                                        <li><Link to="/pattern">Exam Pattern </Link></li>
                                        <li><Link to="/calander">Exam Calander </Link></li>
                                        
+                                       <li><Link to="/faq">FAQs</Link></li>
                                        <li><Link to="/blog">Blogs </Link></li>
                                        <li><Link to="/news">News & Events </Link></li>   
-                                       {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>
                                     </li>

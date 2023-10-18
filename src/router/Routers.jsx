@@ -19,6 +19,7 @@ import Exams7 from '../componets/pages/exams/Exams7'
 import Exams8 from '../componets/pages/exams/Exams8'
 import Exams9 from '../componets/pages/exams/Exams9'
 import Exams10 from '../componets/pages/exams/Exams10'
+import Exams11 from '../componets/pages/exams/Exams11'
 import Login from '../componets/pages/authentication/Login'
 import Signup from '../componets/pages/authentication/Signup'
 import Contact from '../componets/pages/contactus/Contact'
@@ -48,6 +49,7 @@ import Pattern from '../componets/pages/resources/Pattern'
 import Blog from '../componets/pages/resources/blog'
 import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
 import Testseries from '../componets/pages/prepmodule/testseries'
+import Faq from '../componets/pages/resources/Faq'
 
 function Routers() {
   return (
@@ -69,6 +71,7 @@ function Routers() {
                 <Route path="/exams8" element={<Exams8 />} />
                 <Route path="/exams9" element={<Exams9 />} />
                 <Route path="/exams10" element={<Exams10 />} />
+                <Route path="/exams11" element={<Exam11/>}/>
                 <Route path="/master" element={<Master />} />
                 <Route path="/short" element={<Short />} />
                 <Route path="/testmod" element={<Test />} />
@@ -100,6 +103,7 @@ function Routers() {
                 <Route path="/blog" element={<Blog/>} />
                 <Route path="/scholarshiptest" element={<Scholarshiptest/>} />
                 <Route path="/testseries" element={<Testseries/>} />
+                <Route path="/faq" element={<Faq/>}/>
             </Routes>
         <Footer/>
     </>
