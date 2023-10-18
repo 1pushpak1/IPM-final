@@ -31,7 +31,8 @@ function Blog() {
                         <p>Preparing for the IPMAT (Integrated Program in Management Aptitude Test) requires a dedication and structured approach to mathematics, as it is a crucial part of the exam. In this article, we will outline a comprehensive strategy to excel in the mathematics section of the IPMAT.</p>
                         <p>1.  As we know that Quantitative Aptitude is an important section in the IPMAT entrance exam. So in this article, we will answer some of the most frequently asked questions related to Maths for IPMAT. </p>
                         <p>2.  The weightage to Quantitative Aptitude is high for Both IPMAT Indore and IPMAT Rohtak. JIPMAT does not have a Quantitative Aptitude section.</p>                       
-                        <p>3.   What is the syllabus of Maths for IPMAT? How to prepare for this section for IPMAT? What should be the strategy to solve maths problems? We will elaborate on these things further in this article.</p>   
+                        <p>3.   What is the syllabus of Maths for IPMAT? How to prepare for this section for IPMAT? What should be the strategy to solve maths problems? We will elaborate on these things further in this article.
+                        <Link to="/#">More</Link></p>
                         <ul className="course-single-meta"> 
                            {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
                            <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
@@ -40,147 +41,18 @@ function Blog() {
                      <div className="course-single-bottom">
                         <div className="tab-content" id="productTabContent">
                             <div className="course-description">
-                               <h5>IPMAT 2023 (Indore) Calendar</h5>
-                                <table className="table table-striped table-hover">
-                                    <thead className='thead-dark'>
-                                        <tr>
-                                            <th scope="col">S.No.</th>
-                                            <th scope="col">Milestone</th>
-                                            <th scope="col">Date/Deadline</th>
-                                            
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>IPMAT Application start date</td>
-                                            <td>6 March 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td> IPMAT Application last date</td>
-                                            <td>14 April 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Exam Date</td>
-                                            <td>16 June 2023 (2 to 4 PM)</td>
-                                         
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Announcement of Interviews</td>
-                                            <td>End of June 2023</td>
-                                       
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Final Announcement of the result</td>
-                                            <td>Second week of July 2023</td>
-                                       
-                                        </tr>
-                                    </tbody>
-                                </table>
-                          
+                               <h5>How to prepare Verbal ability section for IPMAT:</h5>
+                               <p>To prepare for the Verbal Ability section of the IPMAT (Integrated Program in Management - Aptitude Test), you need to focus on improving your reading, vocabulary, correct usage and comprehension skills. This section typically consists of questions related to reading comprehension, vocabulary, grammar, and sentence correction.</p> 
                             </div>
 
                             <div className="course-description">
-                                 <h5>IIM Ranchi Calendar</h5>
-                                <table className="table table-striped table-hover">
-                                    <thead className='thead-dark'>
-                                        <tr>
-                                            <th scope="col">S.No.</th>
-                                            <th scope="col">Milestone</th>
-                                            <th scope="col">Date/Deadline</th>
-                                            </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>IPMAT Application start date</td>
-                                            <td>6 March 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td> IPMAT Application last date</td>
-                                            <td>14 April 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Exam Date</td>
-                                            <td>16 June 2023 (2 to 4 PM)</td>
-                                         
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Announcement of Interviews</td>
-                                            <td>End of June 2023</td>
-                                       
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Final Announcement of the result</td>
-                                            <td>Second week of July 2023</td>
-                                       
-                                        </tr>
-                                    </tbody>
-                                </table>
+                                 <h5>VARC for IPMAT Indore, Rohtak and JIPMAT</h5>
+                                 <p>While the difficulty level, length and pattern of the questions might be the same, find below certain differences between the three tests: <Link to="/#">More</Link></p>
+                                </div>
                             </div>                
-                            <div className="course-description">
-                                 <h5>JIPMAT Exam Calendar</h5>
-                                <table className="table table-striped table-hover">
-                                    <thead className='thead-dark'>
-                                        <tr>
-                                            <th scope="col">S.No.</th>
-                                            <th scope="col">Milestone</th>
-                                            <th scope="col">Date/Deadline</th>
-                                            </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>JIPMAT Application start date</td>
-                                            <td>6 April 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td> JIPMAT Application last date</td>
-                                            <td>30 April 2023</td>
-                                            
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Correction Window</td>
-                                            <td>2-4 May 2023</td>
-                                         
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Exam Date</td>
-                                            <td>28 May 2023</td>
-                                       
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Final Announcement of the result</td>
-                                            <td>Second week of June 2023</td>
-                                       
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>   
-
-
-
-                     </div>
-                  </div>
-               </div>
-               </div>
+                        </div>
+                        </div>
+                        </div>
                <div className="col-xxl-3 col-lg-4">
                   <BookFreeDemo/>
                </div>
