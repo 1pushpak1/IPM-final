@@ -45,6 +45,7 @@ import ScrollToTop from '../ScrollTop'
 import Scholarship from '../componets/pages/home/Scholarship'
 import News from '../componets/pages/resources/news'
 import Pattern from '../componets/pages/resources/Pattern'
+import Blog from '../componets/pages/resources/blog'
 
 
 function Routers() {
@@ -95,7 +96,7 @@ function Routers() {
                 <Route path="/scholarship" element={<Scholarship/>} />
                 <Route path="/news" element={<News/>} />
                 <Route path="/pattern" element={<Pattern/>} />
-
+                <Route path="/blog" element={<Blog/>} />
             </Routes>
         <Footer/>
     </>
