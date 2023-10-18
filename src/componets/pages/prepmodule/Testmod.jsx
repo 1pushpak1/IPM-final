@@ -188,7 +188,7 @@ function Testmod() {
             </div>
          </div>
       </section>
-      {/* <div className="cta-area-1">
+      <div className="cta-area-1">
          <div className="container">
             <div className="row align-items-right justify-content-between">
                <div className="col-lg-12">
@@ -204,7 +204,7 @@ function Testmod() {
             </div>
          </div>
         
-      </div> */}
+      </div>
     </>
   )
 }

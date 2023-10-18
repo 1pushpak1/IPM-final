@@ -61,6 +61,23 @@ Based on merit at the admission test and performance in 10th and 10+2 or equival
             </div>
          </div>
       </section>
+      <div className="cta-area-1">
+         <div className="container">
+            <div className="row align-items-right justify-content-between">
+               <div className="col-lg-12">
+                  <div className="cta-wrap title-area mb-0">
+                     
+                     <div className="cta-content">
+                        <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
+                        
+                     </div>
+                     <Link to="/contactus"  className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                  </div>
+               </div>
+            </div>
+         </div>
+        
+      </div>
     </>
   )
 }
