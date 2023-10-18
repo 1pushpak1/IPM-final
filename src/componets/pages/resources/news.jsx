@@ -1,6 +1,6 @@
 import React from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
-
+import { Link } from 'react-router-dom';
 function News() {
   return (
     <>
