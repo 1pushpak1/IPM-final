@@ -248,7 +248,7 @@ function Home() {
                            <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
 
                         </div>
-                        {/* <Link to="/contactus" className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link> */}
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                         <Modal
                      isOpen={isOpen}
                      onEscape={() => {
