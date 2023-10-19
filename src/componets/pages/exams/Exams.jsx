@@ -4,6 +4,7 @@ import BookFreeDemo from '../form/BookFreeDemo'
 import { Modal } from '@weahead/react-customizable-modal-vite'
 
 function Exams() {
+    const [isOpen, setIsOpen] = useState(false);
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">

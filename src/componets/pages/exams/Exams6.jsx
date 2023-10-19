@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import BookFreeDemo from '../form/BookFreeDemo'
 import { Modal } from '@weahead/react-customizable-modal-vite'
 function Exams6() {
+   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
     <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
