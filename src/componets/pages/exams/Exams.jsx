@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import BookFreeDemo from '../form/BookFreeDemo'
+import { Modal } from '@weahead/react-customizable-modal-vite'
 
 function Exams() {
   return (
@@ -121,29 +122,56 @@ function Exams() {
                      </div>
                   </div>
                </div>
-               <div className="col-xxl-3 col-lg-4">
-                  <BookFreeDemo/>
-               </div>
+              
             </div>
          </div>
       </section>
       <div className="cta-area-1">
-         <div className="container">
-            <div className="row align-items-right justify-content-between">
-               <div className="col-lg-12">
-                  <div className="cta-wrap title-area mb-0">
-                     
-                     <div className="cta-content">
-                        <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
-                        
+            <div className="container">
+               <div className="row align-items-right justify-content-between">
+                  <div className="col-lg-12">
+                     <div className="cta-wrap title-area mb-0">
+
+                        <div className="cta-content">
+                           <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
+
+                        </div>
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
-                     <Link to="/contactus"  className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                     <Modal
+                        style
+                        isOpen={isOpen}
+                        onEscape={() => {
+                           setIsOpen(false)
+                        }}
+                        onOverlayClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <BookFreeDemo />
+                        <button
+                           style={{
+                              position: "absolute",
+                              top: 30,
+                              right: 30,
+                              zIndex: 101,
+                              background: "none",
+                              border: "none",
+                              color: "black",
+                              fontSize: 30
+                           }}
+                           onClick={() => {
+                              setIsOpen(false)
+                           }}
+                        >
+                           <i class="fa-solid fa-circle-xmark"></i>
+                        </button>
+                     </Modal>
                   </div>
                </div>
             </div>
+
          </div>
-        
-      </div>
     </>
   )
 }
