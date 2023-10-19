@@ -246,7 +246,37 @@ function Home() {
                            <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
 
                         </div>
-                        <Link to="/contactus" className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                        {/* <Link to="/contactus" className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link> */}
+                        <Modal
+                     isOpen={isOpen}
+                     onEscape={() => {
+                        setIsOpen(false)
+                     }}
+                     onOverlayClick={() => {
+                        setIsOpen(false)
+                     }}
+                  >
+                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                        <Contact />
+                     </div>
+                     <button
+                        style={{
+                           position: "absolute",
+                           top: 30,
+                           right: 30,
+                           zIndex: 101,
+                           background: "none",
+                           border: "none",
+                           color: "black",
+                           fontSize: 30
+                        }}
+                        onClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <i class="fa-solid fa-circle-xmark"></i>
+                     </button>
+                  </Modal>
                      </div>
                   </div>
                </div>
