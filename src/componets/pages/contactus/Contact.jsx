@@ -21,11 +21,11 @@ function Contact() {
       </div>
       <div className="space" id="contact-sec">
          <div className="container">
-            <div className="map-sec">
+            {/* <div className="map-sec">
                <div className="map">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448193.9510192051!2d76.76357332396312!3d28.644287356088828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1692724000760!5m2!1sen!2sin" width="100%" height="300" style={{border:'0'}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                </div>
-            </div>
+            </div> */}
             <div className="row">
                <div className="col-xl-5 mb-30 mb-xl-0">
                   <div className="me-xxl-5 mt-40">

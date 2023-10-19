@@ -1,166 +1,168 @@
-import React from 'react'
+import { React, useState } from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
 import { Link } from 'react-router-dom';
+import { Modal } from '@weahead/react-customizable-modal-vite'
 
 function Testmod() {
-  return (
-    <>
-    <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
-        <div className="breadcumb-shape" data-bg-src="assets/img/bg/breadcumb_shape_1_1.png"></div>
-         <div className="shape-mockup breadcumb-shape2 jump d-lg-block d-none" data-right="30px" data-bottom="30px"><img src="assets/img/bg/breadcumb_shape_1_2.png" alt="shape" /></div>
-         <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
-         <div className="container">
-            <div className="breadcumb-content text-center">
-               <h1 className="breadcumb-title">Mock Test Mentorship Program</h1>
-               <ul className="breadcumb-menu">
-                  <li><a href="#">Prep Module</a></li>
-                  <li>Mock Test Mentorship Program</li>
-               </ul>
+   const [isOpen, setIsOpen] = useState(false);
+   return (
+      <>
+         <div className="breadcumb-wrapper" data-overlay="title" data-opacity="8">
+            <div className="breadcumb-shape" data-bg-src="assets/img/bg/breadcumb_shape_1_1.png"></div>
+            <div className="shape-mockup breadcumb-shape2 jump d-lg-block d-none" data-right="30px" data-bottom="30px"><img src="assets/img/bg/breadcumb_shape_1_2.png" alt="shape" /></div>
+            <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
+            <div className="container">
+               <div className="breadcumb-content text-center">
+                  <h1 className="breadcumb-title">Mock Test Mentorship Program</h1>
+                  <ul className="breadcumb-menu">
+                     <li><a href="#">Prep Module</a></li>
+                     <li>Mock Test Mentorship Program</li>
+                  </ul>
+               </div>
             </div>
          </div>
-      </div>
 
 
-    
-      <div className="container">
-         <div className="row align-items-center">
-            <div className="col-xl-6">
-               <div className="wcu-img-1">
-                  <div className="img1"><img src="assets/img/normal/test.png" alt="img" /></div>
-                                        
+
+         <div className="container">
+            <div className="row align-items-center">
+               <div className="col-xl-6">
+                  <div className="wcu-img-1">
+                     <div className="img1"><img src="assets/img/normal/test.png" alt="img" /></div>
+
                   </div>
                </div>
                <div className="col-xl-6">
                   <div className="wcu-wrap1">
                      <div className="title-area mb-25">
-                        
+
                         <h2 className="sec-title">“Make your Preparation FOOLPROOF through strategic analysis of the MOCK TESTS and A PROVEN ROADMAP to handle last minute hiccups
-"</h2>
-                        
-                    </div>
+                           "</h2>
+
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
-      </div>
 
 
-      <section>
-         <div className="container">
-            <div className="row">
-               <div className="col-xxl-9 col-lg-8">
-                  <div className="course-single">
-                     <div className="course-single-bottom">
-                        <ul className="nav course-tab" id="courseTab" role="tablist">
-                           <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Mock test mentorship</a></li>
-                           <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
-                           {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
+         <section>
+            <div className="container">
+               <div className="row">
+                  <div>
+                     <div className="course-single">
+                        <div className="course-single-bottom">
+                           <ul className="nav course-tab" id="courseTab" role="tablist">
+                              <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>Mock test mentorship</a></li>
+                              <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>FREE Session</a></li>
+                              {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
                            <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>Testimonial</a></li> */}
-                        </ul>
-                        <div className="tab-content" id="productTabContent">
-                           <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
-                              <div className="course-description">
-                                 {/* <h5 className="h5">One-on-One Live Classes</h5> */}
-                                 <p>Mock Test Mentorship Program is an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students, as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those weak areas to make their preparation robust and foolproof.</p>
-                                 <p><b>"THIS COSTS THEM HUGE-"</b></p>
-                                 <p align="center"> WHICH IS DEFINATELY AFAILURE DUE TO LACK OF TIMELY & EXPERT GUIDANCE!!!
-</p>
-                                 <div className="row mt-25">
-                                    <div className="col-lg-6">
-                                       <div className="checklist mb-4">
-                                          <ul>
-                                             {/* <li> 10 One-on-One Session with R.V Sir</li>
+                           </ul>
+                           <div className="tab-content" id="productTabContent">
+                              <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
+                                 <div className="course-description">
+                                    {/* <h5 className="h5">One-on-One Live Classes</h5> */}
+                                    <p>Mock Test Mentorship Program is an intensive LAST MILE preparation strategy based Mentorship Program which offers the MOST NEEDED LAST MILE MENTORSHIP to the students, as many aspirants fail the exam just because they could not figure out some small and silly mistakes while attempting the MOCK TESTS and ultimately could not work on those weak areas to make their preparation robust and foolproof.</p>
+                                    <p><b>"THIS COSTS THEM HUGE-"</b></p>
+                                    <p align="center"> WHICH IS DEFINATELY AFAILURE DUE TO LACK OF TIMELY & EXPERT GUIDANCE!!!
+                                    </p>
+                                    <div className="row mt-25">
+                                       <div className="col-lg-6">
+                                          <div className="checklist mb-4">
+                                             <ul>
+                                                {/* <li> 10 One-on-One Session with R.V Sir</li>
                                              <li> Flexible Timings</li>
-                                             <li> Individual Attention</li> */} 
-                                             
-                                          </ul>
+                                             <li> Individual Attention</li> */}
+
+                                             </ul>
+                                          </div>
                                        </div>
-                                    </div>
-                                    <div className="col-lg-6">
-                                       <div className="checklist">
-                                          <ul>
-                                             {/* <li>  Most Popular Mentorship Program</li>
+                                       <div className="col-lg-6">
+                                          <div className="checklist">
+                                             <ul>
+                                                {/* <li>  Most Popular Mentorship Program</li>
                                              <li>  Personalized Study Plans & Material</li>
                                              <li>   Top Faculties</li> */}
-                                          </ul>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <p>A brilliant student with a lot of efforts in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
+                                    <h6 align="center" className="h5 mt-25">WORRY NOT!!!</h6>
+                                    <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of regular SECTIONAL TESTS & MOCK TESTS and their detailed analysis, in figuring out the lacunas-gaps, and gives a PROVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
+                                    <p> Wheather you have joined a coaching program or not</p>
+                                    <p>This MOCT-TEST MENTORSHIP PROGRAM is indispensible!!!</p>
+                                 </div>
+                                 <h5 className="h5 mt-40">If you are preprain IPMAT Exam and still not confident about your prepration speek to our Experts!!</h5>
+                              </div>
+                              <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
+                                 <div className="course-curriculam">
+                                    <h5 className="h5">Book a FREE Session for Mocktest Mentorship Batch By IPM Prime Tutorials</h5>
+                                    {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
+                                    <div className="checklist mb-1">
+                                       <ul>
+                                          <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
+                                          <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
+                                          <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                          <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
+                                          <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
+                                       </ul>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
+                                 <div className="course-instructor">
+                                    <div className="course-author-box">
+                                       <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
+                                       <div className="media-body">
+                                          <h3 className="author-name"><a className="text-inherit" href="#">Kevin Perry</a></h3>
+                                          <p className="author-text">Optimize resource eveling innoation whereas visionary value. Compellingly engage extensible process with business process improvements.</p>
+                                          <div className="author-meta"><a href="#"><i className="fal fa-circle"></i>Master IIM Ahmedabad</a> <span><i className="fal fa-circle"></i>Bachlor Thapa University</span></div>
+                                          <div className="th-social"><a href="https://facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></a> <a href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></a> <a href="https://linkedin.com/" target="_blank"><i className="fab fa-linkedin-in"></i></a> <a href="https://instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a></div>
                                        </div>
                                     </div>
                                  </div>
-                                 <p>A brilliant student with a lot of efforts in preparation could not make it to the final selection just because he could not ANALYSE THE MOCK and as a result could not make the necessary amends in his/her preparation strategy.</p>
-                                 <h6 align="center" className="h5 mt-25">WORRY NOT!!!</h6>
-                                 <p>Here you will have an expert mentor by your side who keeps guiding you at every step with the help of regular SECTIONAL TESTS & MOCK TESTS and their detailed analysis, in figuring out the lacunas-gaps, and gives a PROVEN ROADMAP to quickly overcome it in order to make your preparation convincingly FOOLPROOF.</p>
-                                <p> Wheather you have joined a coaching program or not</p>
-                                 <p>This MOCT-TEST MENTORSHIP PROGRAM is indispensible!!!</p>
                               </div>
-                              <h5 className="h5 mt-40">If you are preprain IPMAT Exam and still not confident about your prepration speek to our Experts!!</h5>
-                           </div>
-                           <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
-                              <div className="course-curriculam">
-                                 <h5 className="h5">Book a FREE Session for Mocktest Mentorship Batch By IPM Prime Tutorials</h5>
-                                 {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
-                                 <div className="checklist mb-1">
-                                    <ul>
-                                    <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
-                                       <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
-                                       <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
-                                       <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
-                                       <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                           <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
-                              <div className="course-instructor">
-                                 <div className="course-author-box">
-                                    <div className="auhtor-img"><img src="assets/img/team/team_2_1.jpg" alt="Author Image" /></div>
-                                    <div className="media-body">
-                                       <h3 className="author-name"><a className="text-inherit" href="#">Kevin Perry</a></h3>
-                                       <p className="author-text">Optimize resource eveling innoation whereas visionary value. Compellingly engage extensible process with business process improvements.</p>
-                                       <div className="author-meta"><a href="#"><i className="fal fa-circle"></i>Master IIM Ahmedabad</a> <span><i className="fal fa-circle"></i>Bachlor Thapa University</span></div>
-                                       <div className="th-social"><a href="https://facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></a> <a href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></a> <a href="https://linkedin.com/" target="_blank"><i className="fab fa-linkedin-in"></i></a> <a href="https://instagram.com/" target="_blank"><i className="fab fa-instagram"></i></a></div>
+                              <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
+                                 <div className="course-Reviews">
+                                    <div className="th-comments-wrap">
+                                       <ul className="comment-list">
+                                          <li className="review th-comment-item">
+                                             <div className="th-post-comment">
+                                                <div className="comment-avater"><img src="assets/img/blog/comment-author-3.jpg" alt="Comment Author" /></div>
+                                                <div className="comment-content">
+                                                   <h4 className="name">Mark Jack</h4>
+                                                   <span className="commented-on"><i className="fal fa-calendar-alt"></i>22 April, 2022</span>
+                                                   <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{ width: '100%' }}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
+                                                   <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li className="review th-comment-item">
+                                             <div className="th-post-comment">
+                                                <div className="comment-avater"><img src="assets/img/blog/comment-author-2.jpg" alt="Comment Author" /></div>
+                                                <div className="comment-content">
+                                                   <h4 className="name">Alexa Deo</h4>
+                                                   <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
+                                                   <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{ width: '100%' }}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
+                                                   <p className="text">The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages.</p>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li className="review th-comment-item">
+                                             <div className="th-post-comment">
+                                                <div className="comment-avater"><img src="assets/img/blog/comment-author-1.jpg" alt="Comment Author" /></div>
+                                                <div className="comment-content">
+                                                   <h4 className="name">Tara sing</h4>
+                                                   <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
+                                                   <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{ width: '100%' }}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
+                                                   <p className="text">The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.</p>
+                                                </div>
+                                             </div>
+                                          </li>
+                                       </ul>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
-                              <div className="course-Reviews">
-                                 <div className="th-comments-wrap">
-                                    <ul className="comment-list">
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-3.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Mark Jack</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>22 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-2.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Alexa Deo</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages.</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li className="review th-comment-item">
-                                          <div className="th-post-comment">
-                                             <div className="comment-avater"><img src="assets/img/blog/comment-author-1.jpg" alt="Comment Author" /></div>
-                                             <div className="comment-content">
-                                                <h4 className="name">Tara sing</h4>
-                                                <span className="commented-on"><i className="fal fa-calendar-alt"></i>26 April, 2022</span>
-                                                <div className="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style={{width:'100%'}}>Rated <strong className="rating">5.00</strong> out of 5 based on <span className="rating">1</span> customer rating</span></div>
-                                                <p className="text">The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.</p>
-                                             </div>
-                                          </div>
-                                       </li>
-                                    </ul>
-                                 </div>
-                                 {/* <div className="th-comment-form">
+                                    {/* <div className="th-comment-form">
                                     <div className="form-title">
                                        <h3 className="blog-inner-title">Add a review</h3>
                                     </div>
@@ -176,37 +178,63 @@ function Testmod() {
                                        <div className="col-12 form-group mb-0"><button className="th-btn">Post Review <i className="far fa-arrow-right ms-1"></i></button></div>
                                     </div>
                                  </div> */}
+                                 </div>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <div className="col-xxl-3 col-lg-4">
-                  <BookFreeDemo/>
-               </div>
             </div>
-         </div>
-      </section>
-      <div className="cta-area-1">
-         <div className="container">
-            <div className="row align-items-right justify-content-between">
-               <div className="col-lg-12">
-                  <div className="cta-wrap title-area mb-0">
-                     
-                     <div className="cta-content">
-                        <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
-                        
+         </section>
+         <div className="cta-area-1">
+            <div className="container">
+               <div className="row align-items-right justify-content-between">
+                  <div className="col-lg-12">
+                     <div className="cta-wrap title-area mb-0">
+
+                        <div className="cta-content">
+                           <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
+
+                        </div>
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
-                     <Link to="/contactus"  className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                     <Modal
+                        style
+                        isOpen={isOpen}
+                        onEscape={() => {
+                           setIsOpen(false)
+                        }}
+                        onOverlayClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <BookFreeDemo />
+                        <button
+                           style={{
+                              position: "absolute",
+                              top: 30,
+                              right: 30,
+                              zIndex: 101,
+                              background: "none",
+                              border: "none",
+                              color: "black",
+                              fontSize: 30
+                           }}
+                           onClick={() => {
+                              setIsOpen(false)
+                           }}
+                        >
+                           <i class="fa-solid fa-circle-xmark"></i>
+                        </button>
+                     </Modal>
                   </div>
                </div>
             </div>
+
          </div>
-        
-      </div>
-    </>
-  )
+      </>
+   )
 }
 
 export default Testmod
