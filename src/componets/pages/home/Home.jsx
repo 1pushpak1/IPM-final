@@ -4,6 +4,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"
 import { Carousel } from 'react-responsive-carousel'
 import Banner from './Banner'
 import { Link } from 'react-router-dom';
+import { Modal } from '@weahead/react-customizable-modal-vite'
+import Contact from '../contactus/Contact.jsx'
 function Home() {
    return (
       <>
