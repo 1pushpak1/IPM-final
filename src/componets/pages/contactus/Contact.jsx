@@ -29,32 +29,34 @@ function Contact() {
             <div className="row">
                <div className="col-xl-5 mb-30 mb-xl-0">
                   <div className="me-xxl-5 mt-40">
+                  <div className="img1"><img src="assets/img/normal/achivers.jpg" alt="img" /></div>
                      <div className="title-area mb-25">
-                        <h2 className="border-title h3">Have Any Questions?</h2>
+                        <h2 className="border-title h3"> Book a Consultation</h2>
                      </div>
-                     <p className="mt-n2 mb-25">Have a inquiry or some feedback for us? Fill out the form<br/>below to contact our team.</p>
-                     <div className="contact-feature">
+                     <p className="mt-n2 mb-25">Have a dream college that you want to get into, but confused with the process? No worries.</p>
+                     <p>Book a consultation with us today and we will get back to you within 2 hours.</p>
+                     {/* <div className="contact-feature">
                         <div className="contact-feature-icon"><i className="fal fa-location-dot"></i></div>
                         <div className="media-body">
                            <p className="contact-feature_label">Our Address</p>
                            <a href="https://www.google.com/maps" target='_blank' className="contact-feature_link">147/I, Green Road, Noida</a>
                         </div>
-                     </div>
-                     <div className="contact-feature">
+                     </div> */}
+                     {/* <div className="contact-feature">
                         <div className="contact-feature-icon"><i className="fal fa-phone"></i></div>
                         <div className="media-body">
                            <p className="contact-feature_label">Phone Number</p>
-                           {/* <a href="tel:+011456586986" className="contact-feature_link">Mobile:<span>+91-99100 88661</span></a>  */}
+                           <a href="tel:+011456586986" className="contact-feature_link">Mobile:<span>+91-99100 88661</span></a> 
                            <a href="tel:+91-99100 88661" className="contact-feature_link">Phone: <span>+91-99100 88661</span></a>
                         </div>
-                     </div>
-                     <div className="contact-feature">
+                     </div> */}
+                     {/* <div className="contact-feature">
                         <div className="contact-feature-icon"><i className="fal fa-clock"></i></div>
                         <div className="media-body">
                            <p className="contact-feature_label">Hours of Operation</p>
                            <span className="contact-feature_link">Monday - Friday: 09:00 - 20:00</span> <span className="contact-feature_link">Sunday & Saturday: 10:30 - 22:00</span>
                         </div>
-                     </div>
+                     </div> */}
                   </div>
                </div>
                <div className="col-xl-7">
