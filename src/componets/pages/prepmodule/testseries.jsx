@@ -21,13 +21,98 @@ function Testseries() {
                </div>
             </div>
          </div>
-         <section>
+
          <div className="container">
                   <div className="row">
                      <div className="col-xxl-9 col-lg-12">
                         <div className="course-single">
                            <div className="course-single-bottom">
                               
+                              <div className="tab-content" id="productTabContent">
+                                 <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
+
+                                    <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 1.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Premium Mentorship</h5>
+                                                <h6>One-To-One</h6>
+                                                <p></p>
+                                                <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course2.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Premium Mentorship  </h5>
+                                                <h6 >Premium 40</h6>
+                                                {/* // <div className="course-meta"><span><i className="fal fa-file"></i>10 Weeks</span> <span><i className="fal fa-user"></i>Students 50+</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
+                                                <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 2.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Premium Mentorship </h5>
+                                                <h6>(Ranker's Program)</h6>
+                                                <div className="btn-group mt-40"><Link to="/prep-module" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/prep-module" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+
+                                    </div>
+                                 </div>
+                                 <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
+
+
+                                    <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 3.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Achievers' Mentorship Program </h5>
+                                                <h6>(For Class 11)</h6>
+                                                <div className="btn-group mt-40"><Link to="/achivers" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/achivers" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 4.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Masters' Mentorship Program</h5>
+                                                <h6>(For Class 12)</h6>
+                                                <div className="btn-group mt-40"><Link to="/master" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 5.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Speedesters Mentorship Program </h5>
+                                                <h6>(Six-Month Program)</h6>
+                                                <div className="btn-group mt-40"><Link to="/master" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/master" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+
+                                    </div>
+
+
+
+                                 </div>
                                  <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
                                     <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
                                        <div className="col-md-6 col-lg-4">
@@ -36,7 +121,7 @@ function Testseries() {
                                              <div className="course-content">
 
                                                 <h5 className="course-title">Pocket Test-Series</h5>
-                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                                <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                                              </div>
                                           </div>
                                        </div>
@@ -46,7 +131,7 @@ function Testseries() {
                                              <div className="course-content">
 
                                                 <h5 className="course-title">Prime  Test-Series</h5>
-                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                                <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                                              </div>
                                           </div>
                                        </div>
@@ -56,7 +141,7 @@ function Testseries() {
                                              <div className="course-content">
 
                                                 <h5 className="course-title">Premium Test-Series</h5>
-                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                                <div className="btn-group mt-40"><Link to="/testmod" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/testmod" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
                                              </div>
                                           </div>
                                        </div>
@@ -65,16 +150,42 @@ function Testseries() {
 
                                  </div>
 
-                                 
+                                 <div className="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
+
+                                    <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 9.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">MockTest Mentorship</h5>
+                                                <div className="btn-group mt-40"><Link to="/testseries" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 10.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Short Term Courses </h5>
+                                                <div className="btn-group mt-40"><Link to="/short" className="th-btn">More<i className="fa-regular fa-arrow-right ms-2"></i></Link><Link to="/short" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
-              
-        
+               </div>
+           
+      
 
-        
+         <section>
             <div className="container">
                <div className="row">
                   <div>
