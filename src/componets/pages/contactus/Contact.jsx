@@ -29,13 +29,11 @@ function Contact() {
             <div className="row">
                <div className="col-xl-5 mb-30 mb-xl-0">
                   <div className="me-xxl-5 mt-40">
-                  <div className="title-area ">
-                        <h5 className="border-title h5"> Book a Consultation</h5>
-                     </div>
+                 
                   <div className="img1"><img src="assets/img/icon/book-consultation.svg" alt="img" /></div>
                   <div className="space-top"></div>
-                     <div className="title-area mb-25">
-                        <h2 className="border-title h3"> Empower your IPMAT prep Journey.....</h2>
+                     <div className="title-area ">
+                        <h4 className="border-title h4"> Empower your IPMAT prep Journey.....</h4>
                      </div>
                      <p className="mt-n2 mb-25">Have a dream college that you want to get into, but confused with the process? No worries.</p>
                      <p>Book a consultation with us today and we will get back to you within 2 hours.</p>
