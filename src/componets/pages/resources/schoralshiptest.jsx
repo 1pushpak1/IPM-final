@@ -1,8 +1,11 @@
-import React from 'react'
+import {React, useState} from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'
+import { Modal } from '@weahead/react-customizable-modal-vite'
+import Contact from '../contactus/Contact.jsx'
 
 function Scholarshiptest() {
+   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
    
@@ -43,8 +46,37 @@ function Scholarshiptest() {
 <h5 align="center">A CHANCE TO WIN UPTO 80% SCHOLARSHIP !!!!</h5>{'\n'}
 <p align='center' >  Enroll in the All India Prime Scholarship Test and claim your seat and also an opportunity to win scholarship up-to 80% </p>
 
-<div className="btn-group mt-40"><Link to="/scholarship" className="th-btn">Enroll For The Scholarship Test<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
-
+<div className="btn-group mt-40"><button onClick={() => { setIsOpen(true) }} className="th-btn">Enroll For The Scholarship Test<i className="fa-regular fa-arrow-right ms-2"></i></button></div>
+<Modal
+                     isOpen={isOpen}
+                     onEscape={() => {
+                        setIsOpen(false)
+                     }}
+                     onOverlayClick={() => {
+                        setIsOpen(false)
+                     }}
+                  >
+                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                        <Contact />
+                     </div>
+                     <button
+                        style={{
+                           position: "absolute",
+                           top: 30,
+                           right: 30,
+                           zIndex: 101,
+                           background: "none",
+                           border: "none",
+                           color: "black",
+                           fontSize: 30
+                        }}
+                        onClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <i class="fa-solid fa-circle-xmark"></i>
+                     </button>
+                  </Modal>
                                 
                               </div>
                            </div>
