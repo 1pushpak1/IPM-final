@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Contact() {
   return (
     <>
-    <div className="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-bg.jpg" data-overlay="title" data-opacity="8">
+    {/* <div className="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-bg.jpg" data-overlay="title" data-opacity="8">
          <div className="breadcumb-shape" data-bg-src="assets/img/bg/breadcumb_shape_1_1.png"></div>
          <div className="shape-mockup breadcumb-shape2 jump d-lg-block d-none" data-right="30px" data-bottom="30px"><img src="assets/img/bg/breadcumb_shape_1_2.png" alt="shape" /></div>
          <div className="shape-mockup breadcumb-shape3 jump-reverse d-lg-block d-none" data-left="50px" data-bottom="80px"><img src="assets/img/bg/breadcumb_shape_1_3.png" alt="shape" /></div>
@@ -18,7 +18,7 @@ function Contact() {
                </ul>
             </div>
          </div>
-      </div>
+      </div> */}
       <div className="space" id="contact-sec">
          <div className="container">
             {/* <div className="map-sec">
@@ -29,7 +29,7 @@ function Contact() {
             <div className="row">
                <div className="col-xl-5 mb-30 mb-xl-0">
                   <div className="me-xxl-5 mt-40">
-                  <div className="img1"><img src="assets/img/normal/achivers.jpg" alt="img" /></div>
+                  <div className="img1"><img src="assets/img/icon/book-consultation.svg" alt="img" /></div>
                      <div className="title-area mb-25">
                         <h2 className="border-title h3"> Book a Consultation</h2>
                      </div>
