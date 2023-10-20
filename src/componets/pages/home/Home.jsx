@@ -250,8 +250,7 @@ function Home() {
 
                         </div>
                         <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
-                     </div>
-                     <Modal
+                        <Modal
                      isOpen={isOpen}
                      onEscape={() => {
                         setIsOpen(false)
@@ -281,6 +280,8 @@ function Home() {
                         <i class="fa-solid fa-circle-xmark"></i>
                      </button>
                   </Modal>
+                     </div>
+                    
                   </div>
                </div>
             </div>
@@ -394,56 +395,6 @@ function Home() {
                      <p className="cta-text">Join Us on 21st Sep 2023</p>
                   </div>
                   <div className="btn-group justify-content-center"><button onClick={() => { setIsOpen(true) }} className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></button> <Link to="/scholarshiptest" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
-               </div>
-               <Modal
-                     isOpen={isOpen}
-                     onEscape={() => {
-                        setIsOpen(false)
-                     }}
-                     onOverlayClick={() => {
-                        setIsOpen(false)
-                     }}
-                  >
-                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
-                        <Contact />
-                     </div>
-                     <button
-                        style={{
-                           position: "absolute",
-                           top: 30,
-                           right: 30,
-                           zIndex: 101,
-                           background: "none",
-                           border: "none",
-                           color: "black",
-                           fontSize: 30
-                        }}
-                        onClick={() => {
-                           setIsOpen(false)
-                        }}
-                     >
-                        <i class="fa-solid fa-circle-xmark"></i>
-                     </button>
-                  </Modal>
-            </div>
-         </section>
-         <div className="team-area overflow-hidden space" id="team-sec">
-            <div className="shape-mockup team-bg-shape1 jump-reverse d-xxl-block d-none" data-left="-2%" data-top="0"><img src="assets/img/team/team-shape_1_1.png" alt="img" /></div>
-            <div className="shape-mockup team-bg-shape2 jump d-xxl-block d-none" data-left="40%" data-top="20%"><img src="assets/img/team/team-shape_1_2.png" alt="img" /></div>
-            <div className="shape-mockup team-bg-shape3 jump" data-left="5%" data-bottom="9%"><img src="assets/img/team/team-shape_1_3.png" alt="img" /></div>
-            <div className="shape-mockup team-bg-shape4 spin" data-left="40%" data-bottom="20%"><img src="assets/img/team/team-shape_1_4.png" alt="img" /></div>
-            <div className="shape-mockup team-bg-shape5 jump d-lg-block d-none" data-right="-7%" data-top="10%"><img src="assets/img/team/team-shape_1_5.png" alt="img" /></div>
-            <div className="container">
-               <div className="row align-items-center">
-                  <div className="col-xl-6 mb-40 mb-xl-0">
-                     <div className="title-area mb-30">
-                        <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructors</span>
-                        <h2 className="sec-title">Meet Our Expert Mentors</h2>
-                        <p className="sec-text mt-20">Team IPM PRIME is here with One-To-One Mentorship Sessions, Personalized Study Plan & Continious Remedial Classes to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
-                        <p className="sec-text">You are ready to ACE any test!!</p>
-                     </div>
-                     <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <button onClick={() => { setIsOpen(true) }} className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></button></div>
-                  </div>
                   <Modal
                      isOpen={isOpen}
                      onEscape={() => {
@@ -474,6 +425,58 @@ function Home() {
                         <i class="fa-solid fa-circle-xmark"></i>
                      </button>
                   </Modal>
+               </div>
+               
+            </div>
+         </section>
+         <div className="team-area overflow-hidden space" id="team-sec">
+            <div className="shape-mockup team-bg-shape1 jump-reverse d-xxl-block d-none" data-left="-2%" data-top="0"><img src="assets/img/team/team-shape_1_1.png" alt="img" /></div>
+            <div className="shape-mockup team-bg-shape2 jump d-xxl-block d-none" data-left="40%" data-top="20%"><img src="assets/img/team/team-shape_1_2.png" alt="img" /></div>
+            <div className="shape-mockup team-bg-shape3 jump" data-left="5%" data-bottom="9%"><img src="assets/img/team/team-shape_1_3.png" alt="img" /></div>
+            <div className="shape-mockup team-bg-shape4 spin" data-left="40%" data-bottom="20%"><img src="assets/img/team/team-shape_1_4.png" alt="img" /></div>
+            <div className="shape-mockup team-bg-shape5 jump d-lg-block d-none" data-right="-7%" data-top="10%"><img src="assets/img/team/team-shape_1_5.png" alt="img" /></div>
+            <div className="container">
+               <div className="row align-items-center">
+                  <div className="col-xl-6 mb-40 mb-xl-0">
+                     <div className="title-area mb-30">
+                        <span className="sub-title"><i className="fal fa-book me-2"></i> Our Instructors</span>
+                        <h2 className="sec-title">Meet Our Expert Mentors</h2>
+                        <p className="sec-text mt-20">Team IPM PRIME is here with One-To-One Mentorship Sessions, Personalized Study Plan & Continious Remedial Classes to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
+                        <p className="sec-text">You are ready to ACE any test!!</p>
+                     </div>
+                     <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <button onClick={() => { setIsOpen(true) }} className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></button></div>
+                     <Modal
+                     isOpen={isOpen}
+                     onEscape={() => {
+                        setIsOpen(false)
+                     }}
+                     onOverlayClick={() => {
+                        setIsOpen(false)
+                     }}
+                  >
+                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                        <Contact />
+                     </div>
+                     <button
+                        style={{
+                           position: "absolute",
+                           top: 30,
+                           right: 30,
+                           zIndex: 101,
+                           background: "none",
+                           border: "none",
+                           color: "black",
+                           fontSize: 30
+                        }}
+                        onClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <i class="fa-solid fa-circle-xmark"></i>
+                     </button>
+                  </Modal>
+                  </div>
+               
                   <div className="col-xl-3 col-md-6">
                      <div className="team-card team-card-1-1 team-card-1-1-active mt-0">
                         <div className="team-img-wrap">
