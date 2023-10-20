@@ -21,7 +21,7 @@ function Testseries() {
                </div>
             </div>
          </div>
-
+         <section>
          <div className="container">
                   <div className="row">
                      <div className="col-xxl-9 col-lg-12">
@@ -74,7 +74,7 @@ function Testseries() {
               
         
 
-         <section>
+        
             <div className="container">
                <div className="row">
                   <div>
