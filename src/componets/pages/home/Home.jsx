@@ -8,8 +8,39 @@ import { Modal } from '@weahead/react-customizable-modal-vite'
 import Contact from '../contactus/Contact.jsx'
 function Home() {
    const [isOpen, setIsOpen] = useState(false);
+   
    return (
       <>
+        <Modal
+                     isOpen={isOpen}
+                     onEscape={() => {
+                        setIsOpen(false)
+                     }}
+                     onOverlayClick={() => {
+                        setIsOpen(false)
+                     }}
+                  >
+                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                        <Contact />
+                     </div>
+                     <button
+                        style={{
+                           position: "absolute",
+                           top: 30,
+                           right: 30,
+                           zIndex: 101,
+                           background: "none",
+                           border: "none",
+                           color: "black",
+                           fontSize: 30
+                        }}
+                        onClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <i class="fa-solid fa-circle-xmark"></i>
+                     </button>
+                  </Modal>
          <Banner />
          <div className="space overflow-hidden" id="about-sec">
             <div className="container">
@@ -251,36 +282,7 @@ function Home() {
                         </div>
                         <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
-                     <Modal
-                     isOpen={isOpen}
-                     onEscape={() => {
-                        setIsOpen(false)
-                     }}
-                     onOverlayClick={() => {
-                        setIsOpen(false)
-                     }}
-                  >
-                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
-                        <Contact />
-                     </div>
-                     <button
-                        style={{
-                           position: "absolute",
-                           top: 30,
-                           right: 30,
-                           zIndex: 101,
-                           background: "none",
-                           border: "none",
-                           color: "black",
-                           fontSize: 30
-                        }}
-                        onClick={() => {
-                           setIsOpen(false)
-                        }}
-                     >
-                        <i class="fa-solid fa-circle-xmark"></i>
-                     </button>
-                  </Modal>
+                    
                   </div>
                </div>
             </div>
@@ -395,36 +397,7 @@ function Home() {
                   </div>
                   <div className="btn-group justify-content-center"><button onClick={() => { setIsOpen(true) }} className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></button> <Link to="/scholarshiptest" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
                </div>
-               <Modal
-                     isOpen={isOpen}
-                     onEscape={() => {
-                        setIsOpen(false)
-                     }}
-                     onOverlayClick={() => {
-                        setIsOpen(false)
-                     }}
-                  >
-                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
-                        <Contact />
-                     </div>
-                     <button
-                        style={{
-                           position: "absolute",
-                           top: 30,
-                           right: 30,
-                           zIndex: 101,
-                           background: "none",
-                           border: "none",
-                           color: "black",
-                           fontSize: 30
-                        }}
-                        onClick={() => {
-                           setIsOpen(false)
-                        }}
-                     >
-                        <i class="fa-solid fa-circle-xmark"></i>
-                     </button>
-                  </Modal>
+              
             </div>
          </section>
          <div className="team-area overflow-hidden space" id="team-sec">
@@ -444,36 +417,7 @@ function Home() {
                      </div>
                      <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <button onClick={() => { setIsOpen(true) }} className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></button></div>
                   </div>
-                  <Modal
-                     isOpen={isOpen}
-                     onEscape={() => {
-                        setIsOpen(false)
-                     }}
-                     onOverlayClick={() => {
-                        setIsOpen(false)
-                     }}
-                  >
-                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
-                        <Contact />
-                     </div>
-                     <button
-                        style={{
-                           position: "absolute",
-                           top: 30,
-                           right: 30,
-                           zIndex: 101,
-                           background: "none",
-                           border: "none",
-                           color: "black",
-                           fontSize: 30
-                        }}
-                        onClick={() => {
-                           setIsOpen(false)
-                        }}
-                     >
-                        <i class="fa-solid fa-circle-xmark"></i>
-                     </button>
-                  </Modal>
+                  
                   <div className="col-xl-3 col-md-6">
                      <div className="team-card team-card-1-1 team-card-1-1-active mt-0">
                         <div className="team-img-wrap">
