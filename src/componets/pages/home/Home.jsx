@@ -249,7 +249,7 @@ function Home() {
                            <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
 
                         </div>
-                        <button className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
                      <Modal
                      isOpen={isOpen}
