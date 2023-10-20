@@ -29,8 +29,8 @@ function Contact() {
             <div className="row">
                <div className="col-xl-5 mb-30 mb-xl-0">
                   <div className="me-xxl-5 mt-40">
-                  <div className="title-area mb-25">
-                        <h2 className="border-title h3"> Book a Consultation</h2>
+                  <div className="title-area ">
+                        <h5 className="border-title h5"> Book a Consultation</h5>
                      </div>
                   <div className="img1"><img src="assets/img/icon/book-consultation.svg" alt="img" /></div>
                   <div className="space-top"></div>
