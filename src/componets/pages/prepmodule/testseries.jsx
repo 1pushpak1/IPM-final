@@ -22,7 +22,57 @@ function Testseries() {
             </div>
          </div>
 
+         <div className="container">
+                  <div className="row">
+                     <div className="col-xxl-9 col-lg-12">
+                        <div className="course-single">
+                           <div className="course-single-bottom">
+                              
+                                 <div className="tab-pane fade" id="instructor" role="tabpanel" aria-labelledby="instructor-tab">
+                                    <div className="row slider-shadow th-carousel course-slider-1" data-slide-show="4" data-ml-slide-show="3" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="1" data-arrows="true">
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 6.png" alt="img" />  </div>
+                                             <div className="course-content">
 
+                                                <h5 className="course-title">Pocket Test-Series</h5>
+                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 7.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Prime  Test-Series</h5>
+                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div className="col-md-6 col-lg-4">
+                                          <div className="course-box">
+                                             <div className="course-img"><img src="assets/img/course/Course 8.png" alt="img" />  </div>
+                                             <div className="course-content">
+
+                                                <h5 className="course-title">Premium Test-Series</h5>
+                                                <div className="btn-group mt-40"><a href="https://www.primeacademy.app/login" className="th-btn">Free Mock Test<i className="fa-regular fa-arrow-right ms-2"></i></a><Link to="/" className="th-btn">Enroll Now<i className="fa-regular fa-arrow-right ms-2"></i></Link></div>
+                                             </div>
+                                          </div>
+                                       </div>
+
+                                    </div>
+
+                                 </div>
+
+                                 
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+              
+        
 
          <section>
             <div className="container">
