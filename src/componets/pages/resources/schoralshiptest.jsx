@@ -34,16 +34,16 @@ function Scholarshiptest() {
                         <div className="tab-content" id="productTabContent">
                            <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                               <div className="course-description">
-                                 <h5 align='center' className="h5">All India PRIME SCHOLARSHIP TEST</h5>{'\n'}
+                                 <h5 align='center' className="h5">All India PRIME SCHOLARSHIP TEST</h5>{'\n'}{'\n'}{'\n'}{'\n'}
                                  {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
                                  <div><h5 align='center' >    The Expert in ANYTHING 
                                     Was once a BEGINNER !!!
-</h5></div> {'\n'}
-                                    <p align='center'><b>Get into IIM right after Class 12th</b></p>{'\n'}{'\n'}
+</h5></div> {'\n'}{'\n'}{'\n'}
+                                    <p align='center'><b>Get into IIM right after Class 12th</b></p>{'\n'}{'\n'}{'\n'}{'\n'}
                                     <h6 align='center'>ARE YOU in CLASS 10th, 11th or 12Th? and Planning to take the IPM-AT Entrance for admission to IIMs?</h6>{'\n'}
                                     <p align='center'>Prepare for IPM-AT with IPM Prime’s most trusted PREMIUM MENTORSHIP PROGRAM !!!{'\n'}
-</p>{'\n'}{'\n'}
-<h5 align="center">A CHANCE TO WIN UPTO 80% SCHOLARSHIP !!!!</h5>{'\n'}
+</p>{'\n'}{'\n'}{'\n'}{'\n'}
+<h5 align="center">A CHANCE TO WIN UPTO 80% SCHOLARSHIP !!!!</h5>{'\n'}{'\n'}{'\n'}
 <p align='center' >  Enroll in the All India Prime Scholarship Test and claim your seat and also an opportunity to win scholarship up-to 80% </p>
 
 <div className="btn-group mt-40"><button onClick={() => { setIsOpen(true) }} className="th-btn">Enroll For The Scholarship Test<i className="fa-regular fa-arrow-right ms-2"></i></button></div>
