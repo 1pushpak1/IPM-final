@@ -1,12 +1,46 @@
-import { React, Component } from 'react'
+import { React, Component , useState} from 'react'
 import ReactDOM from 'react-dom'
 import "react-responsive-carousel/lib/styles/carousel.min.css"
 import { Carousel } from 'react-responsive-carousel'
 import Banner from './Banner'
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'
+import { Modal } from '@weahead/react-customizable-modal-vite'
+import Contact from '../contactus/Contact.jsx'
 function Home() {
+   const [isOpen, setIsOpen] = useState(false);
+   
    return (
       <>
+        <Modal
+                     isOpen={isOpen}
+                     onEscape={() => {
+                        setIsOpen(false)
+                     }}
+                     onOverlayClick={() => {
+                        setIsOpen(false)
+                     }}
+                  >
+                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                        <Contact />
+                     </div>
+                     <button
+                        style={{
+                           position: "absolute",
+                           top: 30,
+                           right: 30,
+                           zIndex: 101,
+                           background: "none",
+                           border: "none",
+                           color: "black",
+                           fontSize: 30
+                        }}
+                        onClick={() => {
+                           setIsOpen(false)
+                        }}
+                     >
+                        <i class="fa-solid fa-circle-xmark"></i>
+                     </button>
+                  </Modal>
          <Banner />
          <div className="space overflow-hidden" id="about-sec">
             <div className="container">
@@ -246,8 +280,9 @@ function Home() {
                            <h2 className="cta-title sec-title">Get Personalized Mentorship Program</h2>
 
                         </div>
-                        <Link to="/contactus" className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></Link>
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
+                    
                   </div>
                </div>
             </div>
@@ -360,8 +395,9 @@ function Home() {
                      <h2 className="sec-title text-white">ALL INDIA PRIME <span className="text-theme2">SCHOLARSHIP</span> TEST<br /><span className="fw-normal">Get upto 80% Scholarship</span></h2>
                      <p className="cta-text">Join Us on 21st Sep 2023</p>
                   </div>
-                  <div className="btn-group justify-content-center"><Link to="/contactus" className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></Link> <Link to="/scholarshiptest" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
+                  <div className="btn-group justify-content-center"><button onClick={() => { setIsOpen(true) }} className="th-btn style3">Book a Counselling Session<i className="fas fa-arrow-right ms-2"></i></button> <Link to="/scholarshiptest" className="th-btn style2">Register For Test<i className="fas fa-arrow-right ms-2"></i></Link></div>
                </div>
+              
             </div>
          </section>
          <div className="team-area overflow-hidden space" id="team-sec">
@@ -379,8 +415,9 @@ function Home() {
                         <p className="sec-text mt-20">Team IPM PRIME is here with One-To-One Mentorship Sessions, Personalized Study Plan & Continious Remedial Classes to make you work on your weaknesses in the most effective manner and at the same time make your strangths sharpened with proven methodologies and believe us</p>
                         <p className="sec-text">You are ready to ACE any test!!</p>
                      </div>
-                     <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <a href="/contactus" className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></a></div>
+                     <div className="btn-group mt-30"><a href="#" className="th-btn">Explore Courses<i className="fas fa-arrow-right ms-2"></i></a> <button onClick={() => { setIsOpen(true) }} className="th-btn style7">Speek to Mentor<i className="fas fa-arrow-right ms-2"></i></button></div>
                   </div>
+                  
                   <div className="col-xl-3 col-md-6">
                      <div className="team-card team-card-1-1 team-card-1-1-active mt-0">
                         <div className="team-img-wrap">
