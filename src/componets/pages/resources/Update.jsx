@@ -86,4 +86,4 @@ function Update() {
    )
 }
 
-export default Update
+export default Update;
