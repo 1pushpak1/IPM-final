@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes,  Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Home from '../componets/pages/home/Home'
 import Header from '../componets/common/Header'
 import Footer from '../componets/common/Footer'
@@ -50,62 +50,64 @@ import Blog from '../componets/pages/resources/blog'
 import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
 import Testseries from '../componets/pages/prepmodule/testseries'
 import Faq from '../componets/pages/resources/Faq'
+import Update from '../componets/pages/resources/Update'
 
 function Routers() {
   return (
     <>
-        <Header/>
-        <ScrollToTop/>
+      <Header />
+      <ScrollToTop />
 
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/prep-module" element={<PrepModule />} />
-                <Route path="/exams" element={<Exams />} />
-                <Route path="/exams1" element={<Exams1 />} />
-                <Route path="/exams2" element={<Exams2 />} />
-                <Route path="/exams3" element={<Exams3 />} />
-                <Route path="/exams4" element={<Exams4 />} />
-                <Route path="/exams5" element={<Exams5 />} />
-                <Route path="/exams6" element={<Exams6 />} />
-                <Route path="/exams7" element={<Exams7 />} />
-                <Route path="/exams8" element={<Exams8 />} />
-                <Route path="/exams9" element={<Exams9 />} />
-                <Route path="/exams10" element={<Exams10 />} />
-                {/* <Route path="/exams11" element={<Exam11/>}/> */}
-                <Route path="/master" element={<Master />} />
-                <Route path="/short" element={<Short />} />
-                <Route path="/testmod" element={<Test />} />
-                <Route path="/achivers" element={<Achivers />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/signup" element={<Signup />} />
-                <Route path="/contactus" element={<Contact />} />
-                <Route path="/about" element={<About/>} />
-                <Route path="/whyipm" element={<WhyIPM/>} />
-                <Route path="/iimindore" element={<Indore/>} />
-                <Route path="/christ" element={<Christ/>} />
-                <Route path="/bodhgaya" element={<Bodhgaya/>} />
-                <Route path="/devi" element={<Devi/>} />
-                <Route path="/du" element={<Du/>} />
-                <Route path="/indraprast" element={<Indraprast/>} />
-                <Route path="/jamia" element={<Jamia/>} />
-                <Route path="/jammu" element={<Jammu/>} />
-                <Route path="/nagpur" element={<Nagpur/>} />
-                <Route path="/nmims" element={<Nmims/>} />
-                <Route path="/ranchi" element={<Ranchi/>} />
-                <Route path="/rohtak" element={<Rohtak/>} />
-                <Route path="/symbiosis" element={<Symbiosis/>} />
-                <Route path="/upes" element={<Upes/>} />
-                <Route path="/calander" element={<Calander/>} />
-                <Route path="/analysis" element={<Analysis/>} />
-                <Route path="/scholarship" element={<Scholarship/>} />
-                <Route path="/news" element={<News/>} />
-                <Route path="/pattern" element={<Pattern/>} />
-                <Route path="/blog" element={<Blog/>} />
-                <Route path="/scholarshiptest" element={<Scholarshiptest/>} />
-                <Route path="/testseries" element={<Testseries/>} />
-                <Route path="/faq" element={<Faq/>}/>
-            </Routes>
-        <Footer/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/prep-module" element={<PrepModule />} />
+        <Route path="/exams" element={<Exams />} />
+        <Route path="/exams1" element={<Exams1 />} />
+        <Route path="/exams2" element={<Exams2 />} />
+        <Route path="/exams3" element={<Exams3 />} />
+        <Route path="/exams4" element={<Exams4 />} />
+        <Route path="/exams5" element={<Exams5 />} />
+        <Route path="/exams6" element={<Exams6 />} />
+        <Route path="/exams7" element={<Exams7 />} />
+        <Route path="/exams8" element={<Exams8 />} />
+        <Route path="/exams9" element={<Exams9 />} />
+        <Route path="/exams10" element={<Exams10 />} />
+        {/* <Route path="/exams11" element={<Exam11/>}/> */}
+        <Route path="/master" element={<Master />} />
+        <Route path="/short" element={<Short />} />
+        <Route path="/testmod" element={<Test />} />
+        <Route path="/achivers" element={<Achivers />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/contactus" element={<Contact />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/whyipm" element={<WhyIPM />} />
+        <Route path="/iimindore" element={<Indore />} />
+        <Route path="/christ" element={<Christ />} />
+        <Route path="/bodhgaya" element={<Bodhgaya />} />
+        <Route path="/devi" element={<Devi />} />
+        <Route path="/du" element={<Du />} />
+        <Route path="/indraprast" element={<Indraprast />} />
+        <Route path="/jamia" element={<Jamia />} />
+        <Route path="/jammu" element={<Jammu />} />
+        <Route path="/nagpur" element={<Nagpur />} />
+        <Route path="/nmims" element={<Nmims />} />
+        <Route path="/ranchi" element={<Ranchi />} />
+        <Route path="/rohtak" element={<Rohtak />} />
+        <Route path="/symbiosis" element={<Symbiosis />} />
+        <Route path="/upes" element={<Upes />} />
+        <Route path="/calander" element={<Calander />} />
+        <Route path="/analysis" element={<Analysis />} />
+        <Route path="/scholarship" element={<Scholarship />} />
+        <Route path="/news" element={<News />} />
+        <Route path="/pattern" element={<Pattern />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/scholarshiptest" element={<Scholarshiptest />} />
+        <Route path="/testseries" element={<Testseries />} />
+        <Route path="/faq" element={<Faq />} />
+        <Route path="/update" element={<Update />} />
+      </Routes>
+      <Footer />
     </>
   )
 }
