@@ -38,7 +38,7 @@ function ContactForm() {
                         <div className="form-group"><input type="subject" className="form-control style-white" name="subject" id="subject" placeholder="Subject*" required /> <i className="fal fa-book"></i></div>
                     </div>
                     <div className="col-md-6">
-                        <div className="form-group"><input type="tel" className="form-control style-white" name="number" id="number" placeholder="Phone Number*" required /> <i className="fal fa-phone"></i></div>
+                        <div className="form-group"><input type="tel" className="form-control style-white" name="phone" id="phone" placeholder="Phone Number*" required /> <i className="fal fa-phone"></i></div>
                     </div>
                     <div className="col-12">
                         <div className="form-group"><textarea name="message" id="message" cols="30" rows="3" className="form-control style-white" placeholder="Write Your Message*" required></textarea> <i className="fal fa-pen"></i></div>
