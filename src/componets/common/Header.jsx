@@ -88,7 +88,7 @@ function Header() {
                                        <li><Link to="/pattern" onClick={handleClose}>Exam Pattern </Link></li>
                                        <li><Link to="/calander" onClick={handleClose}>Exam Calander </Link></li>
                                        <li><Link to="/faq" onClick={handleClose}>FAQs </Link></li>
-                                       <li><Link to="https://blog.ipmprimetutorial.com/" onClick={handleClose}>Blogs </Link></li>
+                                       <li><Link to="https://blog.ipmprimetutorial.com/" target="blank" onClick={handleClose}>Blogs </Link></li>
                                        <li><Link to="/news" onClick={handleClose}>News & Events </Link></li>
                                        {/* <li><Link to="/exams4">IIM Jammu </Link></li> */}
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
@@ -211,7 +211,7 @@ function Header() {
                                        <li><Link to="/calander">Exam Calander </Link></li>
                                        
                                        <li><Link to="/faq">FAQs</Link></li>
-                                       <li><Link to="https://blog.ipmprimetutorial.com/">Blogs </Link></li>
+                                       <li><Link to="https://blog.ipmprimetutorial.com/" target="blank">Blogs </Link></li>
                                        <li><Link to="/news">News & Events </Link></li>   
                                        {/* <li><Link to="/exams5">IIM Nagpur </Link></li> */}
                                        </ul>
