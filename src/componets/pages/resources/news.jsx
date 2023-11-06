@@ -47,6 +47,19 @@ function News() {
                   <span className="sub-title"><i className="fal fa-book me-2"></i> News & Events</span>
                   <h2 className="sec-title">Stay Updated with your Prime-mate</h2>
                </div>
+
+
+
+               <ul className="nav course-tab" id="courseTab" role="tablist">
+                              <li className="nav-item" role="presentation"><a className="nav-link active" id="description-tab" data-bs-toggle="tab" href="#Coursedescription" role="tab" aria-controls="Coursedescription" aria-selected="true"><i className="fa-regular fa-bookmark"></i>News</a></li>
+                              <li className="nav-item" role="presentation"><a className="nav-link" id="curriculam-tab" data-bs-toggle="tab" href="#curriculam" role="tab" aria-controls="curriculam" aria-selected="false"><i className="fa-regular fa-book"></i>Events</a></li>
+                              {/* <li className="nav-item" role="presentation"><a className="nav-link" id="instructor-tab" data-bs-toggle="tab" href="#instructor" role="tab" aria-controls="instructor" aria-selected="false"><i className="fa-regular fa-user"></i>Your Mentors</a></li>
+                           <li className="nav-item" role="presentation"><a className="nav-link" id="reviews-tab" data-bs-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i className="fa-regular fa-star-sharp"></i>Testimonial</a></li> */}
+                           </ul>
+                           <div className="tab-content" id="productTabContent">
+                              <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
+
+
                <div className="row">
                   <div className="col-xl-12">
                      <div className="th-carousel testi-slider1 dot-style2 row" id="testimonial-slider1" data-slide-show="2" data-ml-slide-show="2" data-lg-slide-show="1" data-md-slide-show="1" data-dots="true" data-arrows="false">
@@ -92,8 +105,27 @@ function News() {
                         </div>
                      </div> */}
                      </div>
+                     </div>   
                   </div>
                </div>
+               <div className="tab-pane fade" id="curriculam" role="tabpanel" aria-labelledby="curriculam-tab">
+                                 <div className="course-curriculam">
+                                    <h5 className="h5">Stay Updates !! More on the way....</h5>
+                                    {/* <p className="mb-30">Grursus mal suada faci lisis Lorem ipsum dolarorit more ametion consectetur elit. Vesti at bulum nec odio aea the dumm ipsumm ipsum that dolocons rsus mal suada and fadolorit to the consectetur elit. All the Lorem Ipsum generators on the Internet tend to repeat that predefined chunks as necessary, making this the first true dummy generator on the Internet.</p> */}
+                                    {/* <div className="checklist mb-1">
+                                       <ul>
+                                          <li>Interactive One-to-One Sessions: Engaging and interactive sessions where aspirants can directly communicate with mentors, ask questions, and receive personal study plan. This feature fosters a dynamic learning environment.</li>
+                                          <li>Expert Mentors: Access to experienced mentors who have a strong background in the subject matter. They can provide insights, guidance, and personalized advice to help participants excel in their studies.</li>
+                                          <li>Curriculum Overview: A comprehensive overview of the curriculum and topics covered in the Achievers' Mentorship Batch. This helps participants understand what they can expect to learn and achieve during the mentorship program.</li>
+                                          <li>Study Resources: Provision of study materials, resources, and practice questions relevant to the mentorship batch. This can aid participants in their preparation and ensure they have the necessary tools to succeed.</li>
+                                          <li>Progress Assessment: An opportunity for aspirants to receive feedback on their progress and performance. This could include mock tests, assignments, and its detailed analysis that help participants gauge their prepration level and work on improvement over time.</li>
+                                           <li>How to set up and market events, using online tools</li>
+                                       <li>Adapt your performance techniques and manage your audience throughout</li> *
+                                       </ul>
+                                    </div> */}
+                                 </div>
+                              </div>
+                              </div>
             </div>
          </section>
          <div className="cta-area-1">
