@@ -22,9 +22,7 @@ function Faq() {
                            <div className="tab-content" id="productTabContent">
                               <div className="course-description">
 
-                                 <div className="title-area mb-4 mt-5">
-                                    {/* <h2 className="sec-title mb-0">Frequently Asked Question?</h2> */}
-                                 </div>
+                                 
                                  <div className="accordion-area accordion" id="faqAccordion">
                                     <div className="accordion-card">
                                        <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">How will the test be conducted?</button></div>
