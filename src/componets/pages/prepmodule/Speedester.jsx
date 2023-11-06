@@ -84,14 +84,14 @@ function Speedester() {
                                           </div>
                                        </div>
                                     </div>
-                                 <p><b>It’s NEVER too late !!! ……………..Start your preparation TODAY!</b></p>
-                                 <p>About SPEEDSTERS’ MENTORSHIP PROGRAM</p>
+                                 <p><b>It’s NEVER too late !!! ……………..Start your preparation TODAY!</b></p>&nbsp;
+                                 <p>About SPEEDSTERS’ MENTORSHIP PROGRAM</p>&nbsp;
                                  <p>
 Speedesters’ Mentorship Program is for those students who delayed their decision making process and are in the mind of the session in class 12th. This is a RIGOROUS MENTORSHIP PROGRAM of Six Months duration aimed at these 12 standard students who are already in the rush of their board exams and this is suitable to those students as well who planned to take a year drop for the preparation.
-</p>
-<p>So this is the golden opportunity for those students who delayed their decision but definitely do not want to let their preparation be affected with this delay. Join our exclusive mentorship batch today and make for the time lapse with the most effective Mentorship Program for serious aspirants.</p>
+</p>&nbsp;
+<p>So this is the golden opportunity for those students who delayed their decision but definitely do not want to let their preparation be affected with this delay. Join our exclusive mentorship batch today and make for the time lapse with the most effective Mentorship Program for serious aspirants.</p>&nbsp;
 <p>Our Innovative and Unique “Regular Mentorship Program” becomes a little more intensive in this short format and rest is the same as our Trusted Mentorship Program.</p>
-
+&nbsp;
 <div className="row mt-25">
                                        <div className="col-lg-6">
                                           <div className="checklist mb-4">
