@@ -13,7 +13,7 @@ function NewsCard({ description, author, date }) {
                 </div>
                 <div className="testi-box_bottom">
                     <div>
-                        <h3 className="testi-box_name">{author}</h3>
+                        <h3 color="#0000FF" className="testi-box_name">{author}</h3>
                         <span className="testi-box_desig">{date}</span>
                     </div>
                     {/* <div className="testi-box_review"><i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> <i className="fa-solid fa-star-sharp"></i> (4.7)</div> */}
