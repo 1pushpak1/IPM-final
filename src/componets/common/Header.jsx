@@ -32,7 +32,7 @@ function Header() {
                         <li><Link to="/master" onClick={handleClose}>Master's Mentorship Program </Link></li>
                         <li><Link to="/short" onClick={handleClose}>Short Mentorship Program </Link></li>
                         {/* <li><Link to="/testmod" onClick={handleClose}>Test Series Mentorship Program</Link></li> */}
-                        <li><Link to="/" onClick={handleClose}>Speedester's Mentorship Program</Link></li>
+                        <li><Link to="/speedester" onClick={handleClose}>Speedester's Mentorship Program</Link></li>
                         <li><Link to="/testmod" onClick={handleClose}>Mock Test Mentorship Program</Link></li>
                         <li><Link to="/testseries" onClick={handleClose}>IPM Prime Test Series</Link></li>
                      </ul>
@@ -154,7 +154,7 @@ function Header() {
                                        <li><Link to="/achivers">Achiver's Mentorship Program </Link></li>
                                        <li><Link to="/master">Master's Mentorship Program </Link></li>
                                        <li><Link to="/short">Short Mentorship Program </Link></li>
-                                       <li><Link to="/">Speedester's Mentorship Program</Link></li>
+                                       <li><Link to="/speedester">Speedester's Mentorship Program</Link></li>
                                        <li><Link to="/testmod">Mock Test Mentorship Program</Link></li>
                                        <li><Link to="/testseries">IPM Prime Test Series</Link></li>
                                        {/* <li><Link to="/">Test Series Mentorship Program</Link></li> */}

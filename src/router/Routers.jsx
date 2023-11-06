@@ -51,6 +51,7 @@ import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
 import Testseries from '../componets/pages/prepmodule/testseries'
 import Faq from '../componets/pages/resources/Faq'
 import Update from '../componets/pages/resources/Update'
+import Speedester from '../componets/pages/prepmodule/Speedester'
 
 function Routers() {
   return (
@@ -106,6 +107,7 @@ function Routers() {
         <Route path="/testseries" element={<Testseries />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/update" element={<Update />} />
+        <Route path="/speedester" element={<Speedester />} />
       </Routes>
       <Footer />
     </>
