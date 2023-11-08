@@ -29,7 +29,7 @@ function Exams9() {
                                 <div className="course-single-top">
                                     {/* <div className="course-img"><img src="assets/img/course/course-details.png" alt="Course Image" /> </div> */}
                                     {/* <div className="course-meta style2"><span><i className="fal fa-file"></i>Lesson 8</span> <span><i className="fal fa-chart-simple"></i>Beginner</span></div> */}
-                                    <h2 className="course-title">Five Year Integrated Programme in Management (IPM)</h2>
+                                    <h2 className="course-title">BMS/BFIA CUET</h2>
                                     <ul className="course-single-meta">
                                         {/* <li className="course-single-meta-author"><img src="assets/img/course/author2.png" alt="author" /> <span><span className="meta-title">Instructor: </span><a href="#">Max Alexix</a></span></li>
                            <li><span className="meta-title">Last Update: </span><a href="#">20 Jun, 2023</a></li> */}
@@ -38,86 +38,283 @@ function Exams9() {
                                 <div className="course-single-bottom">
                                     <div className="tab-content" id="productTabContent">
                                         <div className="course-description">
-                                            <h5 className="h5">ELIGIBILITY CRITERIA</h5>
-                                            <p>• Candidates should have passed 10+2 examination in arts/ commerce/ science stream or equivalent with 60% (55% for candidates from SC/ ST/ PwD/ Transgender).</p>
-                                            <p>• Candidates should have passed Standard XII/HSC or equivalent examination in 2021, and 2022 or appearing in 2023. The candidate must have passed the class 10th examination in the year not before 2019.                                </p>
-                                            <h5 className="h5 mt-40">SELECTION & ADMISSION PROCESS</h5>
-                                            <p>The criteria for preparing the merit list will be based on the composite score comprising the weightage of the JIPMAT score, and gender diversity as follows:</p>
-                                            <p>JIPMAT Score – 95% & Gender Diversity – 5%</p>
-                                            {/* <h5>Adminssion Weightage</h5>
-                                <p>Aptitude Test Score (ATS) – 65% AND Personal Interview (PI) – 35%</p> */}
-                                            <h5>IMPORTANT DATES</h5>
-                                            <p>Online Application starts from :06.04.2023</p>
-                                            <p>Last date for submitting online application: 30.04.2023</p>
-                                            <p>Exam Date : 28.05.2023</p>
-                                            <p></p>
-                                            <h5>EXAM PATTERN</h5>
+                                            <h5 className="h5">Understanding CUET</h5>
+                                            <p>Common University Entrance Test (CUET) is an all-India entrance exam conducted by the National Testing Agency (NTA) for admissions in undergraduate and postgraduate courses in different central and state universities in India including University of Delhi, BHU, and Allahabad University among others.</p>
+                                            <p>CUET 2023 will provide a single-window opportunity to students to seek admission in the Central Universities of their choice across the country. It is a golden opportunity to eliminate the non-uniform examination pattern and syllabus of different universities. It will not only allow students to choose any course irrespective of their streams in 10+2 but offer everyone an equal opportunity to seek admission in the university of their choice. The Central Universities Entrance Test will be conducted in almost 13 languages at around 154 exam centers around the country for academic year 2023 – 2024.</p>
                                             <table className="table table-striped table-hover">
                                                 <thead className='thead-dark'>
                                                     <tr>
-                                                        <th scope="col">Sr. NO.</th>
-                                                        <th scope="col">Secetion</th>
-                                                        <th scope="col">No Of Questions</th>
-                                                        <th scope="col">Marks</th>
+                                                        <th scope="col">Particulars</th>
+                                                        <th scope="col">Details</th>
+                                                        
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <th scope="row">1</th>
-                                                        <td>Quantitative Ability- MCQ</td>
-                                                        <td>33</td>
-                                                        <td>132</td>
+                                                        <th scope="row">Exam Name</th>
+                                                        <td>Common University Entrance Test(CUET)</td>
+                                                        
                                                     </tr>
                                                     <tr>
-                                                        <th scope="row">2</th>
-                                                        <td> Verbal Ability & Reading Comprehension</td>
-                                                        <td>34</td>
-                                                        <td>136</td>
+                                                        <th scope="row">Conducting Body</th>
+                                                        <td> 	National Testing Agency (NTA)</td>
+                                                        
                                                     </tr>
                                                     <tr>
-                                                        <th scope="row">3</th>
-                                                        <td>Data Interpretation & Logical Reasoning</td>
-                                                        <td>33</td>
-                                                        <td>132</td>
+                                                        <th scope="row">Frequency of the exam</th>
+                                                        <td>Once a year</td>
+                                                        
                                                     </tr>
                                                     <tr>
-                                                        <th scope="row">4</th>
-                                                        <td>Total</td>
-                                                        <td>100</td>
-                                                        <td>400</td>
+                                                        <th scope="row">Language in which the exam is conducted</th>
+                                                        <td>The Tests (other than “Language” Test) are offered in 13 languages i.e. Assamese, Bengali, English, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odiya, Punjabi, Tamil, Telugu and Urdu.</td>
+                                                        
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Total number of questions</th>
+                                                        <td>40 + 40 + 60 = 140 Questions</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Exam Duration</th>
+                                                        <td>45 min + 45 min + 60 min = 150 minutes (not necessarily in one sitting)</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Marking scheme</th>
+                                                        <td>(+5) for correct answer, (-) 1 for incorrect answer
+</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Selection Process</th>
+                                                        <td>Merit list will be prepared on the basis of CUET score. Admission will be given on the basis of merit list only.</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Contact Details</th>
+                                                        <td>Website - https://cuet.samarth.ac.in/, 
+Email - cuet-ug@nta.ac.in, 
+Phone - 011- 40759000 / 011-69227700
+</td>
+                                                        
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            &nbsp;
+                                            
+                                            <h5 className="h5 mt-40">CUET Qualification</h5>
+                                            <p>For BMS/BBA/BBE-FIA the eligibility criteria is as follows -</p>
+                                            <p>1. Any one language from List A + Mathematics + Section III of CUET (General Test)</p>
+                                            <p>2. Merit will be based on the CUET scores obtained from the above mentioned combination of subjects.</p>
+                                            &nbsp;
+                                            <table className="table table-striped table-hover">
+                                                <thead className='thead-dark'>
+                                                    <tr>
+                                                        <th scope="col">Courses</th>
+                                                        <th scope="col">Academic Qualification</th>
+                                                        
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <th scope="row">Undergraduate</th>
+                                                        <td>Minimum 50% marks in class 12th for General category candidates and 45% marks for SC/ST candidates</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Post Graduate</th>
+                                                        <td> 	Minimum of 55% (General category) and 50% (SC/ST/OBC/PWD category) in Graduation Degree.</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">PhD Programme</th>
+                                                        <td>Minimum of 55% marks for general candidates, 50% marks for OBC candidate and 45% marks for SC/ST/PWD candidate in PG.</td>
+                                                        
+                                                    </tr>
+                                                    </tbody>
+                                            </table>
+                                            &nbsp;
+                                            <h5 className="h5 mt-40">CUET Application Form</h5>
+                                            <p>Step 1 : Visit the official website of the CUET to fill the Form</p>
+                                            <p>Step 2 : Click on the ‘Apply Online’ tab to register for the program.</p>
+                                            <p>Step 3 : After clicking, candidates will be able to see three programmes options- UG, PG, and RP. Click on the link you wish to apply for.</p>
+                                            <p>Step 4 : Complete the registration process by entering details like program applied for, name, valid e-mail-id, mobile number, date of birth, and verification code displayed on the screen.</p>
+                                            <p>Step 5 : Once all details are submitted, the application number and password are generated and are sent to the registered email address and mobile number.</p>
+                                            <p>Step 6 : Use the application number and password to log in and fill up the application form by entering the log-in details like personal, academic qualification and communication address.</p>
+                                            <p>Step 7 : Upload scanned images of a recent passport-sized photograph and signature in prescribed format and dimensions.</p>
+                                            <p>Step 8 : Select the examination centres- In order of preference, select and enter the exam centres.</p>
+                                            <p>Step 9 : On successful online application submission with payment of fees through an automated e-mail and SMS is sent to the registered e-mail ID and mobile number.</p>
+                                            &nbsp;
 
-                                            <div className="title-area mb-4 mt-5">
-                                                <h2 className="sec-title mb-0">Frequently Asked Question?</h2>
-                                            </div>
-                                            <div className="accordion-area accordion" id="faqAccordion">
-                                                <div className="accordion-card">
-                                                    <div className="accordion-header" id="collapse-item-1"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">What Is The Duration Of The IPM Course At IIM Jammu?</button></div>
-                                                    <div id="collapse-1" className="accordion-collapse collapse" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                                                        <div className="accordion-body">
-                                                            <p className="faq-text">The Integrated Program in Management (IPM) course at IIM Jammu has a duration of 5 years. It is a full-time program that combines undergraduate and postgraduate studies in management.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div className="accordion-card active">
-                                                    <div className="accordion-header" id="collapse-item-2"><button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">What Is The Detailed Selection Process For Admission To The IPM Course At IIM Jammu?</button></div>
-                                                    <div id="collapse-2" className="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                                                        <div className="accordion-body">
-                                                            <p className="faq-text">The selection process for the IPM course at IIM Jammu typically consists of two stages. The first stage involves an Aptitude Test, which assesses the candidates' quantitative ability, verbal ability, and logical reasoning skills. The shortlisted candidates from the Aptitude Test then proceed to the second stage, which includes a Written Ability Test (WAT) and a Personal Interview (PI). The final selection is based on the candidates' performance in all these stages</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div className="accordion-card">
-                                                    <div className="accordion-header" id="collapse-item-3"><button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">What Are The Career Prospects After Completing The IPM Course At IIM Jammu?</button></div>
-                                                    <div id="collapse-3" className="accordion-collapse collapse" aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                                                        <div className="accordion-body">
-                                                            <p className="faq-text">Upon completion of the IPM course at IIM Jammu, graduates have a range of career options available to them. They can pursue managerial roles in various industries, such as finance, marketing, consulting, operations, and human resources. Some graduates may choose to start their own businesses or work in entrepreneurship-related roles. Additionally, the IPM course also provides a strong foundation for further academic pursuits like pursuing a Ph.D. or other advanced degrees in management.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+
+
+
+
+                                            <h5>CUET Application Fees</h5>
+                                             <p>CUET 2023 Application Fee can be paid by debit/credit card/net banking or Challan of SBI bank any branch. Candidates have to pay the application fee either online or offline mode. GST and other taxes will be applicable as by Govt. of India/ Bank. Check category-wise CUET 2023 Application Fee from the table.</p>
+                                             <p>Given below is the fee payable for UG course offered by University of Delhi</p>
+                                            <p>For centers within India -</p>
+                                            <p>1. (SLOT 1 9:00 AM - 12:15 PM)Up to 4 subjects - INR 650 for general, INR 600 for OBC and General EWS, INR 550 for SC/ST/Third Gender/PwBD</p>
+                                            <p>2. (SLOT 2 3:00 PM - 6:45 PM)Up to 5 subjects - INR 650 for general, INR 600 for OBC and General EWS, INR 550 for SC/ST/Third Gender/PwBD</p>
+                                            <p>For centers outside India -</p>
+                                            <p>1. SLOT 1- INR 3000</p>
+                                            <p>2. SLOT 2- INR 3000</p>
+                                            <p>Please note that processing charges and Good and Services Tax(GST) is to be paid by the candidate as applicable.</p>
+                                            &nbsp;
+                                            <h5>CUET Reservation</h5>
+                                            <p>Candidates taking the exam must be aware of CUET reservation policies to be eligible for lower application fees, category-wise cutoff scores, and discounted admission fees. In addition, they need to understand the percentage of reservations based on their categories. Candidates can refer to the table, which clarifies the CUET 2023 reservation requirements.</p>
+                                            <table className="table table-striped table-hover">
+                                                <thead className='thead-dark'>
+                                                    <tr>
+                                                        <th scope="col">Category</th>
+                                                        <th scope="col">Reservation</th>
+                                                        
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <th scope="row">Scheduled Castes (SC)</th>
+                                                        <td>15%</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Scheduled Tribes (ST)</th>
+                                                        <td>7.5%</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Other Backward Classes (Non-Creamy) (OBC)</th>
+                                                        <td>27%</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Persons with Disability (PWD)</th>
+                                                        <td>5%</td>
+                                                        
+                                                    </tr>
+                                                    </tbody>
+                                            </table>
+                                           
+                                               &nbsp;                                        
+                                           
+                                            <h5>CUET Exam Pattern</h5>
+                                            <p>NTA will also conduct CUET Exam in 13 languages ( Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Odiya, Bengali, Assamese, Punjabi, English, Hindi and Urdu).</p>
+                                            <table className="table table-striped table-hover">
+                                                <thead className='thead-dark'>
+                                                    <tr>
+                                                        <th scope="col">Section - Subject</th>
+                                                        <th scope="col">Total no. of questions</th>
+                                                        <th scope="col">No Of Questions to be attempted</th>
+                                                        <th scope="col">Duration for each section</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <th scope="row">Section 1-Language</th>
+                                                        <td>50</td>
+                                                        <td>40</td>
+                                                        <td>45 Min</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Section 2-Domain Specific</th>
+                                                        <td>50</td>
+                                                        <td>40</td>
+                                                        <td>45 Min</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Section 3-General Test</th>
+                                                        <td>75</td>
+                                                        <td>60</td>
+                                                        <td>60 Min</td>
+                                                    </tr>
+                                                    
+                                                </tbody>
+                                            </table>
+                                           
+                                           &nbsp;
+                                           <h5>CUET Syllabus</h5>
+                                           <table className="table table-striped table-hover">
+                                                <thead className='thead-dark'>
+                                                    <tr>
+                                                        <th scope="col">Subject</th>
+                                                        <th scope="col">Syllabus</th>
+                                                        {/* <th scope="col">No Of Questions to be attempted</th>
+                                                        <th scope="col">Duration for each section</th> */}
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <th scope="row">English Language</th>
+                                                        <td>
+                                                        <div className="col-md-auto">
+                                                                <div className="checklist">
+                                                                    <ul>
+                                                                    <li> Comprehension Passages- To test their understanding of a passage and its central theme, meanings of words used therein, etc</li>
+                                                                    <li> Fundamentals of grammar- incorrect sentences, filling blanks in sentences with appropriate words,</li>
+                                                                    <li> Vocabulary- synonyms, antonyms</li>
+
+
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Numerical Ability</th>
+                                                        <td>
+                                                            <div className="col-md-auto">
+                                                                <div className="checklist">
+                                                                    <ul>
+                                                                    <li> Areas like arithmetic</li>
+                                                                    <li> Number system</li>
+                                                                    <li> Basics of algebra</li>
+                                                                    <li> Modern maths</li>
+                                                                </ul>
+                                                                </div>
+                                                                </div>
+                                                        </td>
+                                                    
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">General Awareness and Current Affairs</th>
+                                                        <td><div className="col-md-auto">
+                                                                <div className="checklist">
+                                                                    <ul>
+                                                                   <li>Static general knowledge</li>
+                                                                   <li>Current Affairs (national & international current affairs)</li>
+                                                                </ul>
+                                                                </div>
+                                                                </div>
+                                                                </td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Logical & Analytical Reasoning</th>
+                                                        <td><div className="col-md-auto">
+                                                                <div className="checklist">
+                                                                    <ul>
+                                                                   <li>Syllogisms</li>
+                                                                    <li>Logical sequences</li>
+                                                                    <li>Analogies</li>
+                                                                    <li>Series</li>
+                                                                    <li>Directions</li>
+                                                                    <li>Cocks & calendars</li>
+                                                                    <li>Seating Arrangements</li>
+                                                                   <li>Puzzles</li>
+                                                                </ul>
+                                                                </div>
+                                                                </div>
+                                                                </td>
+                                                        
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            &nbsp;
+                                            <p>List of Domain subjects to choose from - Accountancy/ Book Keeping, Biology/ Biological Studies/ Biotechnology/Biochemistry, Business Studies, Chemistry, Computer Science/ Informatics Practices, Economics/ Business Economics, Engineering Graphics, Entrepreneurship, Geography/Geology, History, Home Science, Knowledge Tradition and Practices of India, Legal Studies, Environmental Science, Mathematics, Physical Education/ NCC /Yoga, Physics, Political Science, Psychology, Sociology, Teaching Aptitude, Agriculture, Mass Media/ Mass Communication, Anthropology, Fine Arts/ Visual Arts (Sculpture/ Painting)/Commercial Arts, Performing Arts – (i) Dance (Kathak/ Bharatnatyam/ Oddisi/ Kathakali/Kuchipudi/ Manipuri (ii) Drama- Theatre (iii) Music General (Hindustani/ Carnatic/ Rabindra Sangeet/ Percussion/ Non-Percussion)</p>
+                                            &nbsp;
                                             {/* 
                                 <h5 className="h5 mt-40">Certification</h5>
                                 <p>It is designed to validate the knowledge, skills, and competencies of individuals in a specific area of study or professional field. The certification program is meticulously designed to ensure that candidates have acquired a comprehensive understanding of the subject matter. It encompasses both theoretical knowledge and practical application, allowing candidates to demonstrate their expertise in real-world scenarios.</p> */}
