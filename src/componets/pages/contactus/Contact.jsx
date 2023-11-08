@@ -15,9 +15,9 @@ function Contact() {
                <div className="row">
                   <div className="col-xl-5 mb-30 mb-xl-0">
                      <div className="me-xxl-5 mt-40">
-                     <div className="wcu-img-1">
+                     {/* <div className="wcu-img-1"> */}
                         <div className="img1"><img src="assets/img/normal/att3.jpg" alt="img" /></div>
-                        </div>
+                        {/* </div> */}
                         <div className="title-area mb-25">
 
                            <h2 className="border-title h3">Book a Consultation</h2>
@@ -50,8 +50,7 @@ function Contact() {
                   </div>
                   <div className="col-xl-7">
                      <div className="contact-form-wrap" data-bg-src="assets/img/bg/contact_bg_1.png">
-                        <span className="sub-title">Get in Touch</span>
-                        
+                                                
                         {/* <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                         <ContactForm />
                      </div>
