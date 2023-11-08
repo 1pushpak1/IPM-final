@@ -1,5 +1,6 @@
 import { React, useState } from 'react'
 import BookFreeDemo from '../form/BookFreeDemo'
+import Contact from '../form/ContactForm'
 import { Link } from 'react-router-dom';
 import { Modal } from '@weahead/react-customizable-modal-vite'
 
