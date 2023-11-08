@@ -28,15 +28,15 @@ function Scholarshiptest() {
                            <div className="tab-content" id="productTabContent">
                               <div className="tab-pane fade show active" id="Coursedescription" role="tabpanel" aria-labelledby="description-tab">
                                  <div className="course-description">
-                                    <h3 align='center' className="h3">All India PRIME SCHOLARSHIP TEST</h3>{'\n'}
+                                    <h3 align='center' className="h3">All India PRIME SCHOLARSHIP TEST</h3>&nbsp;
                                     {/* <p>Professionally expedite synergistic technology without out-of-the-box human capital. Enthusiastically coordinate state of the art leadership after professional manufactured products. Distinctively enhance future-proof e-services whereas functionalized partnerships. Quickly streamline focused paradigms via orthogonal "outside the box" thinking. Rapidiously administrate 2.0 total linkage for cross-platform channels.</p> */}
                                     <div><h5 align='center' >    The Expert in ANYTHING
                                        Was once a BEGINNER !!!
-                                    </h5></div> {'\n'}
+                                    </h5></div>&nbsp;
                                     <p align='center'><b>Get into IIM right after Class 12th</b></p>&nbsp;
                                    
                                              
-                                             <p align='center'><b>Get into IIM right after Class 12th</b></p>&nbsp;
+                                             
                                              <h6 align='center'>ARE YOU in CLASS 10th, 11th or 12Th? and Planning to take the IPM-AT Entrance for admission to IIMs?</h6>&nbsp;
                                              <p align='center'>Prepare for IPM-AT with IPM Prime’s most trusted PREMIUM MENTORSHIP PROGRAM !!!&nbsp;
                                              </p>&nbsp;
