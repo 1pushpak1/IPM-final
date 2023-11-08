@@ -85,7 +85,7 @@ function Speedester() {
                                        </div>
                                     </div>
                                  <p><b>It’s NEVER too late !!! ……………..Start your preparation TODAY!</b></p>&nbsp;
-                                 <p>About SPEEDSTERS’ MENTORSHIP PROGRAM</p>&nbsp;
+                                 <h5>About SPEEDSTERS’ MENTORSHIP PROGRAM</h5>&nbsp;
                                  <p>
 Speedesters’ Mentorship Program is for those students who delayed their decision making process and are in the mind of the session in class 12th. This is a RIGOROUS MENTORSHIP PROGRAM of Six Months duration aimed at these 12 standard students who are already in the rush of their board exams and this is suitable to those students as well who planned to take a year drop for the preparation.
 </p>&nbsp;
