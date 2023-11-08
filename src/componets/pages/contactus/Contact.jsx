@@ -23,10 +23,10 @@ function Contact() {
                         <div className="title-area mb-25">
 
                            {/* <h3 className="border-title h4">Book a Consultation</h3> */}
-                           <h2 className="border-title h3">Book a Consultation</h2>
+                           <h2 className="border-title h3">Book a Session with Mentors</h2>
                         </div>
-                        <p className="mt-n2 mb-25">Have a dream college that you want to get into, but confused with the process? No worries.<br/>
-                        Book a consultation with us today and we will get back to you within 2 hours.</p>
+                        <p className="mt-n2 mb-25">Have a dream of joining IPM after "10+2" But Confused with the process! NO WORRIES!<br/>
+                        Book a consultation with your expert mentor today.</p>
                         {/* <div className="contact-feature">
                            <div className="contact-feature-icon"><i className="fal fa-location-dot"></i></div>
                            <div className="media-body">
