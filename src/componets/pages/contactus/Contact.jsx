@@ -18,8 +18,11 @@ function Contact() {
                      {/* <div className="wcu-img-1"> */}
 
                         <div className="mb-1 mx-auto" width="272px" height="214px"><img src="https://ik.imagekit.io/yhoez8no8al/admission/book-consultation-illustration.svg?tr=w-272,bl-6,f-avif" alt="img" /></div>
+                        {/* <div className="mb-2 mb-md-5 mx-auto" width="272px" height="214px"><img src="https://ik.imagekit.io/yhoez8no8al/admission/book-consultation-illustration.svg?tr=w-272,bl-6,f-avif" alt="img" /></div> */}
                         {/* </div> */}
                         <div className="title-area mb-25">
+
+                           {/* <h3 className="border-title h4">Book a Consultation</h3> */}
                            <h2 className="border-title h3">Book a Consultation</h2>
                         </div>
                         <p className="mt-n2 mb-25">Have a dream college that you want to get into, but confused with the process? No worries.<br/>
