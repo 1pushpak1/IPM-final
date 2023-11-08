@@ -16,7 +16,8 @@ function Contact() {
                   <div className="col-xl-5 mb-30 mb-xl-0">
                      <div className="me-xxl-5 mt-40">
                      {/* <div className="wcu-img-1"> */}
-                        <div className="img1"><img src="assets/img/normal/att3.jpg" alt="img" /></div>
+
+                        <div className="mb-2 mb-md-5 mx-auto" width="272px" height="214px"><img src="https://ik.imagekit.io/yhoez8no8al/admission/book-consultation-illustration.svg?tr=w-272,bl-6,f-avif" alt="img" /></div>
                         {/* </div> */}
                         <div className="title-area mb-25">
 
