@@ -42,10 +42,10 @@ function Banner() {
                         setIsOpen(false)
                      }}
                   >
-                     <div style={{ background: "white", padding: 10, marginRight: -10}}>
+                     <div style={{ background: "white", padding: 5, marginRight: -5}}>
                         <Contact />
                      </div>
-                     <button
+                     {/* <button
                         style={{
                            position: "absolute",
                            top: 30,
@@ -60,7 +60,7 @@ function Banner() {
                            setIsOpen(false)
                         }}
                      >
-                        </button>
+                        </button> */}
                   </Modal>
                   <div className="hero-shape shape1"><img src="assets/img/hero/shape_1_1.png" alt="shape" /></div>
                   <div className="hero-shape shape2"><img src="assets/img/hero/shape_1_2.png" alt="shape" /></div>
