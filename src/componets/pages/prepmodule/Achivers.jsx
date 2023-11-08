@@ -245,7 +245,7 @@ function Achivers() {
                            <h2 className=" footer-contact_link">Have Questions ? Call us : +91-99100 88661</h2>
 
                         </div>
-                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Book a Counselling Session<i className="fas fa-arrow-right ms-1"></i></button>
+                        <button onClick={() => { setIsOpen(true) }} className="th-btn style8">Enroll Now<i className="fas fa-arrow-right ms-1"></i></button>
                      </div>
                      <Modal
                         style
