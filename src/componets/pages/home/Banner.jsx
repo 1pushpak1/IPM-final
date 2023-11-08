@@ -42,7 +42,7 @@ function Banner() {
                         setIsOpen(false)
                      }}
                   >
-                     <div style={{ background: "white", padding: 5, marginRight: -5}}>
+                     <div style={{ background: "white", padding: 1, marginRight: -1}}>
                         <Contact />
                      </div>
                      {/* <button
