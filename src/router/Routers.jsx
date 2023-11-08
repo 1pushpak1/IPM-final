@@ -47,11 +47,12 @@ import Scholarship from '../componets/pages/home/Scholarship'
 import News from '../componets/pages/resources/news'
 import Pattern from '../componets/pages/resources/Pattern'
 import Blog from '../componets/pages/resources/blog'
-import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
+
 import Testseries from '../componets/pages/prepmodule/testseries'
 import Faq from '../componets/pages/resources/Faq'
 import Update from '../componets/pages/resources/Update'
 import Speedester from '../componets/pages/prepmodule/Speedester'
+import Scholarshiptest from '../componets/pages/resources/schoralshiptest'
 
 function Routers() {
   return (
