@@ -13,7 +13,7 @@ function Contact() {
                </div>
             </div> */}
                <div className="row">
-                  <div className="col-xl-3 mb-30 mb-xl-0">
+                  <div className="col-xl-4 mb-30 mb-xl-0">
                      <div className="me-xxl-5 mt-40">
                      {/* <div className="wcu-img-1"> */}
 
