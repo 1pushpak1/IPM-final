@@ -45,8 +45,8 @@ function Contact() {
                   </div>
                   <div className="col-xl-7">
                      <div className="contact-form-wrap" data-bg-src="assets/img/bg/contact_bg_1.png">
-                        <span className="sub-title">Contact With Us!</span>
-                        <h2 className="border-title">Get in Touch</h2>
+                        <span className="sub-title">Get in Touch</span>
+                        
                         {/* <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                         <ContactForm />
                      </div>

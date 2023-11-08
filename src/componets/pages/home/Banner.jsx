@@ -60,8 +60,7 @@ function Banner() {
                            setIsOpen(false)
                         }}
                      >
-                        <i class="fa-solid fa-circle-xmark"></i>
-                     </button>
+                        </button>
                   </Modal>
                   <div className="hero-shape shape1"><img src="assets/img/hero/shape_1_1.png" alt="shape" /></div>
                   <div className="hero-shape shape2"><img src="assets/img/hero/shape_1_2.png" alt="shape" /></div>
