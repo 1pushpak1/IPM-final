@@ -13,18 +13,17 @@ function Contact() {
                </div>
             </div> */}
                <div className="row">
-                  <div className="col-xl-5 mb-30 mb-xl-0">
-                     <div className="me-xxl-5 mt-40">
+                  <div className="col-xl-8 contact-div">
+                     <div className="me-xxl-5">
                      {/* <div className="wcu-img-1"> */}
 
-                        <div className="mb-2 mb-md-5 mx-auto" width="272px" height="214px"><img src="https://ik.imagekit.io/yhoez8no8al/admission/book-consultation-illustration.svg?tr=w-272,bl-6,f-avif" alt="img" /></div>
+                        <div className="mb-1 mx-auto" width="272px" height="214px"><img src="https://ik.imagekit.io/yhoez8no8al/admission/book-consultation-illustration.svg?tr=w-272,bl-6,f-avif" alt="img" /></div>
                         {/* </div> */}
                         <div className="title-area mb-25">
-
                            <h2 className="border-title h3">Book a Consultation</h2>
                         </div>
                         <p className="mt-n2 mb-25">Have a dream college that you want to get into, but confused with the process? No worries.<br/>
-                        <br/>Book a consultation with us today and we will get back to you within 2 hours.</p>
+                        Book a consultation with us today and we will get back to you within 2 hours.</p>
                         {/* <div className="contact-feature">
                            <div className="contact-feature-icon"><i className="fal fa-location-dot"></i></div>
                            <div className="media-body">
@@ -49,7 +48,7 @@ function Contact() {
                         </div> */}
                      </div>
                   </div>
-                  <div className="col-xl-8">
+                  <div className="col-xl-8 contact-div">
                      <div className="contact-form-wrap" data-bg-src="assets/img/bg/contact_bg_1.png">
                                                 
                         {/* <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}

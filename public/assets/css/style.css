@@ -5549,20 +5549,30 @@ ol.wp-block-rss {
   z-index: 100;
 }
 
+#modal-root .space {
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 #modal-root>div>div>div {
-  width: max(60%, 380px);
-  height: 65%;
+  width: max(80%, 380px);
+  height: 80%;
   /* position: absolute; */
   inset: 0 !important;
   border: none !important;
   /* background: white !important; */
-  overflow: auto;
+  overflow: hidden !important;
   border-radius: 4px;
   outline: none;
   padding: 10px !important;
   top: 50% !important;
   left: 50% !important;
   transform: translate(-50%, -50%) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer-text {
@@ -6588,6 +6598,10 @@ ol.wp-block-rss {
   /* Extra small devices */
 }
 
+.contact-div {
+  width: 50%;
+}
+
 @media (min-width: 1922px) {
   .header-layout-default .menu-area {
     padding: 0 188px 0 130px;
@@ -6603,6 +6617,16 @@ ol.wp-block-rss {
 @media (max-width: 575px) {
   .header-layout-default .menu-area {
     padding: 0;
+  }
+
+  #modal-root>div>div>div {
+    overflow: auto !important;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .contact-div {
+    width: 100% !important;
   }
 }
 
@@ -25138,5 +25162,5 @@ input:-internal-autofill-selected {
 
 /*# sourceMappingURL=style.css.map */
 .my-modal {
-  height: 80%;   
- } 
+  height: 80%;
+}
