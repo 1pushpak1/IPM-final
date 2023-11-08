@@ -13,7 +13,7 @@ function Contact() {
                </div>
             </div> */}
                <div className="row">
-                  <div className="col-xl-5 mb-30 mb-xl-0">
+                  <div className="col-xl-3 mb-30 mb-xl-0">
                      <div className="me-xxl-5 mt-40">
                      {/* <div className="wcu-img-1"> */}
 
@@ -49,7 +49,7 @@ function Contact() {
                         </div> */}
                      </div>
                   </div>
-                  <div className="col-xl-7">
+                  <div className="col-xl-8">
                      <div className="contact-form-wrap" data-bg-src="assets/img/bg/contact_bg_1.png">
                                                 
                         {/* <p className="mt-n1 mb-30 sec-text">Lorem ipsum dolor sit amet adipiscing elit, sed do eiusmod tempor eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
