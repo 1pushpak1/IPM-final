@@ -1926,7 +1926,7 @@ textarea.is-invalid {
   border-top: 1px solid #fdedf1;
 }
 
-.th-mobile-menu ul li a {
+.th-mobile-menu ul li a, .th-mobile-menu ul li summary {
   display: block;
   position: relative;
   padding: 12px 0;
@@ -1937,7 +1937,7 @@ textarea.is-invalid {
   padding-left: 18px;
 }
 
-.th-mobile-menu ul li a:before {
+.th-mobile-menu ul li a:before, .th-mobile-menu ul li summary:before {
   content: '\f105';
   font-family: var(--icon-font);
   position: absolute;
